@@ -1,0 +1,74 @@
+[
+  {
+    "cat": "Production",
+    "assets_int": 9464,
+    "assets_int_excl_adhoc": 9458,
+    "assets_alloc": 9458,
+    "amt_alloc": 152709768678.28,
+    "share_assets": 0.1072,
+    "share_amt": 0.315
+  },
+  {
+    "cat": "Logistics & Sustainment",
+    "assets_int": 25598,
+    "assets_int_excl_adhoc": 25597,
+    "assets_alloc": 25597,
+    "amt_alloc": 134101880974.266,
+    "share_assets": 0.2899,
+    "share_amt": 0.2767
+  },
+  {
+    "cat": "Services",
+    "assets_int": 33023,
+    "assets_int_excl_adhoc": 33023,
+    "assets_alloc": 33023,
+    "amt_alloc": 108539427077.02,
+    "share_assets": 0.374,
+    "share_amt": 0.2239
+  },
+  {
+    "cat": "Innovation",
+    "assets_int": 12528,
+    "assets_int_excl_adhoc": 6763,
+    "assets_alloc": 6763,
+    "amt_alloc": 54113152990.62,
+    "share_assets": 0.1419,
+    "share_amt": 0.1116
+  },
+  {
+    "cat": "Construction",
+    "assets_int": 4891,
+    "assets_int_excl_adhoc": 4891,
+    "assets_alloc": 4891,
+    "amt_alloc": 32999757491.96,
+    "share_assets": 0.0554,
+    "share_amt": 0.0681
+  },
+  {
+    "cat": "Workforce training",
+    "assets_int": 2640,
+    "assets_int_excl_adhoc": 2640,
+    "assets_alloc": 2640,
+    "amt_alloc": 2266927561.48,
+    "share_assets": 0.0299,
+    "share_amt": 0.0047
+  },
+  {
+    "cat": "Innovation Intermediaries",
+    "assets_int": 104,
+    "assets_int_excl_adhoc": 104,
+    "assets_alloc": 104,
+    "amt_alloc": 0,
+    "share_assets": 0.0012,
+    "share_amt": 0
+  },
+  {
+    "cat": "Unclassified",
+    "assets_int": 38,
+    "assets_int_excl_adhoc": 0,
+    "assets_alloc": 0,
+    "amt_alloc": 0,
+    "share_assets": 0.0004,
+    "share_amt": 0
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "base_std": "USASpending",
+    "organization_name": "New England Airfoil Products INC",
+    "city": "Farmington, CT",
+    "state_code": "CT",
+    "county_fips_5": "09003",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Okinawa Idemitsu K.k.",
+    "city": "NAKAGAMI-GUN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Canadian Commercial Corporation",
+    "city": "Ottawa, ON",
+    "state_code": "ON",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ministry of Defense",
+    "city": "SHINJUKU-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Motor Oil (Hellas) Corinth Refineries S.a.",
+    "city": "MAROUSSI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "s-Oil Corporation",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kongsberg Defence & Aerospace as",
+    "city": "KONGSBERG",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gdc Middle East Company",
+    "city": "RIYADH (AL)",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Bae Systems Gcs International Limited",
+    "city": "BARROW-IN-FURNESS",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nammo Perry INC.",
+    "city": "Perry, FL",
+    "state_code": "FL",
+    "county_fips_5": "12123",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Core Tech-Hdcc-Kajima LLC",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ram-System Gmbh",
+    "city": "OTTOBRUNN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Black Construction-Tutor Perini Jv",
+    "city": "HARMON",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Global Food Services Company",
+    "city": "KUWAIT CITY",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "So-Pak-CO, INC",
+    "city": "Mullins, SC",
+    "state_code": "SC",
+    "county_fips_5": "45067",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nfenergia LLC",
+    "city": "San Juan, PR",
+    "state_code": "PR",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Qatex Limited",
+    "city": "DOHA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "S.c.a. - Shipping Consultants Associated LTD.",
+    "city": "CHATHAM",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Aerospace Composite Center, LLC",
+    "city": "Hazelwood, MO",
+    "state_code": "MO",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Alsalam Aerospace Industries Company",
+    "city": "RIYADH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "American Engineering Corporation",
+    "city": "GINOWAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nippo Corporation",
+    "city": "CHUO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ocean Fair International Ship Chandleing LLC",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mid-Atlantic Coatings INC",
+    "city": "Chesapeake, VA",
+    "state_code": "VA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rekord Hale Namiotowe Sp. z O.o.",
+    "city": "WROCLAW",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Core Tech-Hdcc-Kajima LLC",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Global Pacific Design Builders, LLC",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Efs Ebrex Sarl",
+    "city": "Geneve, GE",
+    "state_code": "GE",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Loyalty Support Services",
+    "city": "AL JEEZA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sk Energy CO., LTD.",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pacific Rim Constructors INC",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "South National for Logistics LLC",
+    "city": "AMMAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Cianbro Corporation",
+    "city": "Pittsfield, ME",
+    "state_code": "ME",
+    "county_fips_5": "23025",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mb Aerospace Newton Abbot Limited",
+    "city": "NEWTON ABBOT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pond Security Service Gmbh",
+    "city": "ERLENSEE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Stampede Ventures, INC.",
+    "city": "Nome, AK",
+    "state_code": "AK",
+    "county_fips_5": "02180",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fokker Aerostructures B.v.",
+    "city": "HOOGEVEEN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Austability Pty LTD",
+    "city": "BARTON",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Moeve S.a.",
+    "city": "MADRID",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Martin-Baker Aircraft Company Limited",
+    "city": "UXBRIDGE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Korea Electric Power Corporation",
+    "city": "NAJU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Virginia Department of Military Affairs",
+    "city": "Blackstone, VA",
+    "state_code": "VA",
+    "county_fips_5": "51025",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Moeve S.a.",
+    "city": "MADRID",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Insitu, INC.",
+    "city": "Bingen, WA",
+    "state_code": "WA",
+    "county_fips_5": "53039",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fibrotex USA INC",
+    "city": "Stearns, KY",
+    "state_code": "KY",
+    "county_fips_5": "21147",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Alzchem Trostberg Gmbh",
+    "city": "TROSTBERG",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gkn Aerospace St. Louis LLC",
+    "city": "Hazelwood, MO",
+    "state_code": "MO",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Macdermid Enthone INC.",
+    "city": "West Haven, CT",
+    "state_code": "CT",
+    "county_fips_5": "09009",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tokyu Construction-Kanehide Construction Jv",
+    "city": "FUKUOKA CITY",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tepco Energy Partner, Incorporated",
+    "city": "CHUO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Icm S.p.a.",
+    "city": "VICENZA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pacific Federal Management INC",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Greenbrier Government Solutions INC",
+    "city": "Oceana, WV",
+    "state_code": "WV",
+    "county_fips_5": "54109",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Celeen LLC",
+    "city": "Perryville, MO",
+    "state_code": "MO",
+    "county_fips_5": "29157",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gkn Aerospace Services Limited",
+    "city": "EAST COWES",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Seatrium Repairs & Upgrades Pte. LTD.",
+    "city": "SINGAPORE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Native American Services CORP.",
+    "city": "Kellogg, ID",
+    "state_code": "ID",
+    "county_fips_5": "16079",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "s & k Aerospace, LLC",
+    "city": "Saint Ignatius, MT",
+    "state_code": "MT",
+    "county_fips_5": "30047",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Davenport Aviation INC",
+    "city": "Blackstone, VA",
+    "state_code": "VA",
+    "county_fips_5": "51135",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sumitomo Heavy Industries, LTD",
+    "city": "YOKOSUKA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Southeastern Computer Consultants, INC.",
+    "city": "King George, VA",
+    "state_code": "VA",
+    "county_fips_5": "51099",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Theodor Wille Intertrade Gmbh",
+    "city": "ZUG",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "s & k Federal Services LLC",
+    "city": "Saint Ignatius, MT",
+    "state_code": "MT",
+    "county_fips_5": "30047",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pearson Engineering Limited",
+    "city": "NEWCASTLE-UPON-TYNE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "W. G. Yates & Sons Construction Company",
+    "city": "Philadelphia, MS",
+    "state_code": "MS",
+    "county_fips_5": "28099",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Wayss & Freytag Ingenieurbau Ag",
+    "city": "FRANKFURT AM MAIN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gs Caltex Corporation",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Marshall of Cambridge Aerospace Limited",
+    "city": "CAMBRIDGE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Man Energy Solutions Middle East L.l.c",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Insight Global, LLC",
+    "city": "Atlanta, GA",
+    "state_code": "GA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Taylor Defense Products, LLC",
+    "city": "Louisville, MS",
+    "state_code": "MS",
+    "county_fips_5": "28159",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "American Engineering Corporation",
+    "city": "GINOWAN-SHI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Vectrus Federal Services Gmbh",
+    "city": "KAISERSLAUTERN",
+    "state_code": null,
+    "county_fips_5": "20163",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Philippine Coastal Storage & Pipeline Corporation",
+    "city": "SUBIC BAY FREEPORT ZONE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Iceland Prime Contractor LTD",
+    "city": "REYKJAVIK",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Hanwha Ocean CO., LTD.",
+    "city": "GEOJE-SI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Modern International INC",
+    "city": "BARRIGADA",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Cabras Marine Corporation",
+    "city": "PITI",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pacific Unlimited INC",
+    "city": "BARRIGADA",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Elbit Systems - Cyclone LTD",
+    "city": "KARMIEL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sociedad Espanola De Montajes Industriales Sa",
+    "city": "MADRID",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Black Construction/Mace International Joint Venture",
+    "city": "HARMON",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fargo Pacific INC.",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Inussuk a/s",
+    "city": "NUUSSUAQ",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "US Foods INC",
+    "city": "Salem, MO",
+    "state_code": "MO",
+    "county_fips_5": "29065",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "77 Insaat Ve Taahhut Anonim Sirketi",
+    "city": "UMRANIYE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Aecom International INC.",
+    "city": "NEU-ISENBURG",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Korea Steel",
+    "city": "GIMHAE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Simmonds Precision Products INC",
+    "city": "Vergennes, VT",
+    "state_code": "VT",
+    "county_fips_5": "50001",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ferra Engineering Pty. LTD.",
+    "city": "TINGALPA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nfe Power Pr LLC",
+    "city": "San Juan, PR",
+    "state_code": "PR",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Usibelli Coal Mine, INC.",
+    "city": "Healy, AK",
+    "state_code": "AK",
+    "county_fips_5": "02068",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Infratech International, LLC",
+    "city": "HARMON",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Servcore Resources & Services Solutions LTD",
+    "city": "ABU DHABI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "M&e Global Resources Limited",
+    "city": "BELBROUGHTON",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kimura Kogyo LTD.",
+    "city": "IWAKUNI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Inussuk a/s",
+    "city": "NUUSSUAQ",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Efs Ebrex Sarl",
+    "city": "GENEVE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Porr Government Services Gmbh",
+    "city": "KAISERSLAUTERN",
+    "state_code": null,
+    "county_fips_5": "20163",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Techni-Con, INC",
+    "city": "MANGILAO",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Jll-Midnight Sun Ifms LLC",
+    "city": "Kotzebue, AK",
+    "state_code": "AK",
+    "county_fips_5": "02188",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Schutt Industries of Clintonville, Wis., INC.",
+    "city": "Clintonville, WI",
+    "state_code": "WI",
+    "county_fips_5": "55135",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gilbane Japan Gk",
+    "city": "CHUO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ske Support Services Gmbh",
+    "city": "GOLDBACH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pacific Design Builders, LLC",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Saab Dynamics Aktiebolag",
+    "city": "KARLSKOGA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Yokohama Engineering Works, LTD.",
+    "city": "YOKOHAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sumiju Yokosuka Kogyo CO., LTD.",
+    "city": "YOKOSUKA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fluor Intercontinental Germany Gmbh",
+    "city": "RATINGEN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Stonewin Capital LP",
+    "city": "EDINBURGH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Seong Bo Const.ind.co.,ltd.",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sumitomo Heavy Industries, LTD",
+    "city": "SHINAGAWA-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tokyu Construction CO., LTD.",
+    "city": "TOKYO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nihon Meccs CO.,ltd.",
+    "city": "CHUO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Inchcape Shipping Services Dubai LLC",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Roen Salvage CO.",
+    "city": "Sturgeon Bay, WI",
+    "state_code": "WI",
+    "county_fips_5": "55029",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Cherokee Nation Aerospace and Defense, L.l.c.",
+    "city": "Stilwell, OK",
+    "state_code": "OK",
+    "county_fips_5": "40001",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Alaska Northstar Resources LLC",
+    "city": "Sitka, AK",
+    "state_code": "AK",
+    "county_fips_5": "02220",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fokker Elmo B.v.",
+    "city": "PAPENDRECHT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rosyth Royal Dockyard Limited",
+    "city": "DUNFERMLINE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Exeo-Nakamoto Kogyo Jv",
+    "city": "OKINAWA CITY",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "World Fuel Services (Singapore) Pte LTD",
+    "city": "SINGAPORE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Obayashi Cms Jv",
+    "city": "MINATO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tata Boeing Aerospace Limited",
+    "city": "HYDERABAD",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Hsg Park Joint Venture 2, LLC",
+    "city": "Harvey, ND",
+    "state_code": "ND",
+    "county_fips_5": "38103",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Safran Landing Systems",
+    "city": "VELIZY VILLACOUBLAY",
+    "state_code": null,
+    "county_fips_5": "48177",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Global Food Services Company",
+    "city": "AL JAHRA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Saab Dynamics Aktiebolag",
+    "city": "KARLSKOGA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ichiken CO LTD",
+    "city": "MINATO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Black Micro Corporation",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Jv Ske Italy 2012",
+    "city": "VICENZA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mitsubishi Heavy Industries, LTD",
+    "city": "YOKOHAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Patriot Machine, INC.",
+    "city": "Saint Charles, MO",
+    "state_code": "MO",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Israel Aerospace Industries LTD. Aviation Group Lahav",
+    "city": "LOD",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sabena Aerospace Engineering",
+    "city": "WOLUWE SAINT LAMBERT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Empresa De Construccion y Transporte Eterna S.a. De C.v.",
+    "city": "SAN PEDRO SULA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Cheroenhaka Nottoway Enterprises, LLC",
+    "city": "Courtland, VA",
+    "state_code": "VA",
+    "county_fips_5": "51175",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "United Capital Investments Group",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Alaska Northstar Resources LLC",
+    "city": "Sitka, AK",
+    "state_code": "AK",
+    "county_fips_5": "02220",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Apco Technologies Sa",
+    "city": "AIGLE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mcrae Industries INC",
+    "city": "Mount Gilead, NC",
+    "state_code": "NC",
+    "county_fips_5": "37123",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Brodogradiliste Viktor Lenac D.d.",
+    "city": "RIJEKA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sielman S.a.",
+    "city": "VOLOS",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Grayling Township",
+    "city": "Grayling, MI",
+    "state_code": "MI",
+    "county_fips_5": "26039",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Solaris Energy Dmcc",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gilbane Japan Gk",
+    "city": "CHUO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Intracom Defense S.a.",
+    "city": "KOROPI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Masar Al-Tamkeen Company for Oil and Diesel Services Limited",
+    "city": "ERBIL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fusheng Precision CO., LTD.",
+    "city": "TAOYUAN CITY",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kituwah Services, LLC",
+    "city": "Whittier, NC",
+    "state_code": "NC",
+    "county_fips_5": "37099",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fairlead Integrated LLC",
+    "city": "Portsmouth, VA",
+    "state_code": "VA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Morrish-Wallace Construction, INC.",
+    "city": "Cheboygan, MI",
+    "state_code": "MI",
+    "county_fips_5": "26031",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "The Chugoku Electric Power Company, Incorporated",
+    "city": "HIROSHIMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Netops Solutions INC.",
+    "city": "Bowie, MD",
+    "state_code": "MD",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Potelco INC",
+    "city": "Sumner, WA",
+    "state_code": "WA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "International Towers LLC",
+    "city": "Saint Ignatius, MT",
+    "state_code": "MT",
+    "county_fips_5": "30047",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Midmac Contracting Company W.l.l",
+    "city": "DOHA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "General Atomics Aerotec Systems Gmbh",
+    "city": "GAUTING",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Qatar Fuel (Woqod)",
+    "city": "DOHA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Serrano Construction and Development CORP.",
+    "city": "BARRIGADA",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ian Corporation",
+    "city": "BARRIGADA",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mickan Generalbaugesellschaft Amberg Mbh & CO. Kg",
+    "city": "AMBERG",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Goodrich Actuation Systems Sas",
+    "city": "SAINT-MARCEL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "World Fuel Services Europe, LTD.",
+    "city": "LONDON",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Yeajin E&c CO.,ltd.",
+    "city": "DAEGU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "University of Connecticut",
+    "city": "Storrs Mansfield, CT",
+    "state_code": "CT",
+    "county_fips_5": "09013",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Krbcfs-Maguire O'hara Joint Venture",
+    "city": "Kake, AK",
+    "state_code": "AK",
+    "county_fips_5": "02195",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Drs Advanced Isr LLC",
+    "city": "Fort Walton Beach, FL",
+    "state_code": "FL",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Cosmo Oil Marketing CO., LTD.",
+    "city": "MINATO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Huneed Technologies CO., LTD.",
+    "city": "INCHEON",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pci Aviation LLC",
+    "city": "Atmore, AL",
+    "state_code": "AL",
+    "county_fips_5": "01053",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "New Mexico Institute of Mining and Technology",
+    "city": "Socorro, NM",
+    "state_code": "NM",
+    "county_fips_5": "35053",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Raytheon Systems Limited",
+    "city": "HARLOW",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Action Logistics Company",
+    "city": "JAHRA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Leonardo Uk LTD",
+    "city": "LUTON",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "g-Con Sp. z O.o.",
+    "city": "WARSZAWA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tychon, LLC",
+    "city": "Fredericksbrg, VA",
+    "state_code": "VA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Iveco Defence Vehicles S.p.a.",
+    "city": "BOLZANO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Puyenpa Construction, LLC",
+    "city": "Duckwater, NV",
+    "state_code": "NV",
+    "county_fips_5": "32033",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rio Grande Electric Cooperative, INC.",
+    "city": "Brackettville, TX",
+    "state_code": "TX",
+    "county_fips_5": "48271",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Utm Limited",
+    "city": "BURY ST EDMUNDS",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ho-Chunk Shared Services Company",
+    "city": "Winnebago, NE",
+    "state_code": "NE",
+    "county_fips_5": "31173",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ihit-Jv, LLC",
+    "city": "Dillingham, AK",
+    "state_code": "AK",
+    "county_fips_5": "02070",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Terma Aerostructures a/s",
+    "city": "GRENAA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ids Operations LTD",
+    "city": "NUNEATON",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Jv Joc Germany Bms",
+    "city": "GOLDBACH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Honeywell Limited",
+    "city": "CAMBRIDGE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ske & Vfs Jv",
+    "city": "GOLDBACH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ryuseki Corporation",
+    "city": "URASOE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Minerva Bunkering Pte. LTD.",
+    "city": "SINGAPORE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Military Services Australia Pty. LTD.",
+    "city": "MURARRIE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Aml Global Limited",
+    "city": "CENTRAL DISTRICT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Yuil Eng. & Const. CO.,ltd",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fleishman-Hillard INC",
+    "city": "Washington, DC",
+    "state_code": "DC",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Glasgow Prestwick Airport Limited",
+    "city": "PRESTWICK",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tokyo Gas CO.,ltd.",
+    "city": "MINATO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Joeun System CORP.",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Lakota Solutions LLC",
+    "city": "Sitka, AK",
+    "state_code": "AK",
+    "county_fips_5": "02220",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ske Technical Services Gmbh",
+    "city": "GOLDBACH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Eiffage Infraestructuras Sau",
+    "city": "DOS HERMANAS",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sori E&c CO.,ltd",
+    "city": "GUNSAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Star Energy Resources LTD",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Randy Kinder Excavating INC",
+    "city": "Dexter, MO",
+    "state_code": "MO",
+    "county_fips_5": "29207",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Exxonmobil Marine Limited",
+    "city": "LEATHERHEAD",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Wright & Wright Machinery CO., INC.",
+    "city": "Monticello, KY",
+    "state_code": "KY",
+    "county_fips_5": "21231",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Cam Lock Limited",
+    "city": "ALDERSHOT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sunglim Engineering & Construction CO., LTD",
+    "city": "PUSAN",
+    "state_code": null,
+    "county_fips_5": "17075",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rice Services, INC.",
+    "city": "Smithville, TN",
+    "state_code": "TN",
+    "county_fips_5": "47041",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kyunan CO., LTD.",
+    "city": "MIYAKONOJO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Thales Dms France Sas",
+    "city": "VALBONNE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Strabag Epitoipari Zartkoruen Mukodo Reszvenytarsasag",
+    "city": "BUDAPEST",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Jlg Industries, INC.",
+    "city": "Mcconnellsburg, PA",
+    "state_code": "PA",
+    "county_fips_5": "42057",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pacific Rim Constructors INC",
+    "city": "DEDEDO",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Infopoint LLC",
+    "city": "Novi, MI",
+    "state_code": "MI",
+    "county_fips_5": "26157",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pci Support Services LLC",
+    "city": "Atmore, AL",
+    "state_code": "AL",
+    "county_fips_5": "01053",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tusas Motor Sanayii A.s.",
+    "city": "ESKISEHIR",
+    "state_code": null,
+    "county_fips_5": "54097",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Wdc Acquisition LLC",
+    "city": "Creston, IA",
+    "state_code": "IA",
+    "county_fips_5": "19175",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Braxton Manufacturing Company, INC.",
+    "city": "Watertown, CT",
+    "state_code": "CT",
+    "county_fips_5": "09005",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "F. K. Horn Gmbh & CO. Kg-Bauunternehmung",
+    "city": "KAISERSLAUTERN",
+    "state_code": null,
+    "county_fips_5": "20147",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fleet Canada INC.",
+    "city": "FORT ERIE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Reliable Builders INC",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Aleut Construction LLC",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Seikitokyu Kogyo CO., LTD.",
+    "city": "AKISHIMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kemco Tool and Machine CO, INC",
+    "city": "Saint Louis, MO",
+    "state_code": "MO",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Point Blank Protective Apparel & Uniforms, LLC",
+    "city": "GUANICA",
+    "state_code": null,
+    "county_fips_5": "72055",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fuji Construction CO.,ltd.",
+    "city": "GINOWAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Chemring Australia Pty LTD",
+    "city": "LARA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Guam Industrial Services INC",
+    "city": "AGAT",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mitomo CO., LTD.",
+    "city": "YOKOHAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ward Burton Wildlife Foundation",
+    "city": "Halifax, VA",
+    "state_code": "VA",
+    "county_fips_5": "51083",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Puyenpa Technologies, LLC",
+    "city": "Duckwater, NV",
+    "state_code": "NV",
+    "county_fips_5": "32033",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Lk Construction CO., LTD.",
+    "city": "GUNSAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ske Srl",
+    "city": "VICENZA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sahara Palms INC",
+    "city": "Fruitland, UT",
+    "state_code": "UT",
+    "county_fips_5": "49013",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Goodwin Steel Castings Limited",
+    "city": "STOKE-ON-TRENT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Red Star Enterprises Limited Fzco",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tesat-Spacecom Gmbh & CO. Kg",
+    "city": "BACKNANG",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Herve Cody Contractor LLC",
+    "city": "Robbinsville, NC",
+    "state_code": "NC",
+    "county_fips_5": "37075",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Officine Meccaniche Navali e Fonderie San Giorgio Del Porto S.p.a.",
+    "city": "GENOVA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Day & Zimmermann Kansas LLC",
+    "city": "Parsons, KS",
+    "state_code": "KS",
+    "county_fips_5": "20099",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Adserballe & Knudsen Greenland a/s",
+    "city": "HILLEROD",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Butler America Aerospace, LLC",
+    "city": "Shelton, CT",
+    "state_code": "CT",
+    "county_fips_5": "09001",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Delta Point LLC",
+    "city": "King Cove, AK",
+    "state_code": "AK",
+    "county_fips_5": "02013",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tip Top Construction CORP",
+    "city": "CHRISTIANSTED",
+    "state_code": null,
+    "county_fips_5": "78010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ud Contracting INC",
+    "city": "Leitchfield, KY",
+    "state_code": "KY",
+    "county_fips_5": "21085",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Porr Government Services Italy Srl",
+    "city": "VICENZA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nippi Corporation",
+    "city": "YAMATO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Broshuis B.v.",
+    "city": "KAMPEN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Bae Systems Surface Ships Limited",
+    "city": "PORTSMOUTH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tecc Corporation",
+    "city": "YOKOHAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Canoochee Electric Membership CORP",
+    "city": "Reidsville, GA",
+    "state_code": "GA",
+    "county_fips_5": "13267",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Koontz Electric Company, Incorporated",
+    "city": "Morrilton, AR",
+    "state_code": "AR",
+    "county_fips_5": "05029",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rfd Beaufort Limited",
+    "city": "ELLESMERE PORT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Toda-Nudp Jv",
+    "city": "GINOWAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kumsung Construction CO., LTD.",
+    "city": "DAEJEON",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Baseblue LTD",
+    "city": "LIMASSOL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Makerere University Walter Reed Program Limited",
+    "city": null,
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Cosmo Oil Marketing CO., LTD.",
+    "city": "MINATO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Elektro-Krueck-Gmbh, Elektroinstallationen",
+    "city": "GRUENSTADT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Delta Defense Services Jv LLC",
+    "city": "King Cove, AK",
+    "state_code": "AK",
+    "county_fips_5": "02013",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Abu Dhabi National Oil Company for Distribution Pjsc",
+    "city": "ABU DHABI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Outdoor Venture CORP",
+    "city": "Stearns, KY",
+    "state_code": "KY",
+    "county_fips_5": "21147",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Subic Drydock Corporation",
+    "city": "OLONGAPO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Cottrell Contracting Corporation",
+    "city": "Chesapeake, VA",
+    "state_code": "VA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Arab Shipbuilding & Repair Yard CO. (Asry)",
+    "city": "HIDD",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fn Herstal",
+    "city": "HERSTAL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "C.c. Pines Pty. Limited",
+    "city": "OXFORD FALLS",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Orizon Aerostructures - Grove, INC",
+    "city": "Grove, OK",
+    "state_code": "OK",
+    "county_fips_5": "40041",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Avcorp Industries, INC",
+    "city": "DELTA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Meco Company LLC",
+    "city": "Paris, IL",
+    "state_code": "IL",
+    "county_fips_5": "17045",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mitomo CO., LTD.",
+    "city": "YOKOHAMA-SHI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tunica-Biloxi Lemoine, LLC",
+    "city": "Mansura, LA",
+    "state_code": "LA",
+    "county_fips_5": "22009",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Atlantic Inertial Systems Limited",
+    "city": "PLYMOUTH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Chenfull Precision CO. LTD",
+    "city": "TAICHUNG CITY",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Hamilton Sundstrand Customer Support Center Maastricht B.v.",
+    "city": "MAASTRICHT-AIRPORT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Budney Aerospace, INC",
+    "city": "Berlin, CT",
+    "state_code": "CT",
+    "county_fips_5": "09003",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Flatwater Professional Services Company",
+    "city": "Winnebago, NE",
+    "state_code": "NE",
+    "county_fips_5": "31173",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ttm Printed Circuit Group LLC",
+    "city": "Stafford Springs, CT",
+    "state_code": "CT",
+    "county_fips_5": "09013",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mount Rogers Community Services",
+    "city": "Atkins, VA",
+    "state_code": "VA",
+    "county_fips_5": "51173",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tohoku Electric Power Company Incorporated",
+    "city": "SENDAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Standardaero Atlantic, INC.",
+    "city": "SUMMERSIDE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Campbell Oil CO",
+    "city": "Elizabethtown, NC",
+    "state_code": "NC",
+    "county_fips_5": "37017",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kollmorgen CORP",
+    "city": "Radford, VA",
+    "state_code": "VA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pcx Aerosystems Enfield, LLC",
+    "city": "Enfield, CT",
+    "state_code": "CT",
+    "county_fips_5": "09003",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Witco Industries LTD.",
+    "city": "GINOWAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mina Group Fzco",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Merit International",
+    "city": "FARWANIYA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sasmos Het Technologies Limited",
+    "city": "BANGALORE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "g d Arab Limited Company",
+    "city": "RIYADH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Israel Aerospace Industries LTD. Aviation Group Lahav",
+    "city": "LOD AIRPORT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Dongwon Loex CO., LTD.",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Samchully CO.,ltd.",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gulf Coast Electric Cooperative INC",
+    "city": "Wewahitchka, FL",
+    "state_code": "FL",
+    "county_fips_5": "12045",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Acty CO., LTD.",
+    "city": "OKAYAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Dynamic-Hhs Jv, LLC",
+    "city": "Winnebago, NE",
+    "state_code": "NE",
+    "county_fips_5": "31173",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fokker Aerostructures B.v.",
+    "city": "PAPENDRECHT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nikken Sogyo CO., LTD.",
+    "city": "TOSHIMA-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Eneos Corporation",
+    "city": "CHIYODA-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Lubwell Corporation",
+    "city": "PAMPANGA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Buyo Gas CO.,ltd.",
+    "city": "FUSSA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Arcadis INC.",
+    "city": "Washington, DC",
+    "state_code": "DC",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Protection Unit",
+    "city": "SAINT-GEORGES-SUR-MEUSE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Areaka Trading & Logistics Company",
+    "city": "AMMAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Meccs Mitomo Jv",
+    "city": "CHUO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kilgore Flares Company LLC",
+    "city": "Toone, TN",
+    "state_code": "TN",
+    "county_fips_5": "47069",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ruag Ag",
+    "city": "EMMEN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Alterna Energy Pte. LTD.",
+    "city": "SINGAPORE",
+    "state_code": null,
+    "county_fips_5": "50019",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Flint Electric Membership CORP",
+    "city": "Reynolds, GA",
+    "state_code": "GA",
+    "county_fips_5": "13269",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Guahan Waste Control, INC.",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rhenus Midgard Gmbh & CO. Kg",
+    "city": "NORDENHAM",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Elektro-Krueck-Gmbh, Elektroinstallationen",
+    "city": "GRUNSTADT",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Point Junction Car Rental",
+    "city": "DOHA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Quesenberrys INC",
+    "city": "Big Stone Gap, VA",
+    "state_code": "VA",
+    "county_fips_5": "51195",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ohishi Construction CO. LTD",
+    "city": "SASEBO-SHI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Roller Bearing CO of America, INC",
+    "city": "Oxford, CT",
+    "state_code": "CT",
+    "county_fips_5": "09009",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Subaru Corporation",
+    "city": "SHIBUYA-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ferra Aerospace, INC",
+    "city": "Grove, OK",
+    "state_code": "OK",
+    "county_fips_5": "40041",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Aerial Machine & Tool Corporation",
+    "city": "Meadows Of Dan, VA",
+    "state_code": "VA",
+    "county_fips_5": "51141",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Imi Systems LTD",
+    "city": "RAMAT HASHARON",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Scandinavian Biopharma Holding Ab",
+    "city": "SOLNA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Yabudoken CO.",
+    "city": "NAGO-SHI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "S.e.t. - Pacific, INC.",
+    "city": "Tamuning, GU",
+    "state_code": "GU",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Puyenpa Services, LLC",
+    "city": "Duckwater, NV",
+    "state_code": "NV",
+    "county_fips_5": "32033",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Malones Cnc Machining INC",
+    "city": "Grove, OK",
+    "state_code": "OK",
+    "county_fips_5": "40041",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fuduric Gmbh & CO. Kg",
+    "city": "SCHRIESHEIM",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Shinko CO.,ltd.",
+    "city": "SASEBO-SHI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Centre for Infectious Disease Research in Zambia Limited",
+    "city": null,
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Marcom Services, LLC",
+    "city": "Portsmouth, VA",
+    "state_code": "VA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pearson Engineering Limited",
+    "city": "NEWCASTLE UPON TYNE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sued-Muell Gmbh & CO. Kg Fuer Abfalltransporte Und Sonderabfallbeseitigung",
+    "city": "HESSHEIM",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Global Systemized Industry",
+    "city": "SEONGNAM-SI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "b & d Electric, INC.",
+    "city": "Shoals, IN",
+    "state_code": "IN",
+    "county_fips_5": "18101",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Jag Alaska INC.",
+    "city": "Seward, AK",
+    "state_code": "AK",
+    "county_fips_5": "02122",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rolls-Royce Deutschland LTD & CO Kg",
+    "city": "BLANKENFELDE-MAHLOW",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ultra Electronics Tcs INC",
+    "city": "Montreal, QC",
+    "state_code": "QC",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Little River Government Contracting, LLC",
+    "city": "Manistee, MI",
+    "state_code": "MI",
+    "county_fips_5": "26101",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rheinmetall Waffe Munition Gmbh",
+    "city": "UNTERLÜSS",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Edman Bryan LLC",
+    "city": "Granite Falls, MN",
+    "state_code": "MN",
+    "county_fips_5": "27023",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tata Lockheed Martin Aerostructures Limited",
+    "city": "HYDERABAD",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "s & k Logistics Services LLC",
+    "city": "Saint Ignatius, MT",
+    "state_code": "MT",
+    "county_fips_5": "30047",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sakom Fzco",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Al Faris Equipment Rentals L.l.c",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Smit Singapore Pte LTD",
+    "city": "SINGAPORE",
+    "state_code": null,
+    "county_fips_5": "17165",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pivetta Brothers Construction INC",
+    "city": "Sumner, WA",
+    "state_code": "WA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Downie Jones Ship Stores Limited",
+    "city": "WAN CHAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Beyond Gravity Schweiz Ag",
+    "city": "EMMEN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Heritage-M2c1 Joint Venture",
+    "city": "Delta Junction, AK",
+    "state_code": "AK",
+    "county_fips_5": "02240",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sankyo Reinetsu CO.,ltd.",
+    "city": "FUKUYAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Al Jazy Trading Company",
+    "city": "AMMAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ip&e Holdings, LLC",
+    "city": "TAMUNING",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "The Bahrain Petroleum Company Bsc (Closed)",
+    "city": "AWALI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Heritage-M2c1 Joint Venture",
+    "city": "Delta Junction, AK",
+    "state_code": "AK",
+    "county_fips_5": "02240",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "World Fuel Services Trading Dmcc",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Air New Zealand Limited",
+    "city": "CHRISTCHURCH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Applied Technology, INC.",
+    "city": "King George, VA",
+    "state_code": "VA",
+    "county_fips_5": "51099",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Onaka Gumi CO.,ltd.",
+    "city": "URASOE CITY",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Meneses & Mcfadden, Cartor, Vitor Hugo Carvalho, Lda",
+    "city": "PRAIA DA VITORIA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sasebo Heavy Industries CO., LTD.",
+    "city": "SASEBO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Booz Allen Hamilton INC.",
+    "city": "Lexington Park, MD",
+    "state_code": "MD",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Yokosoh CO., LTD.",
+    "city": "YOKOSUKA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Impresa Pizzarotti & C. S.p.a.",
+    "city": "PARMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ambyth Shipping Micronesia, INC.",
+    "city": "SAIPAN",
+    "state_code": null,
+    "county_fips_5": "69110",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Bp Oil International Limited",
+    "city": "MIDDLESEX",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "United Capital Investments Group",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ttm Technologies, INC.",
+    "city": "Stafford Springs, CT",
+    "state_code": "CT",
+    "county_fips_5": "09013",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Vodafone Global Enterprise LTD",
+    "city": "NEWBURY",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Bonatti Ingenieros y Arquitectos Sociedad Anonima",
+    "city": "GUATEMALA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Microboard Processing, INC.",
+    "city": "Seymour, CT",
+    "state_code": "CT",
+    "county_fips_5": "09009",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Leonardo S.p.a.",
+    "city": "MONTEVARCHI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "The University of British Columbia",
+    "city": null,
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gkn Aerospace Services Structures LLC",
+    "city": "Cromwell, CT",
+    "state_code": "CT",
+    "county_fips_5": "09007",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Stantec Consulting Services INC.",
+    "city": "Honolulu, HI",
+    "state_code": "HI",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Per Aarsleff Gronland Aps",
+    "city": "NUUK",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "C.i.v.i.s. Centro Italiano Di Vigilanza Interna e Stradale S.p.a.",
+    "city": "MILANO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Standard Builders INC",
+    "city": "Wethersfield, CT",
+    "state_code": "CT",
+    "county_fips_5": "09003",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Youone Engineering CO.,ltd",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Vg Gozum Construction LLC",
+    "city": "Mongmong, GU",
+    "state_code": "GU",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nippi Kosan CO.,ltd.",
+    "city": "YOKOHAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ptt Oil and Retail Business Public Company Limited",
+    "city": "CHATUCHAK",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Valt Enterprizes, INC.",
+    "city": "Presque Isle, ME",
+    "state_code": "ME",
+    "county_fips_5": "23003",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ican Resources INC",
+    "city": "ASAN",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "University of New South Wales",
+    "city": null,
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Serrano Construction and Development CORP.",
+    "city": "BARRIGADA",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Hensoldt Sensors Gmbh",
+    "city": "ULM",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "t & t Construction Enterprises, LLC",
+    "city": "Leitchfield, KY",
+    "state_code": "KY",
+    "county_fips_5": "21085",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tecc Corporation",
+    "city": "YOKOHAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mission Systems Wimborne Limited",
+    "city": "WIMBORNE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rossetti S.p.a.",
+    "city": "ROMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "R. Stresau Laboratory, INC.",
+    "city": "Spooner, WI",
+    "state_code": "WI",
+    "county_fips_5": "55129",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Loughmiller Machine, Tool & Design",
+    "city": "Loogootee, IN",
+    "state_code": "IN",
+    "county_fips_5": "18101",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Vinnell Arabia, LLC",
+    "city": "RIYADH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "World Health Organization",
+    "city": null,
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Native Star Group, INC",
+    "city": "Jay, OK",
+    "state_code": "OK",
+    "county_fips_5": "40041",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tanaka Gumi Tanaka Construction Konno Kensetsu Jv",
+    "city": "TOWADA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tarpan Construction, LLC",
+    "city": "Cottonport, LA",
+    "state_code": "LA",
+    "county_fips_5": "22009",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Aytekin Serol Insaat Taahhut Muhendislik Anonim Sirketi",
+    "city": "ADANA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nikkai Corporation",
+    "city": "YOKOSUKA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pivotal Power INC",
+    "city": "Bedford, NS",
+    "state_code": "NS",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Battistella S.p.a.",
+    "city": "PASIANO DI PORDENONE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Air Filter Maintenance Services International (Pty) LTD",
+    "city": "JOHANNESBURG",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "620 Pelham INC",
+    "city": "Smithville, TN",
+    "state_code": "TN",
+    "county_fips_5": "47041",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Unitec International General Trading CO. Wll",
+    "city": "KUWAIT CITY",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Yamaki CO., LTD.",
+    "city": "KUMAGAYA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "a-Plus K&k Jv INC",
+    "city": "Newberry, MI",
+    "state_code": "MI",
+    "county_fips_5": "26095",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Rossell India Limited",
+    "city": "BANGALORE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Eaton Limited",
+    "city": "FAREHAM",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Himalayan Builders and Engineers Pvt. LTD",
+    "city": "KATHMANDU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Eiffage Infraestructuras Sau y Eiffage Energia Slu, Ute, Ley 18/1982 De 28 De Mayo, Eiffage Ute",
+    "city": "DOS HERMANAS",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Hellenic Aerospace Industry S.a.",
+    "city": "TANAGRA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Shanica Company for Transporting and Removing Mines Importing Explosive Materials and General Trading LTD",
+    "city": "ERBIL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Elta Systems LTD",
+    "city": "ASHDOD",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fireweed Metals CORP.",
+    "city": null,
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Vee-Jay Cement Contracting Company, INC.",
+    "city": "Saint Louis, MO",
+    "state_code": "MO",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Corning INC",
+    "city": "Canton, NY",
+    "state_code": "NY",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Geranoi Arapis Ee",
+    "city": "ASPROPYRGOS",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Liebherr Machines Bulle Sa",
+    "city": "BULLE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Bloomsdale Excavating Company, Incorporated",
+    "city": "Bloomsdale, MO",
+    "state_code": "MO",
+    "county_fips_5": "29186",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Centerra Integrated Services Gmbh",
+    "city": "KAISERSLAUTERN",
+    "state_code": null,
+    "county_fips_5": "20147",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ducommun Aerostructures New York, INC.",
+    "city": "Coxsackie, NY",
+    "state_code": "NY",
+    "county_fips_5": "36039",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fortis Native Group LLC",
+    "city": "Atmore, AL",
+    "state_code": "AL",
+    "county_fips_5": "01053",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Leisnoi Professional Services LLC",
+    "city": "Kodiak, AK",
+    "state_code": "AK",
+    "county_fips_5": "02150",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Thales Optronics LTD",
+    "city": "GLASGOW",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Apex Control Systems INC",
+    "city": "Clarksville, AR",
+    "state_code": "AR",
+    "county_fips_5": "05071",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Precision Air INC",
+    "city": "Manning, SC",
+    "state_code": "SC",
+    "county_fips_5": "45027",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Beyon B.s.c",
+    "city": "MANAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mirait.one- Acty Jv",
+    "city": "KOTO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Northcliff Resources LTD.",
+    "city": null,
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Bundesministerium Für Umwelt, Naturschutz Und Reaktorsicherheit",
+    "city": "BONN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Hesco Bastion Limited",
+    "city": "LEEDS",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Laird Technologies, INC",
+    "city": "Chesterfield, MO",
+    "state_code": "MO",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Eneos Sun-Energy Corporation",
+    "city": "MINATO-KU",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ems Shipping & Trading Gmbh",
+    "city": "LEER (OSTFRIESLAND)",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kooheji Contractors W.l.l",
+    "city": "MANAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Jtg Corporation Pte. LTD.",
+    "city": "SINGAPORE",
+    "state_code": null,
+    "county_fips_5": "23025",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Midwest Construction CO",
+    "city": "Nebraska City, NE",
+    "state_code": "NE",
+    "county_fips_5": "31131",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Dry Docks World - Dubai Fzco",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gasboy INC.",
+    "city": "PAMPANGA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "North Slope Borough",
+    "city": "Barrow, AK",
+    "state_code": "AK",
+    "county_fips_5": "02185",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Austin Machine CO",
+    "city": "O Fallon, MO",
+    "state_code": "MO",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Leonardo Spa",
+    "city": "ROMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Al Rawabet Commercial Services & Contracting CO. W.l.l.",
+    "city": "DOHA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Korea Container Pool CO.,ltd",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Zafer Taahhut Insaat Ve Ticaret Anonim Sirketi",
+    "city": "ANKARA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sk Energy CO., LTD.",
+    "city": "SEOUL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Allied Technical Company for Recruitment & Management Services and Marketing / LLC",
+    "city": "ERBIL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pacific International, INC.",
+    "city": "MAJURO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Miles Resources LLC",
+    "city": "Puyallup, WA",
+    "state_code": "WA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Fabritex, INC.",
+    "city": "Hartwell, GA",
+    "state_code": "GA",
+    "county_fips_5": "13147",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Yokomizo Tokoten CO., LTD.",
+    "city": "YOKOHAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Yojin Construction & Engineering CO., LTD.",
+    "city": "WONJU-SI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ops Corporation",
+    "city": "PUSAN",
+    "state_code": null,
+    "county_fips_5": "26063",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Hosei CO., LTD.",
+    "city": "SASEBO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "North American Consulting Services INC",
+    "city": "Point Pleasant, WV",
+    "state_code": "WV",
+    "county_fips_5": "54053",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Geg Gebäudedienste Gmbh",
+    "city": "LONSHEIM",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Jrf Ship Repairs, LLC",
+    "city": "Portsmouth, VA",
+    "state_code": "VA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Oran Safety Glass INC",
+    "city": "Emporia, VA",
+    "state_code": "VA",
+    "county_fips_5": "51081",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Proven Training Concepts CORP.",
+    "city": "Mechanicsville, MD",
+    "state_code": "MD",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Mtp Drivetrain Services, L.l.c.",
+    "city": "Many, LA",
+    "state_code": "LA",
+    "county_fips_5": "22085",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Leonardo - Societa' per Azioni",
+    "city": "SAMARATE",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Anderson Construction Company of Fort Gaines",
+    "city": "Fort Gaines, GA",
+    "state_code": "GA",
+    "county_fips_5": "13061",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Zafer Taahhut Insaat Ve Ticaret Anonim Sirketi",
+    "city": "CANKAYA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Gushiken-Pae Jv",
+    "city": "GINOWAN",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kyunan CO., LTD.",
+    "city": "MIYAKONOJO",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Emta Insaat Taahhut Ve Ticaret Anonim Sirketi",
+    "city": "ANKARA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Slayden Plumbing and Heating, INC.",
+    "city": "North Pole, AK",
+    "state_code": "AK",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Landscape Management Systems, INC.",
+    "city": "TUMON",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "all Native Synergies Company",
+    "city": "Winnebago, NE",
+    "state_code": "NE",
+    "county_fips_5": "31173",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Tepe Bozdemir Ortak Girisimi",
+    "city": "ANKARA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Héroux-Devtek INC.",
+    "city": "LAVAL",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Scepter Canada, INC.",
+    "city": "SCARBOROUGH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "S&k Mission Support, LLC",
+    "city": "Saint Ignatius, MT",
+    "state_code": "MT",
+    "county_fips_5": "30047",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "The Justin CO INC",
+    "city": "Washington, DC",
+    "state_code": "DC",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nikkai Corporation",
+    "city": "YOKOSUKA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Hendrickson Transportation LLC",
+    "city": "Hamburg, IA",
+    "state_code": "IA",
+    "county_fips_5": "19071",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Nano One Materials CORP.",
+    "city": null,
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Carter's Contracting Services, INC., a Close Corporation",
+    "city": "Andalusia, AL",
+    "state_code": "AL",
+    "county_fips_5": "01039",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Solutions Development CORP",
+    "city": "King George, VA",
+    "state_code": "VA",
+    "county_fips_5": "51099",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Verbrugge Zeeland Terminals B.v.",
+    "city": "RITTHEM",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Compass Contract Services (U.k.) Limited",
+    "city": "BIRMINGHAM",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ican Resources INC",
+    "city": "ASAN",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Pacific Rim Constructors INC",
+    "city": "DEDEDO",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Heritage Homes LLC",
+    "city": "Delta Junction, AK",
+    "state_code": "AK",
+    "county_fips_5": "02240",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Trinity Industrial Services, LLC",
+    "city": "Atlanta, GA",
+    "state_code": "GA",
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Chevron Bahrain Trading Company W.l.l",
+    "city": "AWALI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Three Lines Spare Parts Company",
+    "city": "RIYADH",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Uno Honduras S.a. De C.v.",
+    "city": "TEGUCIGALPA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Sociedad Espanola De Montajes Industriales Sa",
+    "city": "MADRID",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Alp Havacilik Sanayi Ve Ticaret Anonim Sirketi",
+    "city": "ESKISEHIR",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ohno Jyuden Doboku CO., LTD.",
+    "city": "SAGAMIHARA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "National Shipping Agency S.a.",
+    "city": "SOUDA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Kanagawa Nabco Pty. LTD.",
+    "city": "YOKOHAMA",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Ecolog Deutschland Gmbh",
+    "city": "DUSSELDORF",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Aggreko Polska Sp. z O.o.",
+    "city": "CZOSNOW",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Air Greenland a/s",
+    "city": "NUUSSUAQ",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Colt Builders and Weil Construction Joint Venture L.l.c.",
+    "city": "Des Moines, NM",
+    "state_code": "NM",
+    "county_fips_5": "35059",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "El Dorado Resort CO.,ltd.",
+    "city": "ANYANG-SI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Omang Technologies & Trading L.l.c",
+    "city": "DUBAI",
+    "state_code": null,
+    "county_fips_5": null,
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "s & k Design Build LLC",
+    "city": "Saint Ignatius, MT",
+    "state_code": "MT",
+    "county_fips_5": "30047",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "k & k Plus, INC.",
+    "city": "Newberry, MI",
+    "state_code": "MI",
+    "county_fips_5": "26095",
+    "metro_area": null
+  },
+  {
+    "base_std": "USASpending",
+    "organization_name": "Department of Military Affairs",
+    "city": "BARRIGADA",
+    "state_code": null,
+    "county_fips_5": "66010",
+    "metro_area": null
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "combo": "Other big prime contractors | Navy",
+    "a": "Other big prime contractors",
+    "b": "Navy",
+    "assets_int": 4235,
+    "assets_alloc": 60414,
+    "amt_alloc": 80102737983.455,
+    "share_assets": 0.008,
+    "share_amt": 0.1653
+  },
+  {
+    "combo": "Other big prime contractors | Army",
+    "a": "Other big prime contractors",
+    "b": "Army",
+    "assets_int": 4985,
+    "assets_alloc": 32602,
+    "amt_alloc": 58395728326.255,
+    "share_assets": 0.0043,
+    "share_amt": 0.1205
+  },
+  {
+    "combo": "The Big 5 Contractors | Navy",
+    "a": "The Big 5 Contractors",
+    "b": "Navy",
+    "assets_int": 137,
+    "assets_alloc": 5551,
+    "amt_alloc": 53376857581.2,
+    "share_assets": 0.0007,
+    "share_amt": 0.1101
+  },
+  {
+    "combo": "The Big 5 Contractors | Air Force",
+    "a": "The Big 5 Contractors",
+    "b": "Air Force",
+    "assets_int": 128,
+    "assets_alloc": 3273,
+    "amt_alloc": 41722376366.935,
+    "share_assets": 0.0004,
+    "share_amt": 0.0861
+  },
+  {
+    "combo": "Other big prime contractors | Air Force",
+    "a": "Other big prime contractors",
+    "b": "Air Force",
+    "assets_int": 2969,
+    "assets_alloc": 20127,
+    "amt_alloc": 37264554954.705,
+    "share_assets": 0.0027,
+    "share_amt": 0.0769
+  },
+  {
+    "combo": "Small prime contractors | Army",
+    "a": "Small prime contractors",
+    "b": "Army",
+    "assets_int": 15886,
+    "assets_alloc": 67713,
+    "amt_alloc": 26960832833.535,
+    "share_assets": 0.009,
+    "share_amt": 0.0556
+  },
+  {
+    "combo": "The Big 5 Contractors | Army",
+    "a": "The Big 5 Contractors",
+    "b": "Army",
+    "assets_int": 82,
+    "assets_alloc": 1013,
+    "amt_alloc": 25183578190.915,
+    "share_assets": 0.0001,
+    "share_amt": 0.052
+  },
+  {
+    "combo": "Other big prime contractors | Defense Logistics Agency",
+    "a": "Other big prime contractors",
+    "b": "Defense Logistics Agency",
+    "assets_int": 2244,
+    "assets_alloc": 3410788,
+    "amt_alloc": 24925119722.81,
+    "share_assets": 0.4521,
+    "share_amt": 0.0514
+  },
+  {
+    "combo": "Small prime contractors | Defense Logistics Agency",
+    "a": "Small prime contractors",
+    "b": "Defense Logistics Agency",
+    "assets_int": 8256,
+    "assets_alloc": 3695298,
+    "amt_alloc": 22708144159.975,
+    "share_assets": 0.4898,
+    "share_amt": 0.0468
+  },
+  {
+    "combo": "Small prime contractors | Navy",
+    "a": "Small prime contractors",
+    "b": "Navy",
+    "assets_int": 12974,
+    "assets_alloc": 83386,
+    "amt_alloc": 22270622365.115,
+    "share_assets": 0.0111,
+    "share_amt": 0.0459
+  },
+  {
+    "combo": "Small prime contractors | Air Force",
+    "a": "Small prime contractors",
+    "b": "Air Force",
+    "assets_int": 11463,
+    "assets_alloc": 49979,
+    "amt_alloc": 19205895937.9,
+    "share_assets": 0.0066,
+    "share_amt": 0.0396
+  },
+  {
+    "combo": "Other big prime contractors | Defense Health Agency",
+    "a": "Other big prime contractors",
+    "b": "Defense Health Agency",
+    "assets_int": 1034,
+    "assets_alloc": 4182,
+    "amt_alloc": 17443920591.365,
+    "share_assets": 0.0006,
+    "share_amt": 0.036
+  },
+  {
+    "combo": "The Big 5 Contractors | Missile Defense Agency",
+    "a": "The Big 5 Contractors",
+    "b": "Missile Defense Agency",
+    "assets_int": 23,
+    "assets_alloc": 175,
+    "amt_alloc": 9233907301.68,
+    "share_assets": 0,
+    "share_amt": 0.019
+  },
+  {
+    "combo": "Other big prime contractors | Defense Information Systems Agency",
+    "a": "Other big prime contractors",
+    "b": "Defense Information Systems Agency",
+    "assets_int": 334,
+    "assets_alloc": 22654,
+    "amt_alloc": 5522617447.585,
+    "share_assets": 0.003,
+    "share_amt": 0.0114
+  },
+  {
+    "combo": "Other big prime contractors | USTRANSCOM",
+    "a": "Other big prime contractors",
+    "b": "USTRANSCOM",
+    "assets_int": 122,
+    "assets_alloc": 4505,
+    "amt_alloc": 4040815111.095,
+    "share_assets": 0.0006,
+    "share_amt": 0.0083
+  },
+  {
+    "combo": "The Big 5 Contractors | Defense Logistics Agency",
+    "a": "The Big 5 Contractors",
+    "b": "Defense Logistics Agency",
+    "assets_int": 81,
+    "assets_alloc": 40930,
+    "amt_alloc": 3949338192.835,
+    "share_assets": 0.0054,
+    "share_amt": 0.0081
+  },
+  {
+    "combo": "Universities | Air Force",
+    "a": "Universities",
+    "b": "Air Force",
+    "assets_int": 256,
+    "assets_alloc": 1853,
+    "amt_alloc": 2812145511.74,
+    "share_assets": 0.0002,
+    "share_amt": 0.0058
+  },
+  {
+    "combo": "Small prime contractors | Defense Health Agency",
+    "a": "Small prime contractors",
+    "b": "Defense Health Agency",
+    "assets_int": 1609,
+    "assets_alloc": 4360,
+    "amt_alloc": 2452443302.3,
+    "share_assets": 0.0006,
+    "share_amt": 0.0051
+  },
+  {
+    "combo": "Other big prime contractors | Washington Headquarters Services",
+    "a": "Other big prime contractors",
+    "b": "Washington Headquarters Services",
+    "assets_int": 279,
+    "assets_alloc": 988,
+    "amt_alloc": 2342924767.905,
+    "share_assets": 0.0001,
+    "share_amt": 0.0048
+  },
+  {
+    "combo": "Universities | Navy",
+    "a": "Universities",
+    "b": "Navy",
+    "assets_int": 504,
+    "assets_alloc": 6153,
+    "amt_alloc": 2255271361.95,
+    "share_assets": 0.0008,
+    "share_amt": 0.0047
+  },
+  {
+    "combo": "Small prime contractors | Defense Information Systems Agency",
+    "a": "Small prime contractors",
+    "b": "Defense Information Systems Agency",
+    "assets_int": 601,
+    "assets_alloc": 4639,
+    "amt_alloc": 1730319900.33,
+    "share_assets": 0.0006,
+    "share_amt": 0.0036
+  },
+  {
+    "combo": "Small prime contractors | U.S. Special Operations Command",
+    "a": "Small prime contractors",
+    "b": "U.S. Special Operations Command",
+    "assets_int": 748,
+    "assets_alloc": 2909,
+    "amt_alloc": 1666259437.73,
+    "share_assets": 0.0004,
+    "share_amt": 0.0034
+  },
+  {
+    "combo": "The Big 5 Contractors | U.S. Special Operations Command",
+    "a": "The Big 5 Contractors",
+    "b": "U.S. Special Operations Command",
+    "assets_int": 12,
+    "assets_alloc": 406,
+    "amt_alloc": 1663084370.8,
+    "share_assets": 0.0001,
+    "share_amt": 0.0034
+  },
+  {
+    "combo": "Other big prime contractors | U.S. Special Operations Command",
+    "a": "Other big prime contractors",
+    "b": "U.S. Special Operations Command",
+    "assets_int": 249,
+    "assets_alloc": 1052,
+    "amt_alloc": 1245676021.6,
+    "share_assets": 0.0001,
+    "share_amt": 0.0026
+  },
+  {
+    "combo": "The Big 5 Contractors | Defense Microelectronics Activity",
+    "a": "The Big 5 Contractors",
+    "b": "Defense Microelectronics Activity",
+    "assets_int": 5,
+    "assets_alloc": 140,
+    "amt_alloc": 1102406735.615,
+    "share_assets": 0,
+    "share_amt": 0.0023
+  },
+  {
+    "combo": "Small prime contractors | Washington Headquarters Services",
+    "a": "Small prime contractors",
+    "b": "Washington Headquarters Services",
+    "assets_int": 732,
+    "assets_alloc": 1704,
+    "amt_alloc": 1057526620.11,
+    "share_assets": 0.0002,
+    "share_amt": 0.0022
+  },
+  {
+    "combo": "Small prime contractors | USTRANSCOM",
+    "a": "Small prime contractors",
+    "b": "USTRANSCOM",
+    "assets_int": 142,
+    "assets_alloc": 2543,
+    "amt_alloc": 1026974604.875,
+    "share_assets": 0.0003,
+    "share_amt": 0.0021
+  },
+  {
+    "combo": "Universities | Army",
+    "a": "Universities",
+    "b": "Army",
+    "assets_int": 386,
+    "assets_alloc": 2525,
+    "amt_alloc": 1006010691.135,
+    "share_assets": 0.0003,
+    "share_amt": 0.0021
+  },
+  {
+    "combo": "Other big prime contractors | Missile Defense Agency",
+    "a": "Other big prime contractors",
+    "b": "Missile Defense Agency",
+    "assets_int": 54,
+    "assets_alloc": 131,
+    "amt_alloc": 965461616.255,
+    "share_assets": 0,
+    "share_amt": 0.002
+  },
+  {
+    "combo": "Other big prime contractors | Defense Threat Reduction Agency",
+    "a": "Other big prime contractors",
+    "b": "Defense Threat Reduction Agency",
+    "assets_int": 112,
+    "assets_alloc": 283,
+    "amt_alloc": 930579131.93,
+    "share_assets": 0,
+    "share_amt": 0.0019
+  },
+  {
+    "combo": "Small prime contractors | Missile Defense Agency",
+    "a": "Small prime contractors",
+    "b": "Missile Defense Agency",
+    "assets_int": 312,
+    "assets_alloc": 553,
+    "amt_alloc": 795023953.985,
+    "share_assets": 0.0001,
+    "share_amt": 0.0016
+  },
+  {
+    "combo": "Other big prime contractors | Defense Contract Management Agency",
+    "a": "Other big prime contractors",
+    "b": "Defense Contract Management Agency",
+    "assets_int": 64,
+    "assets_alloc": 294,
+    "amt_alloc": 793072628.56,
+    "share_assets": 0,
+    "share_amt": 0.0016
+  },
+  {
+    "combo": "Universities | Defense Health Agency",
+    "a": "Universities",
+    "b": "Defense Health Agency",
+    "assets_int": 191,
+    "assets_alloc": 1196,
+    "amt_alloc": 748455920.625,
+    "share_assets": 0.0002,
+    "share_amt": 0.0015
+  },
+  {
+    "combo": "Other big prime contractors | DARPA",
+    "a": "Other big prime contractors",
+    "b": "DARPA",
+    "assets_int": 162,
+    "assets_alloc": 348,
+    "amt_alloc": 719996740.08,
+    "share_assets": 0,
+    "share_amt": 0.0015
+  },
+  {
+    "combo": "Other big prime contractors | Defense Counterintelligence and Security Agency",
+    "a": "Other big prime contractors",
+    "b": "Defense Counterintelligence and Security Agency",
+    "assets_int": 76,
+    "assets_alloc": 108,
+    "amt_alloc": 617403829.845,
+    "share_assets": 0,
+    "share_amt": 0.0013
+  },
+  {
+    "combo": "Universities | DARPA",
+    "a": "Universities",
+    "b": "DARPA",
+    "assets_int": 104,
+    "assets_alloc": 420,
+    "amt_alloc": 599330768.36,
+    "share_assets": 0.0001,
+    "share_amt": 0.0012
+  },
+  {
+    "combo": "Small prime contractors | DARPA",
+    "a": "Small prime contractors",
+    "b": "DARPA",
+    "assets_int": 190,
+    "assets_alloc": 307,
+    "amt_alloc": 439475489.71,
+    "share_assets": 0,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Other big prime contractors | Office of Local Defense Community Cooperation",
+    "a": "Other big prime contractors",
+    "b": "Office of Local Defense Community Cooperation",
+    "assets_int": 93,
+    "assets_alloc": 117,
+    "amt_alloc": 431881145,
+    "share_assets": 0,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "The Big 5 Contractors | DARPA",
+    "a": "The Big 5 Contractors",
+    "b": "DARPA",
+    "assets_int": 28,
+    "assets_alloc": 88,
+    "amt_alloc": 429297109.885,
+    "share_assets": 0,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Other big prime contractors | Uniformed Services University of the Health Sciences",
+    "a": "Other big prime contractors",
+    "b": "Uniformed Services University of the Health Sciences",
+    "assets_int": 89,
+    "assets_alloc": 418,
+    "amt_alloc": 427217966.1,
+    "share_assets": 0.0001,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Small prime contractors | Defense Counterintelligence and Security Agency",
+    "a": "Small prime contractors",
+    "b": "Defense Counterintelligence and Security Agency",
+    "assets_int": 136,
+    "assets_alloc": 248,
+    "amt_alloc": 392569546.77,
+    "share_assets": 0,
+    "share_amt": 0.0008
+  },
+  {
+    "combo": "Other big prime contractors | Defense Finance and Accounting Service",
+    "a": "Other big prime contractors",
+    "b": "Defense Finance and Accounting Service",
+    "assets_int": 65,
+    "assets_alloc": 155,
+    "amt_alloc": 363231656.905,
+    "share_assets": 0,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "The Big 5 Contractors | Defense Information Systems Agency",
+    "a": "The Big 5 Contractors",
+    "b": "Defense Information Systems Agency",
+    "assets_int": 9,
+    "assets_alloc": 393,
+    "amt_alloc": 326030421.815,
+    "share_assets": 0.0001,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Small prime contractors | Defense Threat Reduction Agency",
+    "a": "Small prime contractors",
+    "b": "Defense Threat Reduction Agency",
+    "assets_int": 231,
+    "assets_alloc": 302,
+    "amt_alloc": 317315781.695,
+    "share_assets": 0,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Other big prime contractors | Defense Commissary Agency",
+    "a": "Other big prime contractors",
+    "b": "Defense Commissary Agency",
+    "assets_int": 131,
+    "assets_alloc": 619,
+    "amt_alloc": 316320924.205,
+    "share_assets": 0.0001,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Universities | Washington Headquarters Services",
+    "a": "Universities",
+    "b": "Washington Headquarters Services",
+    "assets_int": 100,
+    "assets_alloc": 212,
+    "amt_alloc": 306425535.285,
+    "share_assets": 0,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Universities | Missile Defense Agency",
+    "a": "Universities",
+    "b": "Missile Defense Agency",
+    "assets_int": 17,
+    "assets_alloc": 97,
+    "amt_alloc": 251481380.83,
+    "share_assets": 0,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Other big prime contractors | Defense Microelectronics Activity",
+    "a": "Other big prime contractors",
+    "b": "Defense Microelectronics Activity",
+    "assets_int": 41,
+    "assets_alloc": 85,
+    "amt_alloc": 195598789.47,
+    "share_assets": 0,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Other big prime contractors | Defense Human Resources Activity",
+    "a": "Other big prime contractors",
+    "b": "Defense Human Resources Activity",
+    "assets_int": 57,
+    "assets_alloc": 145,
+    "amt_alloc": 190606982.48,
+    "share_assets": 0,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Other big prime contractors | Department of Defense Education Activity",
+    "a": "Other big prime contractors",
+    "b": "Department of Defense Education Activity",
+    "assets_int": 173,
+    "assets_alloc": 534,
+    "amt_alloc": 177459291.995,
+    "share_assets": 0.0001,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Small prime contractors | Defense Commissary Agency",
+    "a": "Small prime contractors",
+    "b": "Defense Commissary Agency",
+    "assets_int": 232,
+    "assets_alloc": 1542,
+    "amt_alloc": 128978896.135,
+    "share_assets": 0.0002,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Other big prime contractors | U.S. Cyber Command",
+    "a": "Other big prime contractors",
+    "b": "U.S. Cyber Command",
+    "assets_int": 23,
+    "assets_alloc": 40,
+    "amt_alloc": 97859425.1,
+    "share_assets": 5.302e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Small prime contractors | Defense Human Resources Activity",
+    "a": "Small prime contractors",
+    "b": "Defense Human Resources Activity",
+    "assets_int": 121,
+    "assets_alloc": 401,
+    "amt_alloc": 95324923.125,
+    "share_assets": 0.0001,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Small prime contractors | Department of Defense Education Activity",
+    "a": "Small prime contractors",
+    "b": "Department of Defense Education Activity",
+    "assets_int": 199,
+    "assets_alloc": 625,
+    "amt_alloc": 87462397.965,
+    "share_assets": 0.0001,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "The Big 5 Contractors | Defense Health Agency",
+    "a": "The Big 5 Contractors",
+    "b": "Defense Health Agency",
+    "assets_int": 3,
+    "assets_alloc": 106,
+    "amt_alloc": 76606721.37,
+    "share_assets": 0,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "The Big 5 Contractors | Defense Contract Management Agency",
+    "a": "The Big 5 Contractors",
+    "b": "Defense Contract Management Agency",
+    "assets_int": 14,
+    "assets_alloc": 272,
+    "amt_alloc": 76574221.27,
+    "share_assets": 0,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Small prime contractors | Defense Finance and Accounting Service",
+    "a": "Small prime contractors",
+    "b": "Defense Finance and Accounting Service",
+    "assets_int": 136,
+    "assets_alloc": 219,
+    "amt_alloc": 60604767.92,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "The Big 5 Contractors | USTRANSCOM",
+    "a": "The Big 5 Contractors",
+    "b": "USTRANSCOM",
+    "assets_int": 7,
+    "assets_alloc": 11,
+    "amt_alloc": 57964410.84,
+    "share_assets": 1.458e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Small prime contractors | Defense Media Activity",
+    "a": "Small prime contractors",
+    "b": "Defense Media Activity",
+    "assets_int": 111,
+    "assets_alloc": 252,
+    "amt_alloc": 53891851.245,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Universities | U.S. Special Operations Command",
+    "a": "Universities",
+    "b": "U.S. Special Operations Command",
+    "assets_int": 17,
+    "assets_alloc": 129,
+    "amt_alloc": 51393899.115,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "The Big 5 Contractors | Defense Threat Reduction Agency",
+    "a": "The Big 5 Contractors",
+    "b": "Defense Threat Reduction Agency",
+    "assets_int": 8,
+    "assets_alloc": 14,
+    "amt_alloc": 49572143.095,
+    "share_assets": 1.8557e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Universities | Defense Threat Reduction Agency",
+    "a": "Universities",
+    "b": "Defense Threat Reduction Agency",
+    "assets_int": 42,
+    "assets_alloc": 73,
+    "amt_alloc": 49102872.335,
+    "share_assets": 9.6761e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Other big prime contractors | Defense Media Activity",
+    "a": "Other big prime contractors",
+    "b": "Defense Media Activity",
+    "assets_int": 43,
+    "assets_alloc": 105,
+    "amt_alloc": 48747131.445,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Colleges | Navy",
+    "a": "Colleges",
+    "b": "Navy",
+    "assets_int": 70,
+    "assets_alloc": 366,
+    "amt_alloc": 38340747.005,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Small prime contractors | Defense Contract Management Agency",
+    "a": "Small prime contractors",
+    "b": "Defense Contract Management Agency",
+    "assets_int": 138,
+    "assets_alloc": 340,
+    "amt_alloc": 36475752.255,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Colleges | Defense Health Agency",
+    "a": "Colleges",
+    "b": "Defense Health Agency",
+    "assets_int": 18,
+    "assets_alloc": 64,
+    "amt_alloc": 34120853.695,
+    "share_assets": 8.4832e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Universities | U.S. Cyber Command",
+    "a": "Universities",
+    "b": "U.S. Cyber Command",
+    "assets_int": 1,
+    "assets_alloc": 12,
+    "amt_alloc": 33898831.49,
+    "share_assets": 1.5906e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Small prime contractors | U.S. Cyber Command",
+    "a": "Small prime contractors",
+    "b": "U.S. Cyber Command",
+    "assets_int": 46,
+    "assets_alloc": 85,
+    "amt_alloc": 33889900.61,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Small prime contractors | Defense Microelectronics Activity",
+    "a": "Small prime contractors",
+    "b": "Defense Microelectronics Activity",
+    "assets_int": 68,
+    "assets_alloc": 112,
+    "amt_alloc": 32078459.63,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Colleges | Army",
+    "a": "Colleges",
+    "b": "Army",
+    "assets_int": 47,
+    "assets_alloc": 153,
+    "amt_alloc": 31251630.71,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Small prime contractors | Uniformed Services University of the Health Sciences",
+    "a": "Small prime contractors",
+    "b": "Uniformed Services University of the Health Sciences",
+    "assets_int": 115,
+    "assets_alloc": 221,
+    "amt_alloc": 23794091.89,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "Other big prime contractors | Defense Prisoner of War/Missing Personnel Office",
+    "a": "Other big prime contractors",
+    "b": "Defense Prisoner of War/Missing Personnel Office",
+    "assets_int": 1,
+    "assets_alloc": 1,
+    "amt_alloc": 22815714.03,
+    "share_assets": 1.3255e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Other big prime contractors | Immediate Office of the Secretary of Defense",
+    "a": "Other big prime contractors",
+    "b": "Immediate Office of the Secretary of Defense",
+    "assets_int": 5,
+    "assets_alloc": 6,
+    "amt_alloc": 16630615.335,
+    "share_assets": 7.953e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Small prime contractors | Immediate Office of the Secretary of Defense",
+    "a": "Small prime contractors",
+    "b": "Immediate Office of the Secretary of Defense",
+    "assets_int": 28,
+    "assets_alloc": 35,
+    "amt_alloc": 16439580.975,
+    "share_assets": 4.6392e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Colleges | Air Force",
+    "a": "Colleges",
+    "b": "Air Force",
+    "assets_int": 21,
+    "assets_alloc": 73,
+    "amt_alloc": 11587630,
+    "share_assets": 9.6761e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Colleges | DARPA",
+    "a": "Colleges",
+    "b": "DARPA",
+    "assets_int": 8,
+    "assets_alloc": 18,
+    "amt_alloc": 9751042.515,
+    "share_assets": 2.3859e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "The Big 5 Contractors | Washington Headquarters Services",
+    "a": "The Big 5 Contractors",
+    "b": "Washington Headquarters Services",
+    "assets_int": 2,
+    "assets_alloc": 3,
+    "amt_alloc": 9449510.96,
+    "share_assets": 3.9765e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Universities | Defense Information Systems Agency",
+    "a": "Universities",
+    "b": "Defense Information Systems Agency",
+    "assets_int": 2,
+    "assets_alloc": 10,
+    "amt_alloc": 7213035.055,
+    "share_assets": 1.3255e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Universities | Defense Logistics Agency",
+    "a": "Universities",
+    "b": "Defense Logistics Agency",
+    "assets_int": 17,
+    "assets_alloc": 26,
+    "amt_alloc": 5233323.36,
+    "share_assets": 3.4463e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "The Big 5 Contractors | U.S. Cyber Command",
+    "a": "The Big 5 Contractors",
+    "b": "U.S. Cyber Command",
+    "assets_int": 2,
+    "assets_alloc": 2,
+    "amt_alloc": 4809777.35,
+    "share_assets": 2.651e-07,
+    "share_amt": 9.9226e-06
+  },
+  {
+    "combo": "Colleges | Washington Headquarters Services",
+    "a": "Colleges",
+    "b": "Washington Headquarters Services",
+    "assets_int": 6,
+    "assets_alloc": 9,
+    "amt_alloc": 4494008.49,
+    "share_assets": 1.1929e-06,
+    "share_amt": 9.2711e-06
+  },
+  {
+    "combo": "Universities | Uniformed Services University of the Health Sciences",
+    "a": "Universities",
+    "b": "Uniformed Services University of the Health Sciences",
+    "assets_int": 11,
+    "assets_alloc": 21,
+    "amt_alloc": 4185094.45,
+    "share_assets": 2.7835e-06,
+    "share_amt": 8.6339e-06
+  },
+  {
+    "combo": "Universities | Office of Local Defense Community Cooperation",
+    "a": "Universities",
+    "b": "Office of Local Defense Community Cooperation",
+    "assets_int": 5,
+    "assets_alloc": 6,
+    "amt_alloc": 4056887,
+    "share_assets": 7.953e-07,
+    "share_amt": 8.3694e-06
+  },
+  {
+    "combo": "Universities | Immediate Office of the Secretary of Defense",
+    "a": "Universities",
+    "b": "Immediate Office of the Secretary of Defense",
+    "assets_int": 1,
+    "assets_alloc": 5,
+    "amt_alloc": 2854107.07,
+    "share_assets": 6.6275e-07,
+    "share_amt": 5.888e-06
+  },
+  {
+    "combo": "Colleges | Defense Human Resources Activity",
+    "a": "Colleges",
+    "b": "Defense Human Resources Activity",
+    "assets_int": 2,
+    "assets_alloc": 14,
+    "amt_alloc": 2369546,
+    "share_assets": 1.8557e-06,
+    "share_amt": 4.8884e-06
+  },
+  {
+    "combo": "Colleges | Department of Defense Education Activity",
+    "a": "Colleges",
+    "b": "Department of Defense Education Activity",
+    "assets_int": 2,
+    "assets_alloc": 6,
+    "amt_alloc": 2215548.05,
+    "share_assets": 7.953e-07,
+    "share_amt": 4.5707e-06
+  },
+  {
+    "combo": "Universities | Department of Defense Education Activity",
+    "a": "Universities",
+    "b": "Department of Defense Education Activity",
+    "assets_int": 5,
+    "assets_alloc": 6,
+    "amt_alloc": 1540767.85,
+    "share_assets": 7.953e-07,
+    "share_amt": 3.1786e-06
+  },
+  {
+    "combo": "Universities | Defense Counterintelligence and Security Agency",
+    "a": "Universities",
+    "b": "Defense Counterintelligence and Security Agency",
+    "assets_int": 2,
+    "assets_alloc": 2,
+    "amt_alloc": 1538724,
+    "share_assets": 2.651e-07,
+    "share_amt": 3.1744e-06
+  },
+  {
+    "combo": "Universities | Defense Prisoner of War/Missing Personnel Office",
+    "a": "Universities",
+    "b": "Defense Prisoner of War/Missing Personnel Office",
+    "assets_int": 4,
+    "assets_alloc": 4,
+    "amt_alloc": 976845.5,
+    "share_assets": 5.302e-07,
+    "share_amt": 2.0152e-06
+  },
+  {
+    "combo": "Universities | Defense Contract Management Agency",
+    "a": "Universities",
+    "b": "Defense Contract Management Agency",
+    "assets_int": 2,
+    "assets_alloc": 2,
+    "amt_alloc": 683404.41,
+    "share_assets": 2.651e-07,
+    "share_amt": 1.4099e-06
+  },
+  {
+    "combo": "Colleges | Uniformed Services University of the Health Sciences",
+    "a": "Colleges",
+    "b": "Uniformed Services University of the Health Sciences",
+    "assets_int": 1,
+    "assets_alloc": 1,
+    "amt_alloc": 515406,
+    "share_assets": 1.3255e-07,
+    "share_amt": 1.0633e-06
+  },
+  {
+    "combo": "Colleges | Defense Threat Reduction Agency",
+    "a": "Colleges",
+    "b": "Defense Threat Reduction Agency",
+    "assets_int": 3,
+    "assets_alloc": 3,
+    "amt_alloc": 481046.98,
+    "share_assets": 3.9765e-07,
+    "share_amt": 9.924e-07
+  },
+  {
+    "combo": "Colleges | Defense Logistics Agency",
+    "a": "Colleges",
+    "b": "Defense Logistics Agency",
+    "assets_int": 3,
+    "assets_alloc": 4,
+    "amt_alloc": 314858.795,
+    "share_assets": 5.302e-07,
+    "share_amt": 6.4955e-07
+  },
+  {
+    "combo": "The Big 5 Contractors | Immediate Office of the Secretary of Defense",
+    "a": "The Big 5 Contractors",
+    "b": "Immediate Office of the Secretary of Defense",
+    "assets_int": 1,
+    "assets_alloc": 1,
+    "amt_alloc": 250000,
+    "share_assets": 1.3255e-07,
+    "share_amt": 5.1575e-07
+  },
+  {
+    "combo": "Colleges | U.S. Special Operations Command",
+    "a": "Colleges",
+    "b": "U.S. Special Operations Command",
+    "assets_int": 3,
+    "assets_alloc": 16,
+    "amt_alloc": 231699,
+    "share_assets": 2.1208e-06,
+    "share_amt": 4.78e-07
+  },
+  {
+    "combo": "Colleges | Defense Information Systems Agency",
+    "a": "Colleges",
+    "b": "Defense Information Systems Agency",
+    "assets_int": 1,
+    "assets_alloc": 1,
+    "amt_alloc": 12900,
+    "share_assets": 1.3255e-07,
+    "share_amt": 2.6613e-08
+  },
+  {
+    "combo": "Small prime contractors | Office of the Inspector General",
+    "a": "Small prime contractors",
+    "b": "Office of the Inspector General",
+    "assets_int": 3,
+    "assets_alloc": 3,
+    "amt_alloc": 1919.22,
+    "share_assets": 3.9765e-07,
+    "share_amt": 3.9594e-09
+  },
+  {
+    "combo": "Universities | Defense Human Resources Activity",
+    "a": "Universities",
+    "b": "Defense Human Resources Activity",
+    "assets_int": 1,
+    "assets_alloc": 1,
+    "amt_alloc": 847.75,
+    "share_assets": 1.3255e-07,
+    "share_amt": 1.7489e-09
+  }
+]

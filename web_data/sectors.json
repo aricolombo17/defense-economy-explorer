@@ -1,0 +1,191 @@
+[
+  {
+    "msa": null,
+    "sector": "Advanced Manufacturing & Machine Tools",
+    "n_assets": 4329,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Aircraft & Aviation",
+    "n_assets": 7166,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "n_assets": 3461,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Construction",
+    "n_assets": 4335,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Digital Technologies & Software",
+    "n_assets": 10355,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Educational Services",
+    "n_assets": 138,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Energy Systems & Infrastructure",
+    "n_assets": 1179,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Engineering & Technical Services",
+    "n_assets": 16013,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Financial & Insurance Services",
+    "n_assets": 349,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Ground Vehicles & Tactical Systems",
+    "n_assets": 4706,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Innovation Support Services",
+    "n_assets": 104,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Maintenance, Repair & Operations",
+    "n_assets": 25362,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Maritime & Shipbuilding",
+    "n_assets": 3685,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Materials & Critical Minerals",
+    "n_assets": 1884,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Microelectronics & Electronic Components",
+    "n_assets": 4977,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Munitions & Missile Systems",
+    "n_assets": 5640,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Nuclear Deterrence & Propulsion Systems",
+    "n_assets": 609,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Other Professional & Business Services",
+    "n_assets": 4994,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Power Systems & Grid Infrastructure",
+    "n_assets": 3453,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "R&D and Science & Technolog",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "R&D and Science & Technology",
+    "n_assets": 7568,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Sensors, Radar & Electronic Warfare",
+    "n_assets": 5497,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Soldier Equipment & Protective Systems",
+    "n_assets": 6110,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Space Systems & Satellites",
+    "n_assets": 2842,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Transportation & Warehousing",
+    "n_assets": 291,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Unknown sector",
+    "n_assets": 27833,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "sector": "Workforce Training & Education",
+    "n_assets": 501,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  }
+]

@@ -1,0 +1,8801 @@
+[
+  {
+    "msa": null,
+    "tech": "",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "111110",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "111150",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "111421",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "111940",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "111998",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "112210",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "112410",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "112420",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "112511",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "112920",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "112990",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "113210",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "113310",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "114111",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "114119",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "114210",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "115112",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "115210",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "115310",
+    "n_assets": 47,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "211120",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "211130",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212114",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212290",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212311",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212312",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212313",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212319",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212321",
+    "n_assets": 30,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212323",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212390",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "212393",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "213112",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "213113",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "213115",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221111",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221112",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221114",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221115",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221118",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221119",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221121",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221122",
+    "n_assets": 151,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221210",
+    "n_assets": 62,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221310",
+    "n_assets": 177,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221320",
+    "n_assets": 66,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "221330",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "236115",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "236116",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "236118",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "236210",
+    "n_assets": 74,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "236220",
+    "n_assets": 2118,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "237110",
+    "n_assets": 136,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "237120",
+    "n_assets": 66,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "237130",
+    "n_assets": 97,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "237210",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "237310",
+    "n_assets": 331,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "237990",
+    "n_assets": 584,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238110",
+    "n_assets": 25,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238120",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238130",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238140",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238150",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238160",
+    "n_assets": 148,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238170",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238190",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238210",
+    "n_assets": 386,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238220",
+    "n_assets": 445,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238290",
+    "n_assets": 187,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238310",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238320",
+    "n_assets": 82,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238330",
+    "n_assets": 87,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238340",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238350",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238390",
+    "n_assets": 27,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238910",
+    "n_assets": 116,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "238990",
+    "n_assets": 261,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311111",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311225",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311314",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311352",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311411",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311421",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311423",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311511",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311514",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311613",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311812",
+    "n_assets": 110,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311824",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311830",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311911",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311919",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311920",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311991",
+    "n_assets": 74,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "311999",
+    "n_assets": 67,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "312111",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "312112",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "312113",
+    "n_assets": 30,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "312120",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "312230",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "313110",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "313210",
+    "n_assets": 27,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "313220",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "313230",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "313310",
+    "n_assets": 24,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "313320",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "314110",
+    "n_assets": 44,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "314120",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "314910",
+    "n_assets": 72,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "314912",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "314994",
+    "n_assets": 35,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "314999",
+    "n_assets": 110,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315110",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315120",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315210",
+    "n_assets": 96,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315211",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315220",
+    "n_assets": 22,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315228",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315240",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315250",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315280",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315299",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315990",
+    "n_assets": 163,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "315999",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "316210",
+    "n_assets": 47,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "316213",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "316214",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "316990",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "316998",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "316999",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321113",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321114",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321211",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321212",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321213",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321215",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321219",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321911",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321912",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321918",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321920",
+    "n_assets": 50,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321991",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321992",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "321999",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "322120",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "322121",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "322211",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "322212",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "322219",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "322220",
+    "n_assets": 29,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "322230",
+    "n_assets": 25,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "322291",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "322299",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "323111",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "323113",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "323114",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "323117",
+    "n_assets": 18,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "323119",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "323120",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "324110",
+    "n_assets": 505,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "324121",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "324122",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "324191",
+    "n_assets": 53,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "324199",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325110",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325120",
+    "n_assets": 146,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325130",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325180",
+    "n_assets": 58,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325199",
+    "n_assets": 47,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325211",
+    "n_assets": 35,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325212",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325220",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325311",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325314",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325320",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325411",
+    "n_assets": 35,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325412",
+    "n_assets": 60,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325413",
+    "n_assets": 71,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325414",
+    "n_assets": 23,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325510",
+    "n_assets": 69,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325520",
+    "n_assets": 45,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325611",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325612",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325613",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325620",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325910",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325920",
+    "n_assets": 63,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325991",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325992",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "325998",
+    "n_assets": 122,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326111",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326112",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326113",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326121",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326122",
+    "n_assets": 30,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326130",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326140",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326150",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326160",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326191",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326199",
+    "n_assets": 72,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326211",
+    "n_assets": 19,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326212",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326220",
+    "n_assets": 62,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326291",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "326299",
+    "n_assets": 45,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327110",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327120",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327211",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327212",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327213",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327215",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327310",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327320",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327331",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327332",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327390",
+    "n_assets": 23,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327410",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327910",
+    "n_assets": 34,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327991",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327992",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327993",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "327999",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331110",
+    "n_assets": 39,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331210",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331221",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331222",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331313",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331314",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331315",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331318",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331410",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331420",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331491",
+    "n_assets": 31,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331492",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331511",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331512",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331513",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331523",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331524",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "331529",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332111",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332112",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332114",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332117",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332119",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332212",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332215",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332216",
+    "n_assets": 88,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332311",
+    "n_assets": 138,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332312",
+    "n_assets": 82,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332313",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332321",
+    "n_assets": 56,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332322",
+    "n_assets": 27,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332323",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332410",
+    "n_assets": 41,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332420",
+    "n_assets": 27,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332431",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332439",
+    "n_assets": 102,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332510",
+    "n_assets": 427,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332613",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332618",
+    "n_assets": 71,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332710",
+    "n_assets": 162,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332721",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332722",
+    "n_assets": 366,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332811",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332812",
+    "n_assets": 22,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332813",
+    "n_assets": 34,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332911",
+    "n_assets": 160,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332912",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332913",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332919",
+    "n_assets": 117,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332991",
+    "n_assets": 151,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332992",
+    "n_assets": 27,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332993",
+    "n_assets": 110,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332994",
+    "n_assets": 222,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332996",
+    "n_assets": 104,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "332999",
+    "n_assets": 293,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333111",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333112",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333120",
+    "n_assets": 161,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333131",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333132",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333241",
+    "n_assets": 60,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333242",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333243",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333244",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333248",
+    "n_assets": 118,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333249",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333298",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333310",
+    "n_assets": 302,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333313",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333314",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333315",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333316",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333318",
+    "n_assets": 29,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333319",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333411",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333413",
+    "n_assets": 85,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333414",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333415",
+    "n_assets": 211,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333511",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333514",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333515",
+    "n_assets": 85,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333517",
+    "n_assets": 159,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333519",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333611",
+    "n_assets": 35,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333612",
+    "n_assets": 32,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333613",
+    "n_assets": 116,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333618",
+    "n_assets": 166,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333911",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333912",
+    "n_assets": 93,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333913",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333914",
+    "n_assets": 101,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333921",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333922",
+    "n_assets": 37,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333923",
+    "n_assets": 129,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333924",
+    "n_assets": 129,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333991",
+    "n_assets": 34,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333992",
+    "n_assets": 60,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333993",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333994",
+    "n_assets": 36,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333995",
+    "n_assets": 25,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333996",
+    "n_assets": 70,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333997",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333998",
+    "n_assets": 172,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "333999",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334111",
+    "n_assets": 370,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334112",
+    "n_assets": 71,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334118",
+    "n_assets": 110,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334119",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334210",
+    "n_assets": 30,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334220",
+    "n_assets": 359,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334290",
+    "n_assets": 259,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334310",
+    "n_assets": 210,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334412",
+    "n_assets": 95,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334413",
+    "n_assets": 115,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334416",
+    "n_assets": 83,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334417",
+    "n_assets": 131,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334418",
+    "n_assets": 64,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334419",
+    "n_assets": 388,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334510",
+    "n_assets": 100,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334511",
+    "n_assets": 433,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334512",
+    "n_assets": 38,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334513",
+    "n_assets": 207,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334514",
+    "n_assets": 44,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334515",
+    "n_assets": 269,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334516",
+    "n_assets": 513,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334517",
+    "n_assets": 35,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334519",
+    "n_assets": 348,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334610",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "334614",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335110",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335121",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335122",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335129",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335131",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335132",
+    "n_assets": 25,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335139",
+    "n_assets": 57,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335210",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335220",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335222",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335311",
+    "n_assets": 126,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335312",
+    "n_assets": 157,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335313",
+    "n_assets": 70,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335314",
+    "n_assets": 69,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335910",
+    "n_assets": 105,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335911",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335912",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335921",
+    "n_assets": 34,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335929",
+    "n_assets": 30,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335931",
+    "n_assets": 134,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335932",
+    "n_assets": 22,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335991",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "335999",
+    "n_assets": 292,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336110",
+    "n_assets": 38,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336111",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336112",
+    "n_assets": 19,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336120",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336211",
+    "n_assets": 36,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336212",
+    "n_assets": 67,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336214",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336310",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336320",
+    "n_assets": 47,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336322",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336330",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336340",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336350",
+    "n_assets": 41,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336360",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336370",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336390",
+    "n_assets": 148,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336411",
+    "n_assets": 158,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336412",
+    "n_assets": 154,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336413",
+    "n_assets": 1061,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336414",
+    "n_assets": 30,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336415",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336419",
+    "n_assets": 45,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336510",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336611",
+    "n_assets": 459,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336612",
+    "n_assets": 79,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336991",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336992",
+    "n_assets": 71,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "336999",
+    "n_assets": 70,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337110",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337121",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337122",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337124",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337125",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337126",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337127",
+    "n_assets": 81,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337211",
+    "n_assets": 75,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337212",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337214",
+    "n_assets": 325,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337215",
+    "n_assets": 60,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337910",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "337920",
+    "n_assets": 24,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339111",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339112",
+    "n_assets": 238,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339113",
+    "n_assets": 219,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339114",
+    "n_assets": 29,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339115",
+    "n_assets": 24,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339116",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339910",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339920",
+    "n_assets": 157,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339930",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339932",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339940",
+    "n_assets": 82,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339944",
+    "n_assets": 23,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339950",
+    "n_assets": 92,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339991",
+    "n_assets": 144,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339992",
+    "n_assets": 37,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339993",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339994",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339995",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "339999",
+    "n_assets": 227,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "421450",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423110",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423120",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423210",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423310",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423320",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423390",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423410",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423420",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423430",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423440",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423450",
+    "n_assets": 236,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423490",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423510",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423610",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423620",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423690",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423710",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423720",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423730",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423740",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423810",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423830",
+    "n_assets": 25,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423840",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423850",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423860",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423910",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "423990",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424120",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424130",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424210",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424340",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424350",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424410",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424440",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424480",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424490",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424690",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424710",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424720",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "424990",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "441110",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "441221",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "441222",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "441227",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "441228",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "441330",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "443112",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "443120",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "444110",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "444130",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "444180",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "444190",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "449110",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "449121",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "449210",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "452319",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "453210",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "453998",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "454319",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "455219",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "456199",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "457210",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "458110",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "458210",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "458320",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "459110",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "459910",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "459999",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "481111",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "481112",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "481211",
+    "n_assets": 54,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "481212",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "481219",
+    "n_assets": 24,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "482111",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "483111",
+    "n_assets": 80,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "483112",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "483113",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "483114",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "483211",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "483212",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "484110",
+    "n_assets": 38,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "484121",
+    "n_assets": 19,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "484210",
+    "n_assets": 147,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "484220",
+    "n_assets": 23,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "484230",
+    "n_assets": 19,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "485111",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "485113",
+    "n_assets": 23,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "485210",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "485310",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "485320",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "485410",
+    "n_assets": 54,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "485510",
+    "n_assets": 70,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "485991",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "485999",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "486210",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "487110",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "487210",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "487990",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488111",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488119",
+    "n_assets": 34,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488190",
+    "n_assets": 159,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488210",
+    "n_assets": 43,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488310",
+    "n_assets": 54,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488320",
+    "n_assets": 55,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488330",
+    "n_assets": 29,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488390",
+    "n_assets": 24,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488410",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488490",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488510",
+    "n_assets": 18,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488991",
+    "n_assets": 24,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "488999",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "491110",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "492110",
+    "n_assets": 38,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "492210",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "493110",
+    "n_assets": 65,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "493120",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "493190",
+    "n_assets": 50,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "511110",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "511120",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "511130",
+    "n_assets": 27,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "511199",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "511210",
+    "n_assets": 250,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "512110",
+    "n_assets": 40,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "512120",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "512191",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "512199",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "512230",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "512240",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "512250",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "512290",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "513110",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "513120",
+    "n_assets": 53,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "513130",
+    "n_assets": 41,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "513140",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "513199",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "513210",
+    "n_assets": 645,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "513310",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "515111",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "515112",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "515120",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "515210",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "516110",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "516120",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "516210",
+    "n_assets": 31,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517110",
+    "n_assets": 49,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517111",
+    "n_assets": 163,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517112",
+    "n_assets": 44,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517121",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517122",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517210",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517311",
+    "n_assets": 123,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517312",
+    "n_assets": 25,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517410",
+    "n_assets": 75,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517810",
+    "n_assets": 29,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517911",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "517919",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "518111",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "518210",
+    "n_assets": 157,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "519120",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "519130",
+    "n_assets": 44,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "519190",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "519210",
+    "n_assets": 31,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "519290",
+    "n_assets": 43,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "522110",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "522130",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "522190",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "522320",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "523210",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "523910",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "524114",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "524126",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "524127",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "524210",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "524292",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "524298",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "525110",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "531110",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "531120",
+    "n_assets": 106,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "531130",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "531190",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "531210",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "531311",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "531312",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "531320",
+    "n_assets": 22,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "531390",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532111",
+    "n_assets": 78,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532112",
+    "n_assets": 96,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532120",
+    "n_assets": 56,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532210",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532281",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532282",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532284",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532289",
+    "n_assets": 48,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532310",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532411",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532412",
+    "n_assets": 64,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532420",
+    "n_assets": 30,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "532490",
+    "n_assets": 268,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "533110",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541110",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541191",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541199",
+    "n_assets": 47,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541211",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541213",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541214",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541219",
+    "n_assets": 45,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541310",
+    "n_assets": 101,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541320",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541330",
+    "n_assets": 2655,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541340",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541350",
+    "n_assets": 28,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541360",
+    "n_assets": 23,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541370",
+    "n_assets": 119,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541380",
+    "n_assets": 395,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541410",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541420",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541430",
+    "n_assets": 29,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541490",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541511",
+    "n_assets": 633,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541512",
+    "n_assets": 536,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541513",
+    "n_assets": 145,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541519",
+    "n_assets": 923,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541611",
+    "n_assets": 664,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541612",
+    "n_assets": 54,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541613",
+    "n_assets": 32,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541614",
+    "n_assets": 143,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541618",
+    "n_assets": 43,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541620",
+    "n_assets": 254,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541690",
+    "n_assets": 177,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541710",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541711",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541712",
+    "n_assets": 95,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541713",
+    "n_assets": 90,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541714",
+    "n_assets": 83,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541715",
+    "n_assets": 3763,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541720",
+    "n_assets": 90,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541810",
+    "n_assets": 83,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541820",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541830",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541840",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541850",
+    "n_assets": 31,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541860",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541870",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541890",
+    "n_assets": 46,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541910",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541921",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541922",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541930",
+    "n_assets": 125,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541940",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "541990",
+    "n_assets": 486,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "551112",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561110",
+    "n_assets": 105,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561210",
+    "n_assets": 694,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561311",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561312",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561320",
+    "n_assets": 73,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561330",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561410",
+    "n_assets": 25,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561421",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561422",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561440",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561450",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561491",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561492",
+    "n_assets": 49,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561499",
+    "n_assets": 29,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561510",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561520",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561591",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561599",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561611",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561612",
+    "n_assets": 191,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561613",
+    "n_assets": 14,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561621",
+    "n_assets": 350,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561622",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561710",
+    "n_assets": 100,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561720",
+    "n_assets": 676,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561730",
+    "n_assets": 610,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561740",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561790",
+    "n_assets": 201,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561910",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561920",
+    "n_assets": 91,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "561990",
+    "n_assets": 260,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562111",
+    "n_assets": 342,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562112",
+    "n_assets": 48,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562119",
+    "n_assets": 55,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562211",
+    "n_assets": 141,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562212",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562213",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562219",
+    "n_assets": 54,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562910",
+    "n_assets": 493,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562920",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562991",
+    "n_assets": 322,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "562998",
+    "n_assets": 97,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611110",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611210",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611310",
+    "n_assets": 336,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611420",
+    "n_assets": 89,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611430",
+    "n_assets": 519,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611512",
+    "n_assets": 85,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611513",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611519",
+    "n_assets": 105,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611610",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611620",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611630",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611691",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611692",
+    "n_assets": 9,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611699",
+    "n_assets": 153,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "611710",
+    "n_assets": 221,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621111",
+    "n_assets": 112,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621112",
+    "n_assets": 18,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621210",
+    "n_assets": 17,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621320",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621330",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621340",
+    "n_assets": 32,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621399",
+    "n_assets": 46,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621410",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621420",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621492",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621498",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621511",
+    "n_assets": 114,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621512",
+    "n_assets": 16,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621610",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621910",
+    "n_assets": 53,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621991",
+    "n_assets": 22,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "621999",
+    "n_assets": 54,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "622110",
+    "n_assets": 82,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "622210",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "622310",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "623210",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "624110",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "624120",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "624190",
+    "n_assets": 41,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "624221",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "624229",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "624230",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "624310",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "624410",
+    "n_assets": 15,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "711110",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "711130",
+    "n_assets": 72,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "711190",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "711211",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "711219",
+    "n_assets": 29,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "711310",
+    "n_assets": 21,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "711320",
+    "n_assets": 23,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "711410",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "711510",
+    "n_assets": 67,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "712110",
+    "n_assets": 31,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "712120",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "712190",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "713110",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "713910",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "713920",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "713930",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "713940",
+    "n_assets": 22,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "713990",
+    "n_assets": 56,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "721110",
+    "n_assets": 1187,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "721120",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "721199",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "721211",
+    "n_assets": 367,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "721214",
+    "n_assets": 60,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "721310",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "722310",
+    "n_assets": 174,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "722320",
+    "n_assets": 215,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "722330",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "722511",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "722513",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "722515",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811111",
+    "n_assets": 109,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811113",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811114",
+    "n_assets": 20,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811118",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811121",
+    "n_assets": 47,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811191",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811192",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811198",
+    "n_assets": 40,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811210",
+    "n_assets": 482,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811211",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811212",
+    "n_assets": 53,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811213",
+    "n_assets": 31,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811219",
+    "n_assets": 203,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811310",
+    "n_assets": 1036,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811411",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811412",
+    "n_assets": 57,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811420",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811430",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "811490",
+    "n_assets": 45,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812111",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812199",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812210",
+    "n_assets": 35,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812220",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812310",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812320",
+    "n_assets": 151,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812331",
+    "n_assets": 22,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812332",
+    "n_assets": 108,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812910",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812930",
+    "n_assets": 25,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "812990",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "813110",
+    "n_assets": 227,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "813212",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "813311",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "813312",
+    "n_assets": 22,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "813319",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "813410",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "813910",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "813920",
+    "n_assets": 85,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "813990",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "921150",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "921190",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "922120",
+    "n_assets": 130,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "922130",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "922140",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "922160",
+    "n_assets": 18,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "922190",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "923110",
+    "n_assets": 33,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "924110",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "924120",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "926110",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "926120",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "926130",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "926150",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "927110",
+    "n_assets": 29,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "928110",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "A TechStars accelerator focused on developing technology and companies serving the U.S. Air Force.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "A hub for practical entrepreneurial support in starting companies that carry the ideas and innovations of Purdue faculty and students out of their labs, beyond academia and across the globe.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "A-10",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AFOSR delivers high-risk basic research investments that shape future air and space capabilities by advancing foundational science with long-term military relevance.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AFRL’s 711th Human Performance Wing advances human performance through research, education, and consultation in aerospace medicine, human systems integration, and operational medical readiness",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AFRL’s Aerospace Systems Directorate develops propulsion, flight, and platform technologies that expand the performance, efficiency, and survivability of future aerospace systems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AFRL’s Directed Energy Directorate develops and transitions laser, high-power electromagnetic, and optical technologies to deliver next-generation directed-energy capabilities for air and space operations.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AFRL’s Information Directorate develops advanced C4I, cyber, and data-driven technologies that transform information into decision advantage for air, space, and cyber missions.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AFRL’s Materials and Manufacturing Directorate develops advanced materials, processes, and manufacturing technologies that improve the performance, durability, and producibility of defense systems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AFRL’s Munitions Directorate develops advanced conventional weapons technologies to deliver more effective, affordable, and precise munitions for multi-domain operations.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AFRL’s Sensors Directorate develops sensor and countermeasure technologies for reconnaissance, surveillance, precision engagement, and electronic warfare to secure operational advantage.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AFRL’s Space Vehicles Directorate develops and transitions space technologies that strengthen communications, missile warning, navigation, and broader space mission capabilities for the warfighter.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AI",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AMC operates depots",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "AME covers a very large region and provides bulk fuel/energy products (fuel supply chain + QA functions).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Accelerate the growth of Hawaii's technology industry by providing capital, building infrastructure and developing talent to foster innovation.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Accelerates DoD-focused technology transfer and commercialization—particularly in hypersonics, cyber-physical systems, trusted microelectronics, and artificial intelligence—by convening academia, industry, and government to drive defense solutions and regional economic growth.",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Accelerates commercialization and ecosystem growth by providing shared infrastructure, prototyping capabilities, navigation support, and collaborative programming for space technology development.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Accelerating technology-enabled growth in research, academia, entrepreneurship and industry.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Acts as a gateway for Ohio orgs to plug into national security tech efforts via collaboration space and ecosystem support centered in Dayton.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Advance critical technology by connecting industry partners with the research community. We are committed to serving as an outreach arm by creating awareness of Air Force T3 opportunities in New York State aAnd across the nation.",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Advanced Manufacturing and Industrial Automation",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Advanced Materials and Critical Minerals",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Aid the U.S. Army Cyber Command in defending the Department of Defense Information Network, delivering cyberspace effects, and rapidly developing and deploying cyberspace capabilities.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Air Force Research Laboratory New Mexico is leading the way in the Nation’s laser, optical, and space supremacy technologies. ​",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Air and missile defense",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Americas West operates out of Naval Weapons Station Seal Beach and performs energy logistics/quality functions for large-scale bulk fuel delivery.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Ammunition distribution and demilitarization, guided munitions maintenance",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Ammunition production, storage, distribution, modification, and demilitarization.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Ammunition storage and maintenance.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Ammunition storage, maintenance, and demilitarization",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Ammunition storage, maintenance, distribution, and demilitarization",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Ammunition storage, renovation, and demilitarization.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Ammunition storage, renovation, distribution, and demilitarization.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Applies engineering and business skills to understand urgent Army customer needs and requirements, and integrate crucial expertise and technology to create successful outcomes for the Warfighter.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Army-designated storage for Bradley, MLRS, HIMARS, HMMWV and other Class VII end items (Red River Army Depot ecosystem) (Army).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "As the only systems command in the Marine Corps, MCSC serves as Head of Contracting Authority and exercises technical authority for all Marine Corps ground weapon and information technology programs.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Assists DEVCOM AC with identifying nontraditional defense manufacturing firms capable of filling key U.S. Army advanced manufacturing technology needs.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Avance education through STEM (science, technology, engineering and math) based initiatives, to advance technology through speaker programs and networking, to advance science and technology transfer through the exchange of ideas, information and data related to technologies, and to foster workforce development through an array of initiatives.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "B-1B",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "B-52",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Biomanufacturing",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Bridges DoD, founders, funders, and universities in Hawai‘i to accelerate solutions tied to regional and Indo-Pacific security priorities.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Bridging the gap between technology and capability — Innovation and Modernization Patuxent River (IMPAX)",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Build a magnetic ecosystem in which the world’s leading scientific and entrepreneurial talent tackle the country’s greatest challenges to national security and economic competitiveness.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Build the network, provide the Venues, and develop the tools and processes to enable agile SOF Acquisition.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "C-130",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "C-17",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "C-5",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "C5ISR/electronics) (Army).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "CBRN defense",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Cannons, mortars, and associated components.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Central Florida Tech Grove creates connectivity and collaborations to support development of innovative solutions addressing the needs of the military. It provides education, support, and access for small businesses wanting to connect with the Modeling, Simulation & Training and Human Performance industry. Some of the many services we offer are:",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Challenge.gov is a platform that helps federal agencies crowdsource ideas and solutions from the public for software, scientific, and technology-based missions",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Chemical, biological, radiological, and nuclear (CBRN) systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Command, control, communications, computers, intelligence, surveillance, and reconnaissance systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Commission researchers, consultants, and subject matter experts in academia and industry to achieve your civil and defense priorities.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Commodity-centric: hard-copy geodetic products and ODS/HFC programs (geospatial products",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Concentrates on transition enablement (education, programming, services, convenings) that reduce barriers to moving innovations into DoD pathways.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Connects DoD needs with the Pacific Northwest’s major tech base through showcases, mentoring, and structured engagement to compete in the DoD market.",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Connects DoD problem owners with the Greater Boston research/startup base (notably deep tech + life sciences/human performance) to prototype commercially derived capabilities.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Connects people and resources across government, industry and academia to solve Air Force Global Strike Command’s most difficult problems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Connects technology companies to the Army’s technical community to jointly develop solutions to the Army’s most challenging problems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Connects universities, businesses and the government",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Contested Logistics Technologies",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Creates a cutting-edge environment that brings the best of Government, Industry, National & Federal Laboratories, and Academia together to work on the most difficult science and technology problems, while championing STEAM education and workforce development across all levels of society.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Cutting-edge center for innovation and technology commercialization.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Cybersecurity and Trusted Systems",
+    "n_assets": 12,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "DEPARTMENT-WIDE. Cultivate ecosystems that enable the acceleration of innovative solutions to benefit the warfighter and the nation.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "DEPARTMENT-WIDE. The authorized, nationally focused technology transfer partnership intermediary for the U.S. Department of Defense and Department of Veterans Affairs.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "DEPARTMENT-WIDE. To accelerate the transition of new technology to the U.S. Government.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "DLA Energy AMN supports operational energy needs across geographies",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "DLA Energy has an Indo-Pacific presence and conducts operational energy activities tied to the region.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "DLA Energy’s mission is DoD energy supply/logistics: fuel & energy logistics",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "DLA Weapons Support (Columbus) provides weapons system and platform support across many multi-service systems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "DLA Weapons Support (Richmond) is the integrated material manager for ~1.7M NSN items supporting major weapon systems: aircraft weapon systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Designated North American Distribution Center for the F-35",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Designed to make fundamental advances in artificial intelligence to improve Department of the Air Force operations while also addressing broader societal needs.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Develop a sustainable knowledge-based workforce that can support the growing needs of government, industry, and academic partners.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Direct support for carriers, submarines, supply ships in the Pacific Northwest (Navy).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "DreamPort is a combination of state-of-the-art facilities, innovative programs, and imaginative people charged with finding that spark that leads to unparalleled capability for USCYBERCOM and the warfighters at large.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "E-3",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "E-6",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "ERDC’s Coastal and Hydraulics Laboratory delivers advanced science and engineering for coastal, riverine, and hydraulic systems—combining modeling, field data, and applied research to reduce flood and coastal risk, improve water and sediment management, and support military and civil works decision-making.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "ERDC’s Geotechnical and Structures Laboratory delivers engineering research for geotechnical systems, protective structures, and resilient infrastructure to strengthen military installations, civil works, and national security missions.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "ERDC’s Information Technology Laboratory develops advanced computing, data, and information technologies to solve complex engineering and scientific challenges for the warfighter and the nation.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Empower small businesses, entrepreneurs, and academia to identify new partnerships for innovation and commercialization with the ERDC in military engineering, environmental quality and inspections, civil works and water resources, geospatial research and engineering, and engineered resilient systems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Enhance economic development by fostering an inclusive and entrepreneurial innovation ecosystem. Identify, invest in, and help grow technology companies in Maryland.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "EvoNexus Incubators enable motivated entrepreneurs to turn their transformative ideas into fundable, commercially-viable companies.  The San Diego and Irvine incubation programs span across all tech sectors.",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "F-15",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "F-16",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "F-22",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "F-35",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "FLEETWERX (FWX) is a Naval Postgraduate School–aligned innovation hub that integrates government, industry, labs, and academia to advance maritime science and technology solutions while strengthening STEAM-driven workforce development for U.S. naval superiority.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Focuses on defense innovation through advanced manufacturing and aerospace, leveraging university labs and NIAR-linked capabilities to help prototype and transition tech.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense and national security sectors, with a focus on advanced manufacturing and AI-driven solutions. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively), led by veterans. Funded technologies include: Advanced Manufacturing and Industrial Automation",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively), led by veterans. Funded technologies include: Advanced Manufacturing and Industrial Automation, Space Platforms, Propulsion, and On-Orbit Operations",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively), with a focus on AI-driven solutions, life sciences, advanced hardware manufacturing, microelectronic and quantum technologies, and aerospace. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively), with a focus on aerospace and cybersecurity. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively), with a focus on aerospace, Funded technologies include: Space Platforms, Propulsion, and On-Orbit Operations",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively), with a focus on aerospace. Funded technologies include:",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively), with a focus on aerospace. Funded technologies include: Space Platforms, Propulsion, and On-Orbit Operations",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively), with a focus on defense tech, space and AI. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively), with a focus on technology systems, cybersecurity, and artificial intelligence applications. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector (not exclusively). Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector and national security sectors, with a focus on AI-based solutions, cybersecurity, infrastructure, and deep tech. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector, focused on aerospace and advanced manufacturing. Funded technologies include: Advanced Manufacturing and Industrial Automation",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector, focused on dual-use technologies. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector, focused on energy and infrastructure. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector, focusing on aerospace, AI and machine learning, autonomy and robotics, and cybersecurity, Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector, led by veterans and focusing on aerospace, advanced manufacturing, advanced materials, data, and cybersecurity. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector, with a focus on applied technology. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector, with a focus on artificial intelligence, cyber-security, autonomy, and space. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector, with a focus on biology and biochemistry, chemistry and material science, engineering and electronics, infrastructure and computer science, and physics and aerospace, Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector, with a focus on cybersecurity, aerospace, and defense information systems. Funded technologies include: Contested Logistics Technologies",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense sector. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Funds firms in the defense, public safety sector, aviation, and aerospace industries (not exclusively), with a focus on software and technology-driven solutions. Funded technologies include: Applied Artificial Intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Headquarters of Joint Munitions Command",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Hyperspace Challenge is a business accelerator that forges valuable relationships between the government, startup, and university communities to accelerate innovation for the space domain.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Integral to FRC East production line refurbishing DoD aircraft/components for the Navy/USMC aviation (Navy - USMC aviation)",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Introduce innovative, dual-use technology to the Department of Defense in support of the US Warfighter while strengthening our nation’s economy by investing in start-ups and small businesses.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Its mission-driven team of trusted experts specialize in microelectronics, 5G, emerging manufacturing, unconventional energy, hypersonics, space, sensors and cybersecurity, with a commitment to job creation and sustainable economic development.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Joint Manufacturing and Technology Center",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Joint Munitions Command",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "KC-135",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "KC-46",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Leverage an economic development cluster strategy that capitalizes on the competitive advantage of Colorado’s aerospace, defense and homeland security, advanced manufacturing, electronics, cybersecurity and information technology industries to expand the region’s industrial base.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Leverages Austin’s high-growth tech ecosystem to source and prototype dual-use capabilities—especially autonomy and adjacent software stacks—into faster DoD contracting pathways.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Leverages Montana’s growing defense/aerospace/advanced manufacturing ecosystem—aviation, space, autonomy, materials, climate-resilient tech—plus test environments and mission partners",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Located on Naval Base San Diego",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "MSET leverages NASA Stennis and partner agency technical assets to support technology commercialization, industry growth, and high-tech business attraction by providing companies with access to federal technologies, partnerships, and innovation support resources.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Military unit of the United States Navy that serves supply command for providing supplies and services to both the Navy and the United States Marine Corps. It oversees supply chain management and security assistance.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Minuteman III Intercontinental Ballistic Missiles",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NAMRU-Dayton delivers aerospace medical, toxicology, and environmental health research to improve warfighter health, performance, and operational readiness.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NAMRU-San Antonio delivers combat casualty care, craniofacial, and directed-energy-related biomedical research to improve survival, safety, and readiness in expeditionary operations.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NAUTILUS scouts, evaluates, and accelerates emerging defense technologies by leveraging partnerships, R&D agreements, and innovation programs to connect entrepreneurs and industry with Navy and Marine Corps operational needs.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NAVAIR's mission is to provide full life-cycle support of naval aviation aircraft, weapons and systems operated by Sailors and Marines. This support includes research, design, development and systems engineering, acquisition, test and evaluation, training facilities and equipment, repair and modification, and in-service engineering and logistics support.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NAVSEA's primary objective is to engineer, build, buy, and maintain the U.S. Navy's fleet of ships and its combat systems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NAWCAD Lakehurst delivers engineering, sustainment, and modernization for aircraft launch, recovery, and support systems to keep naval aviation mission-ready across the fleet.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NAWCTSD delivers research, development, acquisition, and lifecycle support for advanced training systems that prepare warfighters through simulation and mission-focused learning technologies.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NAWCWD at China Lake delivers full-spectrum weapons research, development, test, and evaluation through its land ranges and technical expertise to advance naval and joint warfighting capabilities.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NAWCWD at Point Mugu delivers maritime and airborne test, evaluation, electronic warfare, and range capabilities that strengthen naval weapons development and operational effectiveness.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NSIN or the National Security Innovation Network is a United States Department of Defense (DoD) program office under the Defense Innovation Unit that seeks to create new communities of innovators to solve national security problems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NSMRL delivers evidence-based research on undersea warfighter health and performance to support the readiness, safety, and effectiveness of submariners and divers.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "NSTXL is an end-to-end acquisition support accelerator for military technology innovation.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Naval Medical Research Center delivers operational medical research on issues such as neurotrauma, wound infection, decompression sickness, infectious disease, and biological threats to support fleet and joint readiness.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Navy and Marine Corps airframes and systems",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Nuclear Technologies and Radiation Effects",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Primary customers include Navy ships and Navy industrial activities",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Primary wholesale distribution for major helicopter components supporting repair missions (Army - Army aviation).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Primary wholesale/retail storage & distribution for MCLB Albany, repair parts/expendables (Navy - Marine Corps).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Produces metal parts for large caliber ammunition.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Promote our nation’s economic and military strength globally by promoting our nation’s innovation.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Promotes defense, homeland defense/security, and public safety objectives by identifying small business firms, private/public sector agencies, and other educational institutions that may need or can make demonstrably productive use of technology-related assistance from DEVCOM Armaments Center.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Provide military and national security customers with a robust and secure source of battery development and low-volume production under one roof with linkages to an array of high-volume commercial manufacturing partners.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Provides a responsive and flexible business environment to enable the collaboration of private industry, academia and the Air Force Research Laboratory Information Directorate.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Provides collaborative environments and data analytic services that support AFOSR’s mission to discover, shape, and champion basic research that profoundly impacts the future Air Force.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Provides contracting, grant, and research administration services for the Georgia Tech Research Institute (GTRI), a business segment of Georgia Tech committed to applied research.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Provides mission-critical geospatial intelligence (GEOINT) to support military operations, national security decision-making, and global situational awareness for warfighters, policymakers, and intelligence partners.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Quantum and Battlefield Information Dominance",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "RTI assists government agencies by actively marketing federally-funded technologies and IP to find partners to license and commercialize inventions",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Rotary wing aircraft.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: acquisition engineering",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: applied science",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: army tech",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: aviation weapons",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: data analytics",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: detection",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: directed energy",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: effects-based analysis",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: energetic systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: engineering",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: fleet support",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: global technical support",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: ground vehicle systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: mine warfare",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: naval machinery",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: navy tech",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: seapower",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: ships",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: soldier lifecycle",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: warfare capabilities",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: warfighting tech",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "STRL: weapons",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Saab serves the global market of governments, authorities and corporations with products, services and solutions ranging from military defence to civil security.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Scouts and accelerates dual-use software-centric innovation (AI/autonomy/cyber, etc.) from the Silicon Valley ecosystem into rapid DoD prototypes and transition pathways.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Secure Microelectronics and Photonics",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Serves as a strategic distribution platform",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Serves as the “inside” node that aligns DIU projects with DoD requirements, acquisition stakeholders, and scaling pathways to move prototypes toward adoption.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Services designed to accelerate the adoption of artificial intelligence/machine learning, digital, and data analytics solutions throughout the Department of Defense.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Software (no figura en la tabla)",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Specialized ammunition production, including illuminating, infrared, phosphorus, and smoke munitions.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Squidworks is a marine-focused incubator developing commercial value from novel technologies.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Starburst Accelerator is a company that looks to provide acceleration for major aerospace stakeholder, mentors, and businesses around the world",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Stores broad commodities incl. equipment replacement parts, engines/transmissions for the Marine Corps (MCLB Barstow) (Navy - Marine Corps).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Stores items up to M1A2 tanks",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Strengthens the regional Small Businesses Through Government Contracting. Not defense focused. But they offer services to implement the necessary cybersecurity standards to compete for and execute DOD contracts.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Strengthens the state’s defense and high-tech innovation ecosystem by investing in early-stage ventures and supporting commercialization infrastructure through co-investment funds and ecosystem development programs targeting strategic technology sectors.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Supports DoD communications/electronics, including C3, intelligence/EW, SATCOM systems. (Tobyhanna Army Depot",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Supports FRCSE, NAVAIR, and related Navy aviation/logistics customers (Navy - Navy Aviation).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Supports Minuteman/Peacekeeper, F-16/A-10/C-130, and depot-level overhaul/repair (missile sustainment",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Supports the Air Force Research Labs Munitions Directorate by working to license and commercialize AFRL/RW technologies in the private sector through technology transfer, enable rapid technology delivery to the warfighter via technology transition, identify and foster new R&D partnerships through innovation and collaboration, and develop today’s students into tomorrow’s STEM workforce.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Supports the Army Software Factory. Activities include coding camps, internships with local industry, and paired programming operations with industry experts.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "T-38",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "TMA BlueTech is the organizing hub advancing maritime defense innovation and ocean intelligence from San Diego to aligned regions and partners worldwide.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Tactical wheeled vehicles.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Taps Midwest talent and solutions—often linked to industrial/engineering strengths—to surface companies and prototypes for pressing national security needs",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The Allied Space Accelerator is a virtual program focused on developing space technologies through acceleration of technologies in the commercial space industry.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The Cold Regions Research and Engineering Laboratory delivers specialized research and engineering in cold environments—advancing infrastructure, mobility, and operational capabilities in extreme cold, ice, and permafrost conditions to support military readiness and Arctic operations.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The DEVCOM Analysis Center (DAC) and The Research Analysis Center (TRAC) have transitioned together to a new organization called the Transformation Decision Analysis Center (TDAC) in February 2026. It delivers advanced analytical capabilities—spanning systems effectiveness, modeling and simulation, scenario development, and operational performance—to inform Army and Joint Force decision-making, enhance readiness, and support future force design and strategic planning.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The Defense Microelectronics Activity delivers microelectronics products, services, and technical expertise that sustain weapon systems readiness and strengthen the defense industrial base.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The ERDC Construction Engineering Research Laboratory delivers applied research and engineering solutions in infrastructure resilience, military installations, and energy systems—integrating advanced materials, sustainability, and operational engineering to enhance Army readiness, modernization, and long-term installation performance.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The ERDC Environmental Laboratory delivers interdisciplinary environmental science and engineering—integrating ecosystem restoration, water quality, and environmental risk analysis to support sustainable infrastructure, regulatory compliance, and military and civil works decision-making.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The ERDC Geospatial Research Laboratory delivers advanced geospatial science and analytics—leveraging remote sensing, AI/ML, and spatial data integration to enhance situational awareness, infrastructure intelligence, and decision support for military and civil operations.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The Fairbanks Morse Defense (FMD) Accelerator program fosters startups and small businesses developing maritime, naval, and mission-critical technologies through mentorship, expert guidance, and industry connections.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The Navy's technical authority and acquisition command for C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance), business information technology and space systems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The U.S. Army Aeromedical Research Laboratory delivers medical and human-performance research focused on aircrew health, injury prevention, protection, and survivability to enhance aviation readiness and save lives.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The U.S. Army Center for Environmental Health Research advances environmental health science focused on detecting, assessing, and preventing harmful exposures in operational environments to protect force health and readiness.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The U.S. Army Institute of Surgical Research delivers combat casualty care, trauma, burn, and critical care research to improve survival and recovery for wounded service members.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The U.S. Army Medical Research Institute of Chemical Defense develops medical countermeasures, protective knowledge, and specialized expertise to prevent and treat injuries from chemical threats.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The U.S. Army Medical Research Institute of Infectious Diseases delivers biodefense research and medical solutions to detect, prevent, and counter infectious disease and biological threat risks.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The U.S. Army Research Institute of Environmental Medicine advances research on physiology, nutrition, and human performance in extreme environments to optimize warfighter health, safety, and readiness.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The United States Space Force's space development, acquisition, launch, and logistics field command.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The command conducts research, development, testing and evaluation, and provides the acquisition and life cycle management services and logistics support. The command develops, acquires and sustains the air power needed to defend the United States and its interests.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The corporation provides multi-disciplinary solutions to complex challenges in Intelligence, Cyber/IT, Defense/Security, Energy, and Health business sectors.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The plant primarily develops, tests, and manufactures various high explosive composite mixtures.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The plant primarily produces large and medium caliber ammunition, mortars, mines, missile warheads, and other explosives.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The plant primarily produces non-explosive projectile components for artillery and mortars.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The plant primarily produces propellants and explosive munitions.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "The plant primarily produces small caliber ammunition, cartridges, and related components (e.g., percussion, electric primers).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Through collaboration with small businesses, academic researchers, and non-traditional members of the cybersecurity community, TAC serves as an intermediary and helps connect U.S. Cyber Command (USCYBERCOM) and the U.S. government to the innovative products and solutions needed to advance the nation’s cybersecurity capabilities.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "To push innovation faster, developing technology the future needs now. We do it through partnerships, networking and leveraging those around us on a daily basis.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Tracked and wheeled ground combat vehicles",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Troop Support runs supply chains for food/feeding equipment, clothing/textiles, construction & equipment, and medical/pharmaceuticals",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Uniformed Services University educates and develops military health professionals, scientists, and leaders while advancing military-relevant research to support the Military Health System and operational readiness.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "United States Navy's engineering systems command, providing the Navy and United States Marine Corps with facilities and expeditionary expertise.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Used as a major distribution/installation node for all the branches of defense (Joint).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Uses proximity to multiple installations plus Arizona’s testing/training and defense-contractor base to accelerate development and deployment of mission-relevant tech.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Variety of ground combat and combat support equipment.",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Variety of ships and submarines.",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "Walter Reed Army Institute of Research delivers military medical research spanning infectious diseases, brain health, operational medicine, and emerging health threats to strengthen force protection and readiness.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "acoustics",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "acquisition solutions",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "advanced sensors",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "aerospace engineering",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "air",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "air defense",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "air power strategy",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "air vehicle",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "aircraft depot overhaul). Works for the Air Force (Ogden ALC) (Air Force).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "also supports other Services locally (Navy).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "ammunition plants",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "amphibious",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and Army Sustainment Command.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and advance defense technology development for the Department of the Air Force.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and hosting events to showcase technologies and accelerate technology transfer and commercialization efforts.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and landing gear.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and other facilities, and maintains the Army's prepositioned stocks, both on land and afloat.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and precision fires systems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and rail equipment.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and software.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and specialized ammunition.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "and various special operations forces aircraft.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "army policy",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "army tech",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "arsenals",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "atmospheric",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "automation",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "autonomous underwater systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "aviation sustainment",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "biofabrication",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "bioindustrial manufacturing",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "biotechnology",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "biotechnology materials",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "build collaborations between these sectors",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "bulk petroleum supply chain",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "cartridge case production at the Quad City Cartridge Case Facility.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "chemical processing",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "combat systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "communications",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "computers",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "computing",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "conducts kitting/inspection/repair/mods for combat wheeled vehicles and small arms for the Anniston Army Depot ecosystem (Army).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "contingency energy support",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "cost and resource",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "cryptology",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "cybersecurity",
+    "n_assets": 10,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "cybersecurity in manufacturing",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "cyberspace",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "data analytics",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "decontamination",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "defense policy",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "defense systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "defense systems engineering",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "depot-level reparables.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "design",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "digital",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "diving",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "electronic warfare",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "electronics",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "electronics, avionics, and missile guidance/control systems.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "encryption",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "engineering",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "environmental sciences",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "evaluating regional innovation ecosystems and identifying best practices to spur growth",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "expeditionary maneuver",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "fielded information warfare systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "fleet support",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "force planning",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "geospatial sciences",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "ground vehicle systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "human performance, epidemiology, operational medicine",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "human-autonomy",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "hypersonics",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "identify their transformational operational defense solutions and capabilities",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "land power",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "life support",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "lightweighting",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "logistics and resources",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "marine tech",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "maritime",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "maritime systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "material processing",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "materials",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "materials science",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "metrology",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "missile",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "missile defense",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "modeling and simulation",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "nanotechnology",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "national defense",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "national security strategy",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "national security tech",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "naval operations",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "naval special warfare",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "navigation",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "nuclear deterrence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "nuclear monitoring",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "ocean",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "oceanography",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "optics and photonics",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "orbital surveillance",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "ozone-depleting substances",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "precision targeting",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "production of Ammunition Peculiar Equipment",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "propulsion",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "radar",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "recycling",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "refrigerants (HFC)) (Joint).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "remote sensing",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "reuse",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "robotics",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "satellite tracking",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "science and technology assessments",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "seismic detection",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "sensor networks",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "sensors",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "signals intelligence",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "small caliber weapons",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "software engineering",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "soldier lifecycle",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "soldier performance",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "sonar",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "space",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "space power strategy",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "space sensors",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "space systems",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "special warfare weapons",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "standard distribution + Sub-Safe Level 1 program support (Navy)",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "stores wide range incl. electrical components, tires, secondary repair parts, sonobuoys, etc. (West Coast strategic distribution hub) (Joint).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "strategic planning",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "strategic threats",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "submarines",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "supports Tinker AFB deployments (Air Force).",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "surface platforms",
+    "n_assets": 3,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "sustainable manufacturing",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "systems engineering",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "tactical autonomy",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "technical solutions",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "threat and risk assessment",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "towed and self-propelled artillery",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "training aspiring entrepreneurs and researchers on start-up methodologies to identify and pitch their innovations to investors",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "trusted systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "undersea platforms",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "undersea warfare",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "undersea weapon systems",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "unmanned aerial",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "various aircraft engines",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "virtual reality",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "warfare capabilities",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "warfare systems",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "warfighting tech",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "water resources",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "weapons",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "xTechsearch is a small business competition sponsored by the Assistant Secretary of the Army for the uncovering of dual-use science and technology to solve Army modernization challenges.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "tech": "“Americas North” is typically positioned for austere/cold-weather sustainment.",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  }
+]

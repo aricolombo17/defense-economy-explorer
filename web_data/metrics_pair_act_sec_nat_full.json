@@ -1,0 +1,1372 @@
+[
+  {
+    "combo": "Production | Aircraft & Aviation",
+    "a": "Production",
+    "b": "Aircraft & Aviation",
+    "assets_int": 2297,
+    "assets_alloc": 110905.1274,
+    "amt_alloc": 69641221641.235,
+    "share_assets": 0.0147,
+    "share_amt": 0.0664
+  },
+  {
+    "combo": "Logistics & Sustainment | Maintenance, Repair & Operations",
+    "a": "Logistics & Sustainment",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 11394,
+    "assets_alloc": 77755.1262,
+    "amt_alloc": 63473258838.785,
+    "share_assets": 0.0103,
+    "share_amt": 0.0605
+  },
+  {
+    "combo": "Services | Engineering & Technical Services",
+    "a": "Services",
+    "b": "Engineering & Technical Services",
+    "assets_int": 6659,
+    "assets_alloc": 23146.0452,
+    "amt_alloc": 48089345563.135,
+    "share_assets": 0.0031,
+    "share_amt": 0.0459
+  },
+  {
+    "combo": "Innovation | R&D and Science & Technology",
+    "a": "Innovation",
+    "b": "R&D and Science & Technology",
+    "assets_int": 5368,
+    "assets_alloc": 12498.0202,
+    "amt_alloc": 46323963581.06,
+    "share_assets": 0.0017,
+    "share_amt": 0.0442
+  },
+  {
+    "combo": "Production | Munitions & Missile Systems",
+    "a": "Production",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 1868,
+    "assets_alloc": 16182.1464,
+    "amt_alloc": 42763756263.075,
+    "share_assets": 0.0021,
+    "share_amt": 0.0408
+  },
+  {
+    "combo": "Services | Maintenance, Repair & Operations",
+    "a": "Services",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 6570,
+    "assets_alloc": 14074.1429,
+    "amt_alloc": 41810010444.875,
+    "share_assets": 0.0019,
+    "share_amt": 0.0399
+  },
+  {
+    "combo": "Innovation | Engineering & Technical Services",
+    "a": "Innovation",
+    "b": "Engineering & Technical Services",
+    "assets_int": 4729,
+    "assets_alloc": 7908.1869,
+    "amt_alloc": 39735301031.84,
+    "share_assets": 0.001,
+    "share_amt": 0.0379
+  },
+  {
+    "combo": "Logistics & Sustainment | Aircraft & Aviation",
+    "a": "Logistics & Sustainment",
+    "b": "Aircraft & Aviation",
+    "assets_int": 2690,
+    "assets_alloc": 504010.6167,
+    "amt_alloc": 35481196414,
+    "share_assets": 0.0668,
+    "share_amt": 0.0338
+  },
+  {
+    "combo": "Logistics & Sustainment | Maritime & Shipbuilding",
+    "a": "Logistics & Sustainment",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 1727,
+    "assets_alloc": 9018.4167,
+    "amt_alloc": 31001449417.97,
+    "share_assets": 0.0012,
+    "share_amt": 0.0296
+  },
+  {
+    "combo": "Production | Space Systems & Satellites",
+    "a": "Production",
+    "b": "Space Systems & Satellites",
+    "assets_int": 463,
+    "assets_alloc": 897.0063,
+    "amt_alloc": 30046709078.72,
+    "share_assets": 0.0001,
+    "share_amt": 0.0287
+  },
+  {
+    "combo": "Production | Maintenance, Repair & Operations",
+    "a": "Production",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 2615,
+    "assets_alloc": 11813.6909,
+    "amt_alloc": 29771303970.83,
+    "share_assets": 0.0016,
+    "share_amt": 0.0284
+  },
+  {
+    "combo": "Services | Digital Technologies & Software",
+    "a": "Services",
+    "b": "Digital Technologies & Software",
+    "assets_int": 3817,
+    "assets_alloc": 25587.0369,
+    "amt_alloc": 29485559606.835,
+    "share_assets": 0.0034,
+    "share_amt": 0.0281
+  },
+  {
+    "combo": "Logistics & Sustainment | Engineering & Technical Services",
+    "a": "Logistics & Sustainment",
+    "b": "Engineering & Technical Services",
+    "assets_int": 2596,
+    "assets_alloc": 6769.1095,
+    "amt_alloc": 28876635543.275,
+    "share_assets": 0.0009,
+    "share_amt": 0.0275
+  },
+  {
+    "combo": "Construction | Construction",
+    "a": "Construction",
+    "b": "Construction",
+    "assets_int": 3107,
+    "assets_alloc": 9813.5167,
+    "amt_alloc": 28207546678.82,
+    "share_assets": 0.0013,
+    "share_amt": 0.0269
+  },
+  {
+    "combo": "Logistics & Sustainment | Unknown sector",
+    "a": "Logistics & Sustainment",
+    "b": "Unknown sector",
+    "assets_int": 10277,
+    "assets_alloc": 5260245,
+    "amt_alloc": 24905892681.855,
+    "share_assets": 0.6972,
+    "share_amt": 0.0238
+  },
+  {
+    "combo": "Production | Engineering & Technical Services",
+    "a": "Production",
+    "b": "Engineering & Technical Services",
+    "assets_int": 1182,
+    "assets_alloc": 2501.5492,
+    "amt_alloc": 21368480031.135,
+    "share_assets": 0.0003,
+    "share_amt": 0.0204
+  },
+  {
+    "combo": "Production | Sensors, Radar & Electronic Warfare",
+    "a": "Production",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 1920,
+    "assets_alloc": 10955.1194,
+    "amt_alloc": 21213039382.365,
+    "share_assets": 0.0015,
+    "share_amt": 0.0202
+  },
+  {
+    "combo": "Construction | Maintenance, Repair & Operations",
+    "a": "Construction",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 4090,
+    "assets_alloc": 16460.1762,
+    "amt_alloc": 20550098905.5,
+    "share_assets": 0.0022,
+    "share_amt": 0.0196
+  },
+  {
+    "combo": "Production | Advanced Manufacturing & Machine Tools",
+    "a": "Production",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 1488,
+    "assets_alloc": 11820.9635,
+    "amt_alloc": 20048656082.71,
+    "share_assets": 0.0016,
+    "share_amt": 0.0191
+  },
+  {
+    "combo": "Production | Maritime & Shipbuilding",
+    "a": "Production",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 1216,
+    "assets_alloc": 6194.3571,
+    "amt_alloc": 19911364711.475,
+    "share_assets": 0.0008,
+    "share_amt": 0.019
+  },
+  {
+    "combo": "Logistics & Sustainment | Sensors, Radar & Electronic Warfare",
+    "a": "Logistics & Sustainment",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 2290,
+    "assets_alloc": 18745.3845,
+    "amt_alloc": 17520914586.755,
+    "share_assets": 0.0025,
+    "share_amt": 0.0167
+  },
+  {
+    "combo": "Production | Digital Technologies & Software",
+    "a": "Production",
+    "b": "Digital Technologies & Software",
+    "assets_int": 1695,
+    "assets_alloc": 13378.2143,
+    "amt_alloc": 16547170669.19,
+    "share_assets": 0.0018,
+    "share_amt": 0.0158
+  },
+  {
+    "combo": "Logistics & Sustainment | Digital Technologies & Software",
+    "a": "Logistics & Sustainment",
+    "b": "Digital Technologies & Software",
+    "assets_int": 4079,
+    "assets_alloc": 34223.0845,
+    "amt_alloc": 15998768525.84,
+    "share_assets": 0.0045,
+    "share_amt": 0.0153
+  },
+  {
+    "combo": "Innovation | Maintenance, Repair & Operations",
+    "a": "Innovation",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 729,
+    "assets_alloc": 2117.0774,
+    "amt_alloc": 15317772226.28,
+    "share_assets": 0.0003,
+    "share_amt": 0.0146
+  },
+  {
+    "combo": "Services | Financial & Insurance Services",
+    "a": "Services",
+    "b": "Financial & Insurance Services",
+    "assets_int": 173,
+    "assets_alloc": 177.1833,
+    "amt_alloc": 15185707793.38,
+    "share_assets": 0,
+    "share_amt": 0.0145
+  },
+  {
+    "combo": "Services | Other Professional & Business Services",
+    "a": "Services",
+    "b": "Other Professional & Business Services",
+    "assets_int": 3405,
+    "assets_alloc": 8526.4702,
+    "amt_alloc": 14206055297.435,
+    "share_assets": 0.0011,
+    "share_amt": 0.0136
+  },
+  {
+    "combo": "Innovation | Digital Technologies & Software",
+    "a": "Innovation",
+    "b": "Digital Technologies & Software",
+    "assets_int": 1203,
+    "assets_alloc": 1263.1274,
+    "amt_alloc": 14078634651.77,
+    "share_assets": 0.0002,
+    "share_amt": 0.0134
+  },
+  {
+    "combo": "Logistics & Sustainment | Munitions & Missile Systems",
+    "a": "Logistics & Sustainment",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 1909,
+    "assets_alloc": 18783.6595,
+    "amt_alloc": 12443124009.805,
+    "share_assets": 0.0025,
+    "share_amt": 0.0119
+  },
+  {
+    "combo": "Innovation | Munitions & Missile Systems",
+    "a": "Innovation",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 400,
+    "assets_alloc": 256.0179,
+    "amt_alloc": 11723374358.88,
+    "share_assets": 0,
+    "share_amt": 0.0112
+  },
+  {
+    "combo": "Production | Soldier Equipment & Protective Systems",
+    "a": "Production",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 2457,
+    "assets_alloc": 50278.3595,
+    "amt_alloc": 11639344629.53,
+    "share_assets": 0.0067,
+    "share_amt": 0.0111
+  },
+  {
+    "combo": "Construction | Engineering & Technical Services",
+    "a": "Construction",
+    "b": "Engineering & Technical Services",
+    "assets_int": 1137,
+    "assets_alloc": 1114.7429,
+    "amt_alloc": 10579678122.235,
+    "share_assets": 0.0001,
+    "share_amt": 0.0101
+  },
+  {
+    "combo": "Services | R&D and Science & Technology",
+    "a": "Services",
+    "b": "R&D and Science & Technology",
+    "assets_int": 862,
+    "assets_alloc": 1305.7083,
+    "amt_alloc": 10571198386.61,
+    "share_assets": 0.0002,
+    "share_amt": 0.0101
+  },
+  {
+    "combo": "Innovation | Space Systems & Satellites",
+    "a": "Innovation",
+    "b": "Space Systems & Satellites",
+    "assets_int": 544,
+    "assets_alloc": 312.975,
+    "amt_alloc": 10137458958.205,
+    "share_assets": 0,
+    "share_amt": 0.0097
+  },
+  {
+    "combo": "Production | Ground Vehicles & Tactical Systems",
+    "a": "Production",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 1246,
+    "assets_alloc": 20098.6813,
+    "amt_alloc": 9929743080.28,
+    "share_assets": 0.0027,
+    "share_amt": 0.0095
+  },
+  {
+    "combo": "Logistics & Sustainment | Soldier Equipment & Protective Systems",
+    "a": "Logistics & Sustainment",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 2725,
+    "assets_alloc": 72610.4,
+    "amt_alloc": 9623614653.07,
+    "share_assets": 0.0096,
+    "share_amt": 0.0092
+  },
+  {
+    "combo": "Logistics & Sustainment | R&D and Science & Technology",
+    "a": "Logistics & Sustainment",
+    "b": "R&D and Science & Technology",
+    "assets_int": 341,
+    "assets_alloc": 609.7583,
+    "amt_alloc": 7654545827.62,
+    "share_assets": 0.0001,
+    "share_amt": 0.0073
+  },
+  {
+    "combo": "Logistics & Sustainment | Ground Vehicles & Tactical Systems",
+    "a": "Logistics & Sustainment",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 1844,
+    "assets_alloc": 25032.2083,
+    "amt_alloc": 7104170296.25,
+    "share_assets": 0.0033,
+    "share_amt": 0.0068
+  },
+  {
+    "combo": "Innovation | Aircraft & Aviation",
+    "a": "Innovation",
+    "b": "Aircraft & Aviation",
+    "assets_int": 575,
+    "assets_alloc": 366.869,
+    "amt_alloc": 7042806528.38,
+    "share_assets": 0,
+    "share_amt": 0.0067
+  },
+  {
+    "combo": "Services | Space Systems & Satellites",
+    "a": "Services",
+    "b": "Space Systems & Satellites",
+    "assets_int": 750,
+    "assets_alloc": 17001.8048,
+    "amt_alloc": 7032348239.9,
+    "share_assets": 0.0023,
+    "share_amt": 0.0067
+  },
+  {
+    "combo": "Services | Aircraft & Aviation",
+    "a": "Services",
+    "b": "Aircraft & Aviation",
+    "assets_int": 670,
+    "assets_alloc": 822.8286,
+    "amt_alloc": 6860903098.175,
+    "share_assets": 0.0001,
+    "share_amt": 0.0065
+  },
+  {
+    "combo": "Services | Munitions & Missile Systems",
+    "a": "Services",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 654,
+    "assets_alloc": 567.9,
+    "amt_alloc": 6786415187.63,
+    "share_assets": 0.0001,
+    "share_amt": 0.0065
+  },
+  {
+    "combo": "Services | Unknown sector",
+    "a": "Services",
+    "b": "Unknown sector",
+    "assets_int": 6055,
+    "assets_alloc": 26247,
+    "amt_alloc": 6669525523.44,
+    "share_assets": 0.0035,
+    "share_amt": 0.0064
+  },
+  {
+    "combo": "Logistics & Sustainment | Space Systems & Satellites",
+    "a": "Logistics & Sustainment",
+    "b": "Space Systems & Satellites",
+    "assets_int": 644,
+    "assets_alloc": 2744.3262,
+    "amt_alloc": 6522760989.005,
+    "share_assets": 0.0004,
+    "share_amt": 0.0062
+  },
+  {
+    "combo": "Production | Unknown sector",
+    "a": "Production",
+    "b": "Unknown sector",
+    "assets_int": 5187,
+    "assets_alloc": 556240,
+    "amt_alloc": 6409400222.83,
+    "share_assets": 0.0737,
+    "share_amt": 0.0061
+  },
+  {
+    "combo": "Logistics & Sustainment | Nuclear Deterrence & Propulsion Systems",
+    "a": "Logistics & Sustainment",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 236,
+    "assets_alloc": 1476.7417,
+    "amt_alloc": 5963088431.49,
+    "share_assets": 0.0002,
+    "share_amt": 0.0057
+  },
+  {
+    "combo": "Logistics & Sustainment | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Logistics & Sustainment",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 1599,
+    "assets_alloc": 329515.0667,
+    "amt_alloc": 5846602410.685,
+    "share_assets": 0.0437,
+    "share_amt": 0.0056
+  },
+  {
+    "combo": "Logistics & Sustainment | Advanced Manufacturing & Machine Tools",
+    "a": "Logistics & Sustainment",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 1855,
+    "assets_alloc": 31314.5417,
+    "amt_alloc": 5473868823,
+    "share_assets": 0.0042,
+    "share_amt": 0.0052
+  },
+  {
+    "combo": "Logistics & Sustainment | Materials & Critical Minerals",
+    "a": "Logistics & Sustainment",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 744,
+    "assets_alloc": 21143.0417,
+    "amt_alloc": 5036837101.8,
+    "share_assets": 0.0028,
+    "share_amt": 0.0048
+  },
+  {
+    "combo": "Production | Microelectronics & Electronic Components",
+    "a": "Production",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 1982,
+    "assets_alloc": 27533.023,
+    "amt_alloc": 4444689041.045,
+    "share_assets": 0.0036,
+    "share_amt": 0.0042
+  },
+  {
+    "combo": "Production | Other Professional & Business Services",
+    "a": "Production",
+    "b": "Other Professional & Business Services",
+    "assets_int": 120,
+    "assets_alloc": 213.1111,
+    "amt_alloc": 4210001319.535,
+    "share_assets": 0,
+    "share_amt": 0.004
+  },
+  {
+    "combo": "Logistics & Sustainment | Other Professional & Business Services",
+    "a": "Logistics & Sustainment",
+    "b": "Other Professional & Business Services",
+    "assets_int": 656,
+    "assets_alloc": 4481,
+    "amt_alloc": 3783706900.315,
+    "share_assets": 0.0006,
+    "share_amt": 0.0036
+  },
+  {
+    "combo": "Production | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Production",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 1232,
+    "assets_alloc": 19019.2845,
+    "amt_alloc": 3308934973.545,
+    "share_assets": 0.0025,
+    "share_amt": 0.0032
+  },
+  {
+    "combo": "Innovation | Sensors, Radar & Electronic Warfare",
+    "a": "Innovation",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 505,
+    "assets_alloc": 300.8512,
+    "amt_alloc": 3177862125.68,
+    "share_assets": 0,
+    "share_amt": 0.003
+  },
+  {
+    "combo": "Services | Sensors, Radar & Electronic Warfare",
+    "a": "Services",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 465,
+    "assets_alloc": 440.2607,
+    "amt_alloc": 3082075381.615,
+    "share_assets": 0.0001,
+    "share_amt": 0.0029
+  },
+  {
+    "combo": "Logistics & Sustainment | Microelectronics & Electronic Components",
+    "a": "Logistics & Sustainment",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 2244,
+    "assets_alloc": 50845.3929,
+    "amt_alloc": 2950250636.845,
+    "share_assets": 0.0067,
+    "share_amt": 0.0028
+  },
+  {
+    "combo": "Services | Maritime & Shipbuilding",
+    "a": "Services",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 318,
+    "assets_alloc": 377.9274,
+    "amt_alloc": 2897644504.865,
+    "share_assets": 0.0001,
+    "share_amt": 0.0028
+  },
+  {
+    "combo": "Innovation | Ground Vehicles & Tactical Systems",
+    "a": "Innovation",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 68,
+    "assets_alloc": 30.394,
+    "amt_alloc": 2819958987.69,
+    "share_assets": 4.0287e-06,
+    "share_amt": 0.0027
+  },
+  {
+    "combo": "Innovation | Unknown sector",
+    "a": "Innovation",
+    "b": "Unknown sector",
+    "assets_int": 925,
+    "assets_alloc": 3143,
+    "amt_alloc": 2636182447.845,
+    "share_assets": 0.0004,
+    "share_amt": 0.0025
+  },
+  {
+    "combo": "Innovation | Nuclear Deterrence & Propulsion Systems",
+    "a": "Innovation",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 41,
+    "assets_alloc": 17.55,
+    "amt_alloc": 2580006805.145,
+    "share_assets": 2.3262e-06,
+    "share_amt": 0.0025
+  },
+  {
+    "combo": "Services | Ground Vehicles & Tactical Systems",
+    "a": "Services",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 591,
+    "assets_alloc": 1838.9286,
+    "amt_alloc": 2341865471.43,
+    "share_assets": 0.0002,
+    "share_amt": 0.0022
+  },
+  {
+    "combo": "Innovation | Other Professional & Business Services",
+    "a": "Innovation",
+    "b": "Other Professional & Business Services",
+    "assets_int": 151,
+    "assets_alloc": 89.9929,
+    "amt_alloc": 2325706587.365,
+    "share_assets": 0,
+    "share_amt": 0.0022
+  },
+  {
+    "combo": "Construction | Maritime & Shipbuilding",
+    "a": "Construction",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 95,
+    "assets_alloc": 46.4,
+    "amt_alloc": 2316738680.29,
+    "share_assets": 6.1503e-06,
+    "share_amt": 0.0022
+  },
+  {
+    "combo": "Production | R&D and Science & Technology",
+    "a": "Production",
+    "b": "R&D and Science & Technology",
+    "assets_int": 144,
+    "assets_alloc": 89.1992,
+    "amt_alloc": 2263102361.81,
+    "share_assets": 0,
+    "share_amt": 0.0022
+  },
+  {
+    "combo": "Innovation | Microelectronics & Electronic Components",
+    "a": "Innovation",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 254,
+    "assets_alloc": 197.7929,
+    "amt_alloc": 1875989652.09,
+    "share_assets": 0,
+    "share_amt": 0.0018
+  },
+  {
+    "combo": "Logistics & Sustainment | Financial & Insurance Services",
+    "a": "Logistics & Sustainment",
+    "b": "Financial & Insurance Services",
+    "assets_int": 41,
+    "assets_alloc": 192.325,
+    "amt_alloc": 1856783192.915,
+    "share_assets": 0,
+    "share_amt": 0.0018
+  },
+  {
+    "combo": "Services | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Services",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 229,
+    "assets_alloc": 171.4774,
+    "amt_alloc": 1365214887.605,
+    "share_assets": 0,
+    "share_amt": 0.0013
+  },
+  {
+    "combo": "Production | Nuclear Deterrence & Propulsion Systems",
+    "a": "Production",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 171,
+    "assets_alloc": 360.3667,
+    "amt_alloc": 1345808093.96,
+    "share_assets": 0,
+    "share_amt": 0.0013
+  },
+  {
+    "combo": "Innovation | Maritime & Shipbuilding",
+    "a": "Innovation",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 213,
+    "assets_alloc": 135.5012,
+    "amt_alloc": 1254349767.56,
+    "share_assets": 0,
+    "share_amt": 0.0012
+  },
+  {
+    "combo": "Construction | Advanced Manufacturing & Machine Tools",
+    "a": "Construction",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 51,
+    "assets_alloc": 22.9,
+    "amt_alloc": 1250958991.95,
+    "share_assets": 3.0354e-06,
+    "share_amt": 0.0012
+  },
+  {
+    "combo": "Logistics & Sustainment | Energy Systems & Infrastructure",
+    "a": "Logistics & Sustainment",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 1503,
+    "assets_alloc": 13449.5833,
+    "amt_alloc": 1202143508.195,
+    "share_assets": 0.0018,
+    "share_amt": 0.0011
+  },
+  {
+    "combo": "Construction | Sensors, Radar & Electronic Warfare",
+    "a": "Construction",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 117,
+    "assets_alloc": 59.9167,
+    "amt_alloc": 1200891283.79,
+    "share_assets": 7.9419e-06,
+    "share_amt": 0.0011
+  },
+  {
+    "combo": "Construction | Munitions & Missile Systems",
+    "a": "Construction",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 275,
+    "assets_alloc": 155.7262,
+    "amt_alloc": 1070520586.355,
+    "share_assets": 0,
+    "share_amt": 0.001
+  },
+  {
+    "combo": "Construction | Energy Systems & Infrastructure",
+    "a": "Construction",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 368,
+    "assets_alloc": 407.85,
+    "amt_alloc": 1009427400.055,
+    "share_assets": 0.0001,
+    "share_amt": 0.001
+  },
+  {
+    "combo": "Construction | Ground Vehicles & Tactical Systems",
+    "a": "Construction",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 326,
+    "assets_alloc": 179.6095,
+    "amt_alloc": 975292853.045,
+    "share_assets": 0,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Workforce training | Aircraft & Aviation",
+    "a": "Workforce training",
+    "b": "Aircraft & Aviation",
+    "assets_int": 347,
+    "assets_alloc": 798.9167,
+    "amt_alloc": 971905982.205,
+    "share_assets": 0.0001,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Innovation | Advanced Manufacturing & Machine Tools",
+    "a": "Innovation",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 297,
+    "assets_alloc": 169.1595,
+    "amt_alloc": 939196561.97,
+    "share_assets": 0,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Workforce training | Unknown sector",
+    "a": "Workforce training",
+    "b": "Unknown sector",
+    "assets_int": 1632,
+    "assets_alloc": 6201,
+    "amt_alloc": 920057414.86,
+    "share_assets": 0.0008,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Services | Construction",
+    "a": "Services",
+    "b": "Construction",
+    "assets_int": 387,
+    "assets_alloc": 760.2595,
+    "amt_alloc": 888896089.705,
+    "share_assets": 0.0001,
+    "share_amt": 0.0008
+  },
+  {
+    "combo": "Construction | Aircraft & Aviation",
+    "a": "Construction",
+    "b": "Aircraft & Aviation",
+    "assets_int": 171,
+    "assets_alloc": 87.3167,
+    "amt_alloc": 868919677.455,
+    "share_assets": 0,
+    "share_amt": 0.0008
+  },
+  {
+    "combo": "Innovation | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Innovation",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 148,
+    "assets_alloc": 85.3262,
+    "amt_alloc": 846364686.205,
+    "share_assets": 0,
+    "share_amt": 0.0008
+  },
+  {
+    "combo": "Services | Microelectronics & Electronic Components",
+    "a": "Services",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 162,
+    "assets_alloc": 159.1298,
+    "amt_alloc": 775023759.195,
+    "share_assets": 0,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Construction | Other Professional & Business Services",
+    "a": "Construction",
+    "b": "Other Professional & Business Services",
+    "assets_int": 97,
+    "assets_alloc": 54.4595,
+    "amt_alloc": 684145078.3,
+    "share_assets": 7.2186e-06,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Innovation | Soldier Equipment & Protective Systems",
+    "a": "Innovation",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 165,
+    "assets_alloc": 80.925,
+    "amt_alloc": 653467977.24,
+    "share_assets": 0,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Services | Advanced Manufacturing & Machine Tools",
+    "a": "Services",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 134,
+    "assets_alloc": 92.6214,
+    "amt_alloc": 625460290.735,
+    "share_assets": 0,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Services | Nuclear Deterrence & Propulsion Systems",
+    "a": "Services",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 62,
+    "assets_alloc": 30.2917,
+    "amt_alloc": 608374587.2,
+    "share_assets": 4.0152e-06,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Logistics & Sustainment | Construction",
+    "a": "Logistics & Sustainment",
+    "b": "Construction",
+    "assets_int": 515,
+    "assets_alloc": 661.3167,
+    "amt_alloc": 592214836.095,
+    "share_assets": 0.0001,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Workforce training | Maintenance, Repair & Operations",
+    "a": "Workforce training",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 273,
+    "assets_alloc": 311.75,
+    "amt_alloc": 583424139.14,
+    "share_assets": 0,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Construction | Digital Technologies & Software",
+    "a": "Construction",
+    "b": "Digital Technologies & Software",
+    "assets_int": 109,
+    "assets_alloc": 53.0595,
+    "amt_alloc": 561113332.105,
+    "share_assets": 7.033e-06,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Production | Materials & Critical Minerals",
+    "a": "Production",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 468,
+    "assets_alloc": 5477.2333,
+    "amt_alloc": 555859967.895,
+    "share_assets": 0.0007,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Services | Workforce Training & Education",
+    "a": "Services",
+    "b": "Workforce Training & Education",
+    "assets_int": 168,
+    "assets_alloc": 133.4167,
+    "amt_alloc": 519148492.54,
+    "share_assets": 0,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Construction | Unknown sector",
+    "a": "Construction",
+    "b": "Unknown sector",
+    "assets_int": 304,
+    "assets_alloc": 663,
+    "amt_alloc": 500629324.46,
+    "share_assets": 0.0001,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Innovation | Materials & Critical Minerals",
+    "a": "Innovation",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 312,
+    "assets_alloc": 295.6667,
+    "amt_alloc": 439851263.135,
+    "share_assets": 0,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Production | Energy Systems & Infrastructure",
+    "a": "Production",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 996,
+    "assets_alloc": 7710.8333,
+    "amt_alloc": 406542746.445,
+    "share_assets": 0.001,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Services | Soldier Equipment & Protective Systems",
+    "a": "Services",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 211,
+    "assets_alloc": 220.0833,
+    "amt_alloc": 325290976.65,
+    "share_assets": 0,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Construction | R&D and Science & Technology",
+    "a": "Construction",
+    "b": "R&D and Science & Technology",
+    "assets_int": 129,
+    "assets_alloc": 96.45,
+    "amt_alloc": 313780465.165,
+    "share_assets": 0,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Construction | Transportation & Warehousing",
+    "a": "Construction",
+    "b": "Transportation & Warehousing",
+    "assets_int": 42,
+    "assets_alloc": 15.1167,
+    "amt_alloc": 249057914.605,
+    "share_assets": 2.0037e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Workforce training | Workforce Training & Education",
+    "a": "Workforce training",
+    "b": "Workforce Training & Education",
+    "assets_int": 107,
+    "assets_alloc": 157.8333,
+    "amt_alloc": 220938127.265,
+    "share_assets": 0,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Services | Transportation & Warehousing",
+    "a": "Services",
+    "b": "Transportation & Warehousing",
+    "assets_int": 54,
+    "assets_alloc": 26.9,
+    "amt_alloc": 216534466.865,
+    "share_assets": 3.5656e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Production | Transportation & Warehousing",
+    "a": "Production",
+    "b": "Transportation & Warehousing",
+    "assets_int": 16,
+    "assets_alloc": 9.45,
+    "amt_alloc": 197464048.465,
+    "share_assets": 1.2526e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Logistics & Sustainment | Workforce Training & Education",
+    "a": "Logistics & Sustainment",
+    "b": "Workforce Training & Education",
+    "assets_int": 37,
+    "assets_alloc": 33.4167,
+    "amt_alloc": 189892525.13,
+    "share_assets": 4.4294e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Construction | Soldier Equipment & Protective Systems",
+    "a": "Construction",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 81,
+    "assets_alloc": 34.1262,
+    "amt_alloc": 169314518.31,
+    "share_assets": 4.5234e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Production | Financial & Insurance Services",
+    "a": "Production",
+    "b": "Financial & Insurance Services",
+    "assets_int": 9,
+    "assets_alloc": 6.5833,
+    "amt_alloc": 126717871.735,
+    "share_assets": 8.7262e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Construction | Microelectronics & Electronic Components",
+    "a": "Construction",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 32,
+    "assets_alloc": 12.7667,
+    "amt_alloc": 124847443.64,
+    "share_assets": 1.6922e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Services | Energy Systems & Infrastructure",
+    "a": "Services",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 397,
+    "assets_alloc": 463.2167,
+    "amt_alloc": 111273173.395,
+    "share_assets": 0.0001,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Construction | Nuclear Deterrence & Propulsion Systems",
+    "a": "Construction",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 15,
+    "assets_alloc": 5.75,
+    "amt_alloc": 105467409.325,
+    "share_assets": 7.6216e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Innovation | Energy Systems & Infrastructure",
+    "a": "Innovation",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 86,
+    "assets_alloc": 48.3833,
+    "amt_alloc": 100215487.21,
+    "share_assets": 6.4132e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Construction | Space Systems & Satellites",
+    "a": "Construction",
+    "b": "Space Systems & Satellites",
+    "assets_int": 37,
+    "assets_alloc": 29.5,
+    "amt_alloc": 86156691.15,
+    "share_assets": 3.9102e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Workforce training | Digital Technologies & Software",
+    "a": "Workforce training",
+    "b": "Digital Technologies & Software",
+    "assets_int": 99,
+    "assets_alloc": 142.9167,
+    "amt_alloc": 85909227.89,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Services | Materials & Critical Minerals",
+    "a": "Services",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 39,
+    "assets_alloc": 23.3667,
+    "amt_alloc": 79384498.815,
+    "share_assets": 3.0972e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Logistics & Sustainment | Transportation & Warehousing",
+    "a": "Logistics & Sustainment",
+    "b": "Transportation & Warehousing",
+    "assets_int": 57,
+    "assets_alloc": 40.4833,
+    "amt_alloc": 68556984.805,
+    "share_assets": 5.3661e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Construction | Workforce Training & Education",
+    "a": "Construction",
+    "b": "Workforce Training & Education",
+    "assets_int": 12,
+    "assets_alloc": 8.75,
+    "amt_alloc": 66161397.5,
+    "share_assets": 1.1598e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Construction | Financial & Insurance Services",
+    "a": "Construction",
+    "b": "Financial & Insurance Services",
+    "assets_int": 13,
+    "assets_alloc": 7.5333,
+    "amt_alloc": 63526566.76,
+    "share_assets": 9.9854e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Production | Workforce Training & Education",
+    "a": "Production",
+    "b": "Workforce Training & Education",
+    "assets_int": 16,
+    "assets_alloc": 28.6667,
+    "amt_alloc": 59893788.75,
+    "share_assets": 3.7998e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Innovation | Workforce Training & Education",
+    "a": "Innovation",
+    "b": "Workforce Training & Education",
+    "assets_int": 90,
+    "assets_alloc": 88.9,
+    "amt_alloc": 48582403.74,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "Workforce training | Engineering & Technical Services",
+    "a": "Workforce training",
+    "b": "Engineering & Technical Services",
+    "assets_int": 112,
+    "assets_alloc": 123.25,
+    "amt_alloc": 45340886.5,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "Workforce training | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Workforce training",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 11,
+    "assets_alloc": 8.3333,
+    "amt_alloc": 38500268.49,
+    "share_assets": 1.1046e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Innovation | Transportation & Warehousing",
+    "a": "Innovation",
+    "b": "Transportation & Warehousing",
+    "assets_int": 20,
+    "assets_alloc": 6.6833,
+    "amt_alloc": 33975278.875,
+    "share_assets": 8.8587e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Construction | Materials & Critical Minerals",
+    "a": "Construction",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 51,
+    "assets_alloc": 19.9167,
+    "amt_alloc": 31888963.655,
+    "share_assets": 2.6399e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Innovation | Financial & Insurance Services",
+    "a": "Innovation",
+    "b": "Financial & Insurance Services",
+    "assets_int": 12,
+    "assets_alloc": 3.8333,
+    "amt_alloc": 31025991.295,
+    "share_assets": 5.0811e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Construction | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Construction",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 15,
+    "assets_alloc": 6.4167,
+    "amt_alloc": 23551496.175,
+    "share_assets": 8.5053e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Production | Construction",
+    "a": "Production",
+    "b": "Construction",
+    "assets_int": 39,
+    "assets_alloc": 32.0333,
+    "amt_alloc": 18892612.825,
+    "share_assets": 4.246e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Innovation | Construction",
+    "a": "Innovation",
+    "b": "Construction",
+    "assets_int": 10,
+    "assets_alloc": 4.7667,
+    "amt_alloc": 17593539.01,
+    "share_assets": 6.3182e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Workforce training | Other Professional & Business Services",
+    "a": "Workforce training",
+    "b": "Other Professional & Business Services",
+    "assets_int": 42,
+    "assets_alloc": 51.5,
+    "amt_alloc": 14871095.11,
+    "share_assets": 6.8263e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Workforce training | Financial & Insurance Services",
+    "a": "Workforce training",
+    "b": "Financial & Insurance Services",
+    "assets_int": 7,
+    "assets_alloc": 12.9167,
+    "amt_alloc": 13860099.09,
+    "share_assets": 1.7121e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Workforce training | Munitions & Missile Systems",
+    "a": "Workforce training",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 13,
+    "assets_alloc": 17.3333,
+    "amt_alloc": 6518838.295,
+    "share_assets": 2.2975e-06,
+    "share_amt": 6.2179e-06
+  },
+  {
+    "combo": "Workforce training | R&D and Science & Technology",
+    "a": "Workforce training",
+    "b": "R&D and Science & Technology",
+    "assets_int": 8,
+    "assets_alloc": 30.8333,
+    "amt_alloc": 5033503.53,
+    "share_assets": 4.087e-06,
+    "share_amt": 4.8011e-06
+  },
+  {
+    "combo": "Workforce training | Sensors, Radar & Electronic Warfare",
+    "a": "Workforce training",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 17,
+    "assets_alloc": 13,
+    "amt_alloc": 3076644.955,
+    "share_assets": 1.7231e-06,
+    "share_amt": 2.9346e-06
+  },
+  {
+    "combo": "Workforce training | Maritime & Shipbuilding",
+    "a": "Workforce training",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 10,
+    "assets_alloc": 7.5,
+    "amt_alloc": 2206754.305,
+    "share_assets": 9.9412e-07,
+    "share_amt": 2.1049e-06
+  },
+  {
+    "combo": "Workforce training | Soldier Equipment & Protective Systems",
+    "a": "Workforce training",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 13,
+    "assets_alloc": 13.8333,
+    "amt_alloc": 1207198.9,
+    "share_assets": 1.8336e-06,
+    "share_amt": 1.1515e-06
+  },
+  {
+    "combo": "Workforce training | Advanced Manufacturing & Machine Tools",
+    "a": "Workforce training",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 10,
+    "assets_alloc": 11.3333,
+    "amt_alloc": 1076944.93,
+    "share_assets": 1.5022e-06,
+    "share_amt": 1.0272e-06
+  },
+  {
+    "combo": "Workforce training | Energy Systems & Infrastructure",
+    "a": "Workforce training",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 4,
+    "assets_alloc": 2.8333,
+    "amt_alloc": 328470.345,
+    "share_assets": 3.7556e-07,
+    "share_amt": 3.1331e-07
+  },
+  {
+    "combo": "Workforce training | Construction",
+    "a": "Workforce training",
+    "b": "Construction",
+    "assets_int": 4,
+    "assets_alloc": 3.3333,
+    "amt_alloc": 282574.4,
+    "share_assets": 4.4183e-07,
+    "share_amt": 2.6953e-07
+  },
+  {
+    "combo": "Workforce training | Space Systems & Satellites",
+    "a": "Workforce training",
+    "b": "Space Systems & Satellites",
+    "assets_int": 6,
+    "assets_alloc": 6.5,
+    "amt_alloc": 184027.17,
+    "share_assets": 8.6157e-07,
+    "share_amt": 1.7553e-07
+  },
+  {
+    "combo": "Workforce training | Ground Vehicles & Tactical Systems",
+    "a": "Workforce training",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 3,
+    "assets_alloc": 2,
+    "amt_alloc": 112194.6,
+    "share_assets": 2.651e-07,
+    "share_amt": 1.0702e-07
+  },
+  {
+    "combo": "Workforce training | Microelectronics & Electronic Components",
+    "a": "Workforce training",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 4,
+    "assets_alloc": 2.8333,
+    "amt_alloc": 91849.955,
+    "share_assets": 3.7556e-07,
+    "share_amt": 8.761e-08
+  },
+  {
+    "combo": "Workforce training | Nuclear Deterrence & Propulsion Systems",
+    "a": "Workforce training",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 1,
+    "assets_alloc": 0.5,
+    "amt_alloc": 76226,
+    "share_assets": 6.6275e-08,
+    "share_amt": 7.2707e-08
+  },
+  {
+    "combo": "Workforce training | Materials & Critical Minerals",
+    "a": "Workforce training",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 2,
+    "assets_alloc": 0.75,
+    "amt_alloc": 28150,
+    "share_assets": 9.9412e-08,
+    "share_amt": 2.6851e-08
+  }
+]

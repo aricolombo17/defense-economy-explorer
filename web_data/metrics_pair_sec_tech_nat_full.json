@@ -1,0 +1,3522 @@
+[
+  {
+    "combo": "Maintenance, Repair & Operations | Unknown technology",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Unknown technology",
+    "assets_int": 18239,
+    "assets_alloc": 82377.4131,
+    "amt_alloc": 116426513348.68,
+    "share_assets": 0.0109,
+    "share_amt": 0.096
+  },
+  {
+    "combo": "Engineering & Technical Services | Unknown technology",
+    "a": "Engineering & Technical Services",
+    "b": "Unknown technology",
+    "assets_int": 11905,
+    "assets_alloc": 33126.3226,
+    "amt_alloc": 89710012264.965,
+    "share_assets": 0.0044,
+    "share_amt": 0.074
+  },
+  {
+    "combo": "Aircraft & Aviation | Unknown technology",
+    "a": "Aircraft & Aviation",
+    "b": "Unknown technology",
+    "assets_int": 4281,
+    "assets_alloc": 94284.0952,
+    "amt_alloc": 69303696268.825,
+    "share_assets": 0.0125,
+    "share_amt": 0.0572
+  },
+  {
+    "combo": "Munitions & Missile Systems | Unknown technology",
+    "a": "Munitions & Missile Systems",
+    "b": "Unknown technology",
+    "assets_int": 3455,
+    "assets_alloc": 15179.5964,
+    "amt_alloc": 44654739507.285,
+    "share_assets": 0.002,
+    "share_amt": 0.0368
+  },
+  {
+    "combo": "Digital Technologies & Software | Unknown technology",
+    "a": "Digital Technologies & Software",
+    "b": "Unknown technology",
+    "assets_int": 7155,
+    "assets_alloc": 59187.0226,
+    "amt_alloc": 41011434968.095,
+    "share_assets": 0.0078,
+    "share_amt": 0.0338
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Unknown technology",
+    "a": "Maritime & Shipbuilding",
+    "b": "Unknown technology",
+    "assets_int": 2655,
+    "assets_alloc": 10111.6774,
+    "amt_alloc": 40022352750.27,
+    "share_assets": 0.0013,
+    "share_amt": 0.033
+  },
+  {
+    "combo": "R&D and Science & Technology | Unknown technology",
+    "a": "R&D and Science & Technology",
+    "b": "Unknown technology",
+    "assets_int": 4853,
+    "assets_alloc": 9935.4107,
+    "amt_alloc": 33938279804.53,
+    "share_assets": 0.0013,
+    "share_amt": 0.028
+  },
+  {
+    "combo": "Space Systems & Satellites | Unknown technology",
+    "a": "Space Systems & Satellites",
+    "b": "Unknown technology",
+    "assets_int": 945,
+    "assets_alloc": 1197.1202,
+    "amt_alloc": 29500440407.69,
+    "share_assets": 0.0002,
+    "share_amt": 0.0243
+  },
+  {
+    "combo": "Unknown sector | Unknown technology",
+    "a": "Unknown sector",
+    "b": "Unknown technology",
+    "assets_int": 19523,
+    "assets_alloc": 2491834,
+    "amt_alloc": 28522780069.565,
+    "share_assets": 0.3303,
+    "share_amt": 0.0235
+  },
+  {
+    "combo": "Engineering & Technical Services | Advanced Manufacturing and Industrial Automation",
+    "a": "Engineering & Technical Services",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 1651,
+    "assets_alloc": 1223.0507,
+    "amt_alloc": 27273283901.37,
+    "share_assets": 0.0002,
+    "share_amt": 0.0225
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Advanced Materials and Critical Minerals",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 4716,
+    "assets_alloc": 33861.3034,
+    "amt_alloc": 25669024766.29,
+    "share_assets": 0.0045,
+    "share_amt": 0.0212
+  },
+  {
+    "combo": "Construction | Unknown technology",
+    "a": "Construction",
+    "b": "Unknown technology",
+    "assets_int": 3328,
+    "assets_alloc": 10163.5262,
+    "amt_alloc": 25304914835.38,
+    "share_assets": 0.0013,
+    "share_amt": 0.0209
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Advanced Manufacturing and Industrial Automation",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 1276,
+    "assets_alloc": 3546.4264,
+    "amt_alloc": 24728006665.65,
+    "share_assets": 0.0005,
+    "share_amt": 0.0204
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Unknown technology",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Unknown technology",
+    "assets_int": 3915,
+    "assets_alloc": 15967.4036,
+    "amt_alloc": 22935383640.025,
+    "share_assets": 0.0021,
+    "share_amt": 0.0189
+  },
+  {
+    "combo": "Aircraft & Aviation | Advanced Manufacturing and Industrial Automation",
+    "a": "Aircraft & Aviation",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 323,
+    "assets_alloc": 250.8412,
+    "amt_alloc": 22579780049.22,
+    "share_assets": 0,
+    "share_amt": 0.0186
+  },
+  {
+    "combo": "Engineering & Technical Services | Advanced Materials and Critical Minerals",
+    "a": "Engineering & Technical Services",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 2330,
+    "assets_alloc": 3959.3312,
+    "amt_alloc": 22049513080.755,
+    "share_assets": 0.0005,
+    "share_amt": 0.0182
+  },
+  {
+    "combo": "Digital Technologies & Software | Advanced Manufacturing and Industrial Automation",
+    "a": "Digital Technologies & Software",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 1928,
+    "assets_alloc": 2919.1974,
+    "amt_alloc": 21152645293.675,
+    "share_assets": 0.0004,
+    "share_amt": 0.0174
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Advanced Manufacturing and Industrial Automation",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 1059,
+    "assets_alloc": 718.6009,
+    "amt_alloc": 19994802115.215,
+    "share_assets": 0.0001,
+    "share_amt": 0.0165
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Advanced Manufacturing and Industrial Automation",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 328,
+    "assets_alloc": 199.4872,
+    "amt_alloc": 17633838892.53,
+    "share_assets": 0,
+    "share_amt": 0.0145
+  },
+  {
+    "combo": "Aircraft & Aviation | Advanced Materials and Critical Minerals",
+    "a": "Aircraft & Aviation",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 2816,
+    "assets_alloc": 234821.1124,
+    "amt_alloc": 16729071321.41,
+    "share_assets": 0.0311,
+    "share_amt": 0.0138
+  },
+  {
+    "combo": "Aircraft & Aviation | Energetics and Conventional Power/Propulsion",
+    "a": "Aircraft & Aviation",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 1039,
+    "assets_alloc": 282103.7535,
+    "amt_alloc": 15730845614.825,
+    "share_assets": 0.0374,
+    "share_amt": 0.013
+  },
+  {
+    "combo": "Financial & Insurance Services | Unknown technology",
+    "a": "Financial & Insurance Services",
+    "b": "Unknown technology",
+    "assets_int": 206,
+    "assets_alloc": 282.55,
+    "amt_alloc": 15466687326.55,
+    "share_assets": 0,
+    "share_amt": 0.0128
+  },
+  {
+    "combo": "Other Professional & Business Services | Unknown technology",
+    "a": "Other Professional & Business Services",
+    "b": "Unknown technology",
+    "assets_int": 3614,
+    "assets_alloc": 9605.9262,
+    "amt_alloc": 15147546969.135,
+    "share_assets": 0.0013,
+    "share_amt": 0.0125
+  },
+  {
+    "combo": "R&D and Science & Technology | Advanced Manufacturing and Industrial Automation",
+    "a": "R&D and Science & Technology",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 1223,
+    "assets_alloc": 1085.0213,
+    "amt_alloc": 12540969944.445,
+    "share_assets": 0.0001,
+    "share_amt": 0.0103
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Unknown technology",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Unknown technology",
+    "assets_int": 4294,
+    "assets_alloc": 51046.7595,
+    "amt_alloc": 11972012653.04,
+    "share_assets": 0.0068,
+    "share_amt": 0.0099
+  },
+  {
+    "combo": "Munitions & Missile Systems | Advanced Materials and Critical Minerals",
+    "a": "Munitions & Missile Systems",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 2273,
+    "assets_alloc": 17696.1948,
+    "amt_alloc": 11702346432.18,
+    "share_assets": 0.0023,
+    "share_amt": 0.0097
+  },
+  {
+    "combo": "Unknown sector | Advanced Materials and Critical Minerals",
+    "a": "Unknown sector",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 7948,
+    "assets_alloc": 3085510.75,
+    "amt_alloc": 10706057576.01,
+    "share_assets": 0.409,
+    "share_amt": 0.0088
+  },
+  {
+    "combo": "Digital Technologies & Software | Advanced Materials and Critical Minerals",
+    "a": "Digital Technologies & Software",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 1780,
+    "assets_alloc": 6571.493,
+    "amt_alloc": 10526424085.895,
+    "share_assets": 0.0009,
+    "share_amt": 0.0087
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Advanced Materials and Critical Minerals",
+    "a": "Maritime & Shipbuilding",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 1043,
+    "assets_alloc": 5193.7013,
+    "amt_alloc": 10496893752.995,
+    "share_assets": 0.0007,
+    "share_amt": 0.0087
+  },
+  {
+    "combo": "R&D and Science & Technology | Advanced Materials and Critical Minerals",
+    "a": "R&D and Science & Technology",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 779,
+    "assets_alloc": 992.0871,
+    "amt_alloc": 10425719199.34,
+    "share_assets": 0.0001,
+    "share_amt": 0.0086
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Advanced Manufacturing and Industrial Automation",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 130,
+    "assets_alloc": 58.9007,
+    "amt_alloc": 10414549255.595,
+    "share_assets": 7.8073e-06,
+    "share_amt": 0.0086
+  },
+  {
+    "combo": "Engineering & Technical Services | Energetics and Conventional Power/Propulsion",
+    "a": "Engineering & Technical Services",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 639,
+    "assets_alloc": 624.6938,
+    "amt_alloc": 10409138859.685,
+    "share_assets": 0.0001,
+    "share_amt": 0.0086
+  },
+  {
+    "combo": "Munitions & Missile Systems | Advanced Manufacturing and Industrial Automation",
+    "a": "Munitions & Missile Systems",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 206,
+    "assets_alloc": 64.896,
+    "amt_alloc": 10396914799.325,
+    "share_assets": 8.602e-06,
+    "share_amt": 0.0086
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Advanced Materials and Critical Minerals",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 1688,
+    "assets_alloc": 23867.0979,
+    "amt_alloc": 10135613210.84,
+    "share_assets": 0.0032,
+    "share_amt": 0.0084
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Energetics and Conventional Power/Propulsion",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 1032,
+    "assets_alloc": 1419.3688,
+    "amt_alloc": 9781055878.3,
+    "share_assets": 0.0002,
+    "share_amt": 0.0081
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Unknown technology",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Unknown technology",
+    "assets_int": 2929,
+    "assets_alloc": 20668.5333,
+    "amt_alloc": 9201283038.415,
+    "share_assets": 0.0027,
+    "share_amt": 0.0076
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Advanced Materials and Critical Minerals",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 1729,
+    "assets_alloc": 13622.3608,
+    "amt_alloc": 8815464606.68,
+    "share_assets": 0.0018,
+    "share_amt": 0.0073
+  },
+  {
+    "combo": "Space Systems & Satellites | Advanced Materials and Critical Minerals",
+    "a": "Space Systems & Satellites",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 497,
+    "assets_alloc": 1276.6862,
+    "amt_alloc": 8663043138.675,
+    "share_assets": 0.0002,
+    "share_amt": 0.0071
+  },
+  {
+    "combo": "Space Systems & Satellites | Advanced Manufacturing and Industrial Automation",
+    "a": "Space Systems & Satellites",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 162,
+    "assets_alloc": 52.6389,
+    "amt_alloc": 8302063290.795,
+    "share_assets": 6.9773e-06,
+    "share_amt": 0.0068
+  },
+  {
+    "combo": "Munitions & Missile Systems | Energetics and Conventional Power/Propulsion",
+    "a": "Munitions & Missile Systems",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 815,
+    "assets_alloc": 2698.0994,
+    "amt_alloc": 8296476497.815,
+    "share_assets": 0.0004,
+    "share_amt": 0.0068
+  },
+  {
+    "combo": "R&D and Science & Technology | Biomanufacturing",
+    "a": "R&D and Science & Technology",
+    "b": "Biomanufacturing",
+    "assets_int": 412,
+    "assets_alloc": 575.1131,
+    "amt_alloc": 7467119741.67,
+    "share_assets": 0.0001,
+    "share_amt": 0.0062
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Energetics and Conventional Power/Propulsion",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 164,
+    "assets_alloc": 149.7182,
+    "amt_alloc": 7189047851.97,
+    "share_assets": 0,
+    "share_amt": 0.0059
+  },
+  {
+    "combo": "Engineering & Technical Services | Biomanufacturing",
+    "a": "Engineering & Technical Services",
+    "b": "Biomanufacturing",
+    "assets_int": 245,
+    "assets_alloc": 340.752,
+    "amt_alloc": 7144050352.11,
+    "share_assets": 0,
+    "share_amt": 0.0059
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Advanced Manufacturing and Industrial Automation",
+    "a": "Maritime & Shipbuilding",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 113,
+    "assets_alloc": 94.0358,
+    "amt_alloc": 6664524099.75,
+    "share_assets": 0,
+    "share_amt": 0.0055
+  },
+  {
+    "combo": "Space Systems & Satellites | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Space Systems & Satellites",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 955,
+    "assets_alloc": 17693.6222,
+    "amt_alloc": 6344898568.86,
+    "share_assets": 0.0023,
+    "share_amt": 0.0052
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Unknown technology",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Unknown technology",
+    "assets_int": 227,
+    "assets_alloc": 358.85,
+    "amt_alloc": 6316980271.135,
+    "share_assets": 0,
+    "share_amt": 0.0052
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Energetics and Conventional Power/Propulsion",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 179,
+    "assets_alloc": 2959.1403,
+    "amt_alloc": 6303156736.625,
+    "share_assets": 0.0004,
+    "share_amt": 0.0052
+  },
+  {
+    "combo": "Materials & Critical Minerals | Advanced Materials and Critical Minerals",
+    "a": "Materials & Critical Minerals",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 1356,
+    "assets_alloc": 23562.9861,
+    "amt_alloc": 5964896059.97,
+    "share_assets": 0.0031,
+    "share_amt": 0.0049
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Advanced Manufacturing and Industrial Automation",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 139,
+    "assets_alloc": 134.8284,
+    "amt_alloc": 5705281146.18,
+    "share_assets": 0,
+    "share_amt": 0.0047
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Advanced Materials and Critical Minerals",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 1903,
+    "assets_alloc": 26563.5182,
+    "amt_alloc": 5544807582.37,
+    "share_assets": 0.0035,
+    "share_amt": 0.0046
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Advanced Materials and Critical Minerals",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 1213,
+    "assets_alloc": 192146.4778,
+    "amt_alloc": 5425444528.535,
+    "share_assets": 0.0255,
+    "share_amt": 0.0045
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Unknown technology",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Unknown technology",
+    "assets_int": 2328,
+    "assets_alloc": 132330.1262,
+    "amt_alloc": 5148392008.21,
+    "share_assets": 0.0175,
+    "share_amt": 0.0042
+  },
+  {
+    "combo": "Materials & Critical Minerals | Advanced Manufacturing and Industrial Automation",
+    "a": "Materials & Critical Minerals",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 123,
+    "assets_alloc": 44.4722,
+    "amt_alloc": 4896948639.175,
+    "share_assets": 5.8948e-06,
+    "share_amt": 0.004
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Secure Microelectronics and Photonics",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 2721,
+    "assets_alloc": 21917.9862,
+    "amt_alloc": 4750860161.675,
+    "share_assets": 0.0029,
+    "share_amt": 0.0039
+  },
+  {
+    "combo": "Other Professional & Business Services | Advanced Manufacturing and Industrial Automation",
+    "a": "Other Professional & Business Services",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 193,
+    "assets_alloc": 103.9106,
+    "amt_alloc": 4044069789.125,
+    "share_assets": 0,
+    "share_amt": 0.0033
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Nuclear Technologies and Radiation Effects",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 239,
+    "assets_alloc": 940.2042,
+    "amt_alloc": 3981378440.895,
+    "share_assets": 0.0001,
+    "share_amt": 0.0033
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Nuclear Technologies and Radiation Effects",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 81,
+    "assets_alloc": 50.2514,
+    "amt_alloc": 3868205848.84,
+    "share_assets": 6.6608e-06,
+    "share_amt": 0.0032
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Energetics and Conventional Power/Propulsion",
+    "a": "Maritime & Shipbuilding",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 143,
+    "assets_alloc": 99.8701,
+    "amt_alloc": 3864506153.23,
+    "share_assets": 0,
+    "share_amt": 0.0032
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Advanced Materials and Critical Minerals",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 3097,
+    "assets_alloc": 67844.0687,
+    "amt_alloc": 3842025991.76,
+    "share_assets": 0.009,
+    "share_amt": 0.0032
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Unknown technology",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Unknown technology",
+    "assets_int": 2518,
+    "assets_alloc": 25091.2214,
+    "amt_alloc": 3787191162.92,
+    "share_assets": 0.0033,
+    "share_amt": 0.0031
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Nuclear Technologies and Radiation Effects",
+    "a": "Maritime & Shipbuilding",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 21,
+    "assets_alloc": 12.2931,
+    "amt_alloc": 3736372548.295,
+    "share_assets": 1.6294e-06,
+    "share_amt": 0.0031
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Biomanufacturing",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Biomanufacturing",
+    "assets_int": 119,
+    "assets_alloc": 65.3173,
+    "amt_alloc": 3668280298.68,
+    "share_assets": 8.6578e-06,
+    "share_amt": 0.003
+  },
+  {
+    "combo": "Engineering & Technical Services | Nuclear Technologies and Radiation Effects",
+    "a": "Engineering & Technical Services",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 95,
+    "assets_alloc": 37.5208,
+    "amt_alloc": 3584685957.795,
+    "share_assets": 4.9734e-06,
+    "share_amt": 0.003
+  },
+  {
+    "combo": "Engineering & Technical Services | Secure Microelectronics and Photonics",
+    "a": "Engineering & Technical Services",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 412,
+    "assets_alloc": 270.9161,
+    "amt_alloc": 3562621590.37,
+    "share_assets": 0,
+    "share_amt": 0.0029
+  },
+  {
+    "combo": "R&D and Science & Technology | Nuclear Technologies and Radiation Effects",
+    "a": "R&D and Science & Technology",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 69,
+    "assets_alloc": 25.0278,
+    "amt_alloc": 3495675559.325,
+    "share_assets": 3.3174e-06,
+    "share_amt": 0.0029
+  },
+  {
+    "combo": "Digital Technologies & Software | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Digital Technologies & Software",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 419,
+    "assets_alloc": 3594.2625,
+    "amt_alloc": 3458049648.155,
+    "share_assets": 0.0005,
+    "share_amt": 0.0029
+  },
+  {
+    "combo": "Aircraft & Aviation | Autonomous and Unmanned Systems",
+    "a": "Aircraft & Aviation",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 440,
+    "assets_alloc": 610.1867,
+    "amt_alloc": 3450564254.485,
+    "share_assets": 0.0001,
+    "share_amt": 0.0028
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Contested Logistics Technologies",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 829,
+    "assets_alloc": 1560.5565,
+    "amt_alloc": 3342740049.505,
+    "share_assets": 0.0002,
+    "share_amt": 0.0028
+  },
+  {
+    "combo": "Other Professional & Business Services | Advanced Materials and Critical Minerals",
+    "a": "Other Professional & Business Services",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 325,
+    "assets_alloc": 2408.2334,
+    "amt_alloc": 3336755887.215,
+    "share_assets": 0.0003,
+    "share_amt": 0.0028
+  },
+  {
+    "combo": "Digital Technologies & Software | Biomanufacturing",
+    "a": "Digital Technologies & Software",
+    "b": "Biomanufacturing",
+    "assets_int": 106,
+    "assets_alloc": 34.5881,
+    "amt_alloc": 2956986975.955,
+    "share_assets": 4.5846e-06,
+    "share_amt": 0.0024
+  },
+  {
+    "combo": "Space Systems & Satellites | Energetics and Conventional Power/Propulsion",
+    "a": "Space Systems & Satellites",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 87,
+    "assets_alloc": 39.1264,
+    "amt_alloc": 2953557006.27,
+    "share_assets": 5.1862e-06,
+    "share_amt": 0.0024
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Unknown technology",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Unknown technology",
+    "assets_int": 2202,
+    "assets_alloc": 12836.0119,
+    "amt_alloc": 2688494321.565,
+    "share_assets": 0.0017,
+    "share_amt": 0.0022
+  },
+  {
+    "combo": "Engineering & Technical Services | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Engineering & Technical Services",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 307,
+    "assets_alloc": 149.1639,
+    "amt_alloc": 2612132055.035,
+    "share_assets": 0,
+    "share_amt": 0.0022
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 272,
+    "assets_alloc": 503.85,
+    "amt_alloc": 2590064713.425,
+    "share_assets": 0.0001,
+    "share_amt": 0.0021
+  },
+  {
+    "combo": "Digital Technologies & Software | Cybersecurity and Trusted Systems",
+    "a": "Digital Technologies & Software",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 539,
+    "assets_alloc": 662.8361,
+    "amt_alloc": 2529670220.945,
+    "share_assets": 0.0001,
+    "share_amt": 0.0021
+  },
+  {
+    "combo": "Digital Technologies & Software | Energetics and Conventional Power/Propulsion",
+    "a": "Digital Technologies & Software",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 210,
+    "assets_alloc": 201.1876,
+    "amt_alloc": 2522195788.25,
+    "share_assets": 0,
+    "share_amt": 0.0021
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Energetics and Conventional Power/Propulsion",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 658,
+    "assets_alloc": 2302.3063,
+    "amt_alloc": 2495230292.15,
+    "share_assets": 0.0003,
+    "share_amt": 0.0021
+  },
+  {
+    "combo": "R&D and Science & Technology | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "R&D and Science & Technology",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 230,
+    "assets_alloc": 203.3083,
+    "amt_alloc": 2383451037.955,
+    "share_assets": 0,
+    "share_amt": 0.002
+  },
+  {
+    "combo": "Other Professional & Business Services | Energetics and Conventional Power/Propulsion",
+    "a": "Other Professional & Business Services",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 75,
+    "assets_alloc": 45.5882,
+    "amt_alloc": 2327244378.685,
+    "share_assets": 6.0427e-06,
+    "share_amt": 0.0019
+  },
+  {
+    "combo": "Unknown sector | Energetics and Conventional Power/Propulsion",
+    "a": "Unknown sector",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 1467,
+    "assets_alloc": 115264.25,
+    "amt_alloc": 2185966458.625,
+    "share_assets": 0.0153,
+    "share_amt": 0.0018
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Advanced Materials and Critical Minerals",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 189,
+    "assets_alloc": 566.4583,
+    "amt_alloc": 2148626241.825,
+    "share_assets": 0.0001,
+    "share_amt": 0.0018
+  },
+  {
+    "combo": "Digital Technologies & Software | Secure Microelectronics and Photonics",
+    "a": "Digital Technologies & Software",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 367,
+    "assets_alloc": 349.4362,
+    "amt_alloc": 2047702054.115,
+    "share_assets": 0,
+    "share_amt": 0.0017
+  },
+  {
+    "combo": "Construction | Energetics and Conventional Power/Propulsion",
+    "a": "Construction",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 321,
+    "assets_alloc": 322.9972,
+    "amt_alloc": 2027978908.39,
+    "share_assets": 0,
+    "share_amt": 0.0017
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Energetics and Conventional Power/Propulsion",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 110,
+    "assets_alloc": 157.7361,
+    "amt_alloc": 1998592264.66,
+    "share_assets": 0,
+    "share_amt": 0.0016
+  },
+  {
+    "combo": "Aircraft & Aviation | Nuclear Technologies and Radiation Effects",
+    "a": "Aircraft & Aviation",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 33,
+    "assets_alloc": 29.3639,
+    "amt_alloc": 1951573789.32,
+    "share_assets": 3.8922e-06,
+    "share_amt": 0.0016
+  },
+  {
+    "combo": "Digital Technologies & Software | Nuclear Technologies and Radiation Effects",
+    "a": "Digital Technologies & Software",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 51,
+    "assets_alloc": 33.3056,
+    "amt_alloc": 1944831474.715,
+    "share_assets": 4.4146e-06,
+    "share_amt": 0.0016
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Secure Microelectronics and Photonics",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 753,
+    "assets_alloc": 898.5653,
+    "amt_alloc": 1884693589.55,
+    "share_assets": 0.0001,
+    "share_amt": 0.0016
+  },
+  {
+    "combo": "Aircraft & Aviation | Secure Microelectronics and Photonics",
+    "a": "Aircraft & Aviation",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 381,
+    "assets_alloc": 937.4194,
+    "amt_alloc": 1841284210.525,
+    "share_assets": 0.0001,
+    "share_amt": 0.0015
+  },
+  {
+    "combo": "R&D and Science & Technology | Energetics and Conventional Power/Propulsion",
+    "a": "R&D and Science & Technology",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 320,
+    "assets_alloc": 187.53,
+    "amt_alloc": 1812658444.035,
+    "share_assets": 0,
+    "share_amt": 0.0015
+  },
+  {
+    "combo": "Munitions & Missile Systems | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Munitions & Missile Systems",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 58,
+    "assets_alloc": 39.7708,
+    "amt_alloc": 1798311278.03,
+    "share_assets": 5.2716e-06,
+    "share_amt": 0.0015
+  },
+  {
+    "combo": "Engineering & Technical Services | Cybersecurity and Trusted Systems",
+    "a": "Engineering & Technical Services",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 323,
+    "assets_alloc": 172.9486,
+    "amt_alloc": 1749036840.345,
+    "share_assets": 0,
+    "share_amt": 0.0014
+  },
+  {
+    "combo": "Other Professional & Business Services | Contested Logistics Technologies",
+    "a": "Other Professional & Business Services",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 352,
+    "assets_alloc": 999.7037,
+    "amt_alloc": 1732415843.91,
+    "share_assets": 0.0001,
+    "share_amt": 0.0014
+  },
+  {
+    "combo": "R&D and Science & Technology | Secure Microelectronics and Photonics",
+    "a": "R&D and Science & Technology",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 314,
+    "assets_alloc": 201.7862,
+    "amt_alloc": 1685681244.32,
+    "share_assets": 0,
+    "share_amt": 0.0014
+  },
+  {
+    "combo": "Financial & Insurance Services | Nuclear Technologies and Radiation Effects",
+    "a": "Financial & Insurance Services",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 1,
+    "assets_alloc": 0.125,
+    "amt_alloc": 1662892995.455,
+    "share_assets": 1.6569e-08,
+    "share_amt": 0.0014
+  },
+  {
+    "combo": "Engineering & Technical Services | Autonomous and Unmanned Systems",
+    "a": "Engineering & Technical Services",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 344,
+    "assets_alloc": 163.6395,
+    "amt_alloc": 1642038871.74,
+    "share_assets": 0,
+    "share_amt": 0.0014
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Cybersecurity and Trusted Systems",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 245,
+    "assets_alloc": 189.9889,
+    "amt_alloc": 1561116835.32,
+    "share_assets": 0,
+    "share_amt": 0.0013
+  },
+  {
+    "combo": "Engineering & Technical Services | Applied Artificial Intelligence",
+    "a": "Engineering & Technical Services",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 724,
+    "assets_alloc": 433.5106,
+    "amt_alloc": 1510174771.64,
+    "share_assets": 0.0001,
+    "share_amt": 0.0012
+  },
+  {
+    "combo": "Munitions & Missile Systems | Biomanufacturing",
+    "a": "Munitions & Missile Systems",
+    "b": "Biomanufacturing",
+    "assets_int": 54,
+    "assets_alloc": 20.0097,
+    "amt_alloc": 1505635244.875,
+    "share_assets": 2.6523e-06,
+    "share_amt": 0.0012
+  },
+  {
+    "combo": "Engineering & Technical Services | Scaled Hypersonics",
+    "a": "Engineering & Technical Services",
+    "b": "Scaled Hypersonics",
+    "assets_int": 214,
+    "assets_alloc": 141.625,
+    "amt_alloc": 1343876292.085,
+    "share_assets": 0,
+    "share_amt": 0.0011
+  },
+  {
+    "combo": "R&D and Science & Technology | Scaled Hypersonics",
+    "a": "R&D and Science & Technology",
+    "b": "Scaled Hypersonics",
+    "assets_int": 212,
+    "assets_alloc": 141.2694,
+    "amt_alloc": 1336208244.755,
+    "share_assets": 0,
+    "share_amt": 0.0011
+  },
+  {
+    "combo": "Construction | Advanced Materials and Critical Minerals",
+    "a": "Construction",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 517,
+    "assets_alloc": 601.3194,
+    "amt_alloc": 1335871485.825,
+    "share_assets": 0.0001,
+    "share_amt": 0.0011
+  },
+  {
+    "combo": "Other Professional & Business Services | Secure Microelectronics and Photonics",
+    "a": "Other Professional & Business Services",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 22,
+    "assets_alloc": 9.8056,
+    "amt_alloc": 1301342720.59,
+    "share_assets": 1.2997e-06,
+    "share_amt": 0.0011
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Unknown technology",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Unknown technology",
+    "assets_int": 2050,
+    "assets_alloc": 7252.2,
+    "amt_alloc": 1214079970.845,
+    "share_assets": 0.001,
+    "share_amt": 0.001
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Contested Logistics Technologies",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 1253,
+    "assets_alloc": 5024.1792,
+    "amt_alloc": 1086936001.17,
+    "share_assets": 0.0007,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Aircraft & Aviation | Biomanufacturing",
+    "a": "Aircraft & Aviation",
+    "b": "Biomanufacturing",
+    "assets_int": 56,
+    "assets_alloc": 18.5048,
+    "amt_alloc": 1080379538.115,
+    "share_assets": 2.4528e-06,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Advanced Materials and Critical Minerals",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 2168,
+    "assets_alloc": 26768.3504,
+    "amt_alloc": 1044414694.51,
+    "share_assets": 0.0035,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Engineering & Technical Services | Contested Logistics Technologies",
+    "a": "Engineering & Technical Services",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 326,
+    "assets_alloc": 202.5481,
+    "amt_alloc": 1028696422.6,
+    "share_assets": 0,
+    "share_amt": 0.0008
+  },
+  {
+    "combo": "Munitions & Missile Systems | Scaled Hypersonics",
+    "a": "Munitions & Missile Systems",
+    "b": "Scaled Hypersonics",
+    "assets_int": 51,
+    "assets_alloc": 21.325,
+    "amt_alloc": 847631189.545,
+    "share_assets": 2.8266e-06,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Autonomous and Unmanned Systems",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 105,
+    "assets_alloc": 59.2464,
+    "amt_alloc": 832048595.195,
+    "share_assets": 7.8531e-06,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "R&D and Science & Technology | Applied Artificial Intelligence",
+    "a": "R&D and Science & Technology",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 743,
+    "assets_alloc": 604.8391,
+    "amt_alloc": 825110394.52,
+    "share_assets": 0.0001,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Unknown sector | Applied Artificial Intelligence",
+    "a": "Unknown sector",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 212,
+    "assets_alloc": 148986,
+    "amt_alloc": 817144401.19,
+    "share_assets": 0.0197,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Engineering & Technical Services | Scaled Directed Energy",
+    "a": "Engineering & Technical Services",
+    "b": "Scaled Directed Energy",
+    "assets_int": 109,
+    "assets_alloc": 301.0049,
+    "amt_alloc": 809823177.525,
+    "share_assets": 0,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Secure Microelectronics and Photonics",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 239,
+    "assets_alloc": 200.9584,
+    "amt_alloc": 762788367.125,
+    "share_assets": 0,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Contested Logistics Technologies",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 74,
+    "assets_alloc": 196.5148,
+    "amt_alloc": 756180359.695,
+    "share_assets": 0,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "R&D and Science & Technology | Cybersecurity and Trusted Systems",
+    "a": "R&D and Science & Technology",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 175,
+    "assets_alloc": 77.5736,
+    "amt_alloc": 748150219.255,
+    "share_assets": 0,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "R&D and Science & Technology | Autonomous and Unmanned Systems",
+    "a": "R&D and Science & Technology",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 287,
+    "assets_alloc": 130.5153,
+    "amt_alloc": 735636595.675,
+    "share_assets": 0,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Advanced Manufacturing and Industrial Automation",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 329,
+    "assets_alloc": 568.3947,
+    "amt_alloc": 721609001.805,
+    "share_assets": 0.0001,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Digital Technologies & Software | Applied Artificial Intelligence",
+    "a": "Digital Technologies & Software",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 312,
+    "assets_alloc": 202.2822,
+    "amt_alloc": 692940336.125,
+    "share_assets": 0,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Space Systems & Satellites | Biomanufacturing",
+    "a": "Space Systems & Satellites",
+    "b": "Biomanufacturing",
+    "assets_int": 49,
+    "assets_alloc": 16.1347,
+    "amt_alloc": 677667430.26,
+    "share_assets": 2.1387e-06,
+    "share_amt": 0.0006
+  },
+  {
+    "combo": "Workforce Training & Education | Unknown technology",
+    "a": "Workforce Training & Education",
+    "b": "Unknown technology",
+    "assets_int": 362,
+    "assets_alloc": 403.0167,
+    "amt_alloc": 660639122.55,
+    "share_assets": 0.0001,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Autonomous and Unmanned Systems",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 68,
+    "assets_alloc": 28.6214,
+    "amt_alloc": 659717053.21,
+    "share_assets": 3.7938e-06,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Digital Technologies & Software | Scaled Directed Energy",
+    "a": "Digital Technologies & Software",
+    "b": "Scaled Directed Energy",
+    "assets_int": 23,
+    "assets_alloc": 5.0646,
+    "amt_alloc": 647486183.145,
+    "share_assets": 6.7131e-07,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Aircraft & Aviation | Scaled Directed Energy",
+    "a": "Aircraft & Aviation",
+    "b": "Scaled Directed Energy",
+    "assets_int": 10,
+    "assets_alloc": 3.1146,
+    "amt_alloc": 647321784.96,
+    "share_assets": 4.1284e-07,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Human Performance and Biomedical Technologies",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 428,
+    "assets_alloc": 448.575,
+    "amt_alloc": 634913016.045,
+    "share_assets": 0.0001,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Scaled Directed Energy",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Scaled Directed Energy",
+    "assets_int": 10,
+    "assets_alloc": 3.3479,
+    "amt_alloc": 632956345.12,
+    "share_assets": 4.4377e-07,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Advanced Manufacturing and Industrial Automation",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 159,
+    "assets_alloc": 96.1738,
+    "amt_alloc": 631524768.535,
+    "share_assets": 0,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Scaled Directed Energy",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Scaled Directed Energy",
+    "assets_int": 20,
+    "assets_alloc": 221.3313,
+    "amt_alloc": 628189460.165,
+    "share_assets": 0,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Advanced Materials and Critical Minerals",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 1291,
+    "assets_alloc": 9247.7347,
+    "amt_alloc": 624129677.16,
+    "share_assets": 0.0012,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Biomanufacturing",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Biomanufacturing",
+    "assets_int": 10,
+    "assets_alloc": 1.9764,
+    "amt_alloc": 618284334.835,
+    "share_assets": 2.6197e-07,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Digital Technologies & Software | Contested Logistics Technologies",
+    "a": "Digital Technologies & Software",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 254,
+    "assets_alloc": 228.8681,
+    "amt_alloc": 617156775.53,
+    "share_assets": 0,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Scaled Directed Energy",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Scaled Directed Energy",
+    "assets_int": 6,
+    "assets_alloc": 2.5312,
+    "amt_alloc": 604157799.15,
+    "share_assets": 3.3552e-07,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Other Professional & Business Services | Scaled Directed Energy",
+    "a": "Other Professional & Business Services",
+    "b": "Scaled Directed Energy",
+    "assets_int": 5,
+    "assets_alloc": 1.6979,
+    "amt_alloc": 604156536.27,
+    "share_assets": 2.2506e-07,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Scaled Directed Energy",
+    "a": "Maritime & Shipbuilding",
+    "b": "Scaled Directed Energy",
+    "assets_int": 1,
+    "assets_alloc": 0.0312,
+    "amt_alloc": 602722157,
+    "share_assets": 4.1422e-09,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Contested Logistics Technologies",
+    "a": "Maritime & Shipbuilding",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 90,
+    "assets_alloc": 81.3528,
+    "amt_alloc": 586729584.075,
+    "share_assets": 0,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Engineering & Technical Services | Quantum and Battlefield Information Dominance",
+    "a": "Engineering & Technical Services",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 261,
+    "assets_alloc": 104.2504,
+    "amt_alloc": 553375669.095,
+    "share_assets": 0,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Construction | Contested Logistics Technologies",
+    "a": "Construction",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 116,
+    "assets_alloc": 65.6444,
+    "amt_alloc": 549700237.94,
+    "share_assets": 8.7012e-06,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Other Professional & Business Services | Biomanufacturing",
+    "a": "Other Professional & Business Services",
+    "b": "Biomanufacturing",
+    "assets_int": 36,
+    "assets_alloc": 12.3256,
+    "amt_alloc": 534344606.285,
+    "share_assets": 1.6338e-06,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Applied Artificial Intelligence",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 213,
+    "assets_alloc": 132.0556,
+    "amt_alloc": 533927239.515,
+    "share_assets": 0,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Construction | Applied Artificial Intelligence",
+    "a": "Construction",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 24,
+    "assets_alloc": 15.725,
+    "amt_alloc": 508925639.83,
+    "share_assets": 2.0843e-06,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Human Performance and Biomedical Technologies",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 78,
+    "assets_alloc": 65.7452,
+    "amt_alloc": 508180819.425,
+    "share_assets": 8.7145e-06,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Digital Technologies & Software | Autonomous and Unmanned Systems",
+    "a": "Digital Technologies & Software",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 121,
+    "assets_alloc": 54.3958,
+    "amt_alloc": 502299681.215,
+    "share_assets": 7.2102e-06,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Engineering & Technical Services | Human Performance and Biomedical Technologies",
+    "a": "Engineering & Technical Services",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 370,
+    "assets_alloc": 311.6056,
+    "amt_alloc": 500532472.47,
+    "share_assets": 0,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Aircraft & Aviation | Applied Artificial Intelligence",
+    "a": "Aircraft & Aviation",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 362,
+    "assets_alloc": 2880.8944,
+    "amt_alloc": 472908286.645,
+    "share_assets": 0.0004,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Digital Technologies & Software | Quantum and Battlefield Information Dominance",
+    "a": "Digital Technologies & Software",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 345,
+    "assets_alloc": 556.9322,
+    "amt_alloc": 470909912.445,
+    "share_assets": 0.0001,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Construction | Human Performance and Biomedical Technologies",
+    "a": "Construction",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 67,
+    "assets_alloc": 37.95,
+    "amt_alloc": 444442373.41,
+    "share_assets": 5.0303e-06,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Aircraft & Aviation | Contested Logistics Technologies",
+    "a": "Aircraft & Aviation",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 149,
+    "assets_alloc": 930.3278,
+    "amt_alloc": 434217366.26,
+    "share_assets": 0.0001,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Digital Technologies & Software | Scaled Hypersonics",
+    "a": "Digital Technologies & Software",
+    "b": "Scaled Hypersonics",
+    "assets_int": 36,
+    "assets_alloc": 14.3944,
+    "amt_alloc": 429609974.085,
+    "share_assets": 1.908e-06,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Energetics and Conventional Power/Propulsion",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 29,
+    "assets_alloc": 10.6722,
+    "amt_alloc": 421831477.805,
+    "share_assets": 1.4146e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Munitions & Missile Systems | Secure Microelectronics and Photonics",
+    "a": "Munitions & Missile Systems",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 134,
+    "assets_alloc": 86.5506,
+    "amt_alloc": 416686198.695,
+    "share_assets": 0,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "R&D and Science & Technology | Quantum and Battlefield Information Dominance",
+    "a": "R&D and Science & Technology",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 254,
+    "assets_alloc": 131.9956,
+    "amt_alloc": 406112075.53,
+    "share_assets": 0,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Aircraft & Aviation | Scaled Hypersonics",
+    "a": "Aircraft & Aviation",
+    "b": "Scaled Hypersonics",
+    "assets_int": 53,
+    "assets_alloc": 52.0667,
+    "amt_alloc": 402239821.7,
+    "share_assets": 6.9014e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Transportation & Warehousing | Contested Logistics Technologies",
+    "a": "Transportation & Warehousing",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 47,
+    "assets_alloc": 21.1028,
+    "amt_alloc": 393967466.71,
+    "share_assets": 2.7972e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Other Professional & Business Services | Autonomous and Unmanned Systems",
+    "a": "Other Professional & Business Services",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 21,
+    "assets_alloc": 6.2472,
+    "amt_alloc": 375810273.645,
+    "share_assets": 8.2807e-07,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Other Professional & Business Services | Cybersecurity and Trusted Systems",
+    "a": "Other Professional & Business Services",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 55,
+    "assets_alloc": 26.2222,
+    "amt_alloc": 370517413.985,
+    "share_assets": 3.4757e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Energetics and Conventional Power/Propulsion",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 339,
+    "assets_alloc": 443.2153,
+    "amt_alloc": 359843421.285,
+    "share_assets": 0.0001,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Contested Logistics Technologies",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 133,
+    "assets_alloc": 133.7259,
+    "amt_alloc": 356529922.07,
+    "share_assets": 0,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Scaled Hypersonics",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Scaled Hypersonics",
+    "assets_int": 20,
+    "assets_alloc": 9.3417,
+    "amt_alloc": 356170914.735,
+    "share_assets": 1.2382e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Scaled Hypersonics",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Scaled Hypersonics",
+    "assets_int": 3,
+    "assets_alloc": 1.6444,
+    "amt_alloc": 349824990.98,
+    "share_assets": 2.1797e-07,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Energetics and Conventional Power/Propulsion",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 149,
+    "assets_alloc": 542.6397,
+    "amt_alloc": 338414805.85,
+    "share_assets": 0.0001,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Secure Microelectronics and Photonics",
+    "a": "Maritime & Shipbuilding",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 62,
+    "assets_alloc": 62.4081,
+    "amt_alloc": 335236934.51,
+    "share_assets": 8.2722e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Unknown sector | Human Performance and Biomedical Technologies",
+    "a": "Unknown sector",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 316,
+    "assets_alloc": 2360.8333,
+    "amt_alloc": 331156692.25,
+    "share_assets": 0.0003,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Transportation & Warehousing | Unknown technology",
+    "a": "Transportation & Warehousing",
+    "b": "Unknown technology",
+    "assets_int": 120,
+    "assets_alloc": 60.9667,
+    "amt_alloc": 320590278.715,
+    "share_assets": 8.0811e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Other Professional & Business Services | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Other Professional & Business Services",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 59,
+    "assets_alloc": 59.4944,
+    "amt_alloc": 307546649.415,
+    "share_assets": 7.886e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Unknown sector | Advanced Manufacturing and Industrial Automation",
+    "a": "Unknown sector",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 394,
+    "assets_alloc": 1902.6667,
+    "amt_alloc": 286893162.085,
+    "share_assets": 0.0003,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Space Systems & Satellites | Scaled Hypersonics",
+    "a": "Space Systems & Satellites",
+    "b": "Scaled Hypersonics",
+    "assets_int": 40,
+    "assets_alloc": 15.375,
+    "amt_alloc": 285262202.825,
+    "share_assets": 2.038e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Autonomous and Unmanned Systems",
+    "a": "Maritime & Shipbuilding",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 54,
+    "assets_alloc": 22.6742,
+    "amt_alloc": 283191203.69,
+    "share_assets": 3.0055e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Nuclear Technologies and Radiation Effects",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 27,
+    "assets_alloc": 14.9014,
+    "amt_alloc": 282228207.64,
+    "share_assets": 1.9752e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "R&D and Science & Technology | Human Performance and Biomedical Technologies",
+    "a": "R&D and Science & Technology",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 268,
+    "assets_alloc": 208.2147,
+    "amt_alloc": 279475876.535,
+    "share_assets": 0,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Human Performance and Biomedical Technologies",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 265,
+    "assets_alloc": 7045.6972,
+    "amt_alloc": 278174243.295,
+    "share_assets": 0.0009,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Munitions & Missile Systems | Cybersecurity and Trusted Systems",
+    "a": "Munitions & Missile Systems",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 42,
+    "assets_alloc": 14.6597,
+    "amt_alloc": 276346656.685,
+    "share_assets": 1.9431e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Munitions & Missile Systems | Contested Logistics Technologies",
+    "a": "Munitions & Missile Systems",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 62,
+    "assets_alloc": 95.0917,
+    "amt_alloc": 273047940.825,
+    "share_assets": 0,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Unknown sector | Secure Microelectronics and Photonics",
+    "a": "Unknown sector",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 605,
+    "assets_alloc": 2069.9167,
+    "amt_alloc": 269090355.665,
+    "share_assets": 0.0003,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Autonomous and Unmanned Systems",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 17,
+    "assets_alloc": 89.7944,
+    "amt_alloc": 262830383.36,
+    "share_assets": 0,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Space Systems & Satellites | Cybersecurity and Trusted Systems",
+    "a": "Space Systems & Satellites",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 24,
+    "assets_alloc": 5.3153,
+    "amt_alloc": 257151041.915,
+    "share_assets": 7.0454e-07,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Biomanufacturing",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Biomanufacturing",
+    "assets_int": 31,
+    "assets_alloc": 19.5,
+    "amt_alloc": 242958055.485,
+    "share_assets": 2.5847e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "R&D and Science & Technology | Scaled Directed Energy",
+    "a": "R&D and Science & Technology",
+    "b": "Scaled Directed Energy",
+    "assets_int": 115,
+    "assets_alloc": 71.1681,
+    "amt_alloc": 237000413.37,
+    "share_assets": 9.4333e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Munitions & Missile Systems | Autonomous and Unmanned Systems",
+    "a": "Munitions & Missile Systems",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 33,
+    "assets_alloc": 15.1298,
+    "amt_alloc": 233515125.145,
+    "share_assets": 2.0054e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Contested Logistics Technologies",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 742,
+    "assets_alloc": 3083.5662,
+    "amt_alloc": 229472048.43,
+    "share_assets": 0.0004,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Workforce Training & Education | Advanced Manufacturing and Industrial Automation",
+    "a": "Workforce Training & Education",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 33,
+    "assets_alloc": 17.4417,
+    "amt_alloc": 222615447.095,
+    "share_assets": 2.3119e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 60,
+    "assets_alloc": 35.6639,
+    "amt_alloc": 219081783.9,
+    "share_assets": 4.7272e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Biomanufacturing",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Biomanufacturing",
+    "assets_int": 5,
+    "assets_alloc": 0.775,
+    "amt_alloc": 218415726.52,
+    "share_assets": 1.0273e-07,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Space Systems & Satellites | Secure Microelectronics and Photonics",
+    "a": "Space Systems & Satellites",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 65,
+    "assets_alloc": 30.254,
+    "amt_alloc": 211733994.34,
+    "share_assets": 4.0102e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Applied Artificial Intelligence",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 65,
+    "assets_alloc": 35.4363,
+    "amt_alloc": 211359869.02,
+    "share_assets": 4.6971e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Biomanufacturing",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Biomanufacturing",
+    "assets_int": 4,
+    "assets_alloc": 0.3611,
+    "amt_alloc": 204271982.48,
+    "share_assets": 4.7865e-08,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 6,
+    "assets_alloc": 1.2083,
+    "amt_alloc": 204135004.715,
+    "share_assets": 1.6016e-07,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Aircraft & Aviation | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Aircraft & Aviation",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 27,
+    "assets_alloc": 17.5111,
+    "amt_alloc": 203208913.6,
+    "share_assets": 2.3211e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "R&D and Science & Technology | Contested Logistics Technologies",
+    "a": "R&D and Science & Technology",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 129,
+    "assets_alloc": 59.1093,
+    "amt_alloc": 199919555.06,
+    "share_assets": 7.8349e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Aircraft & Aviation | Cybersecurity and Trusted Systems",
+    "a": "Aircraft & Aviation",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 29,
+    "assets_alloc": 12.4083,
+    "amt_alloc": 196305270.925,
+    "share_assets": 1.6447e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Space Systems & Satellites | Quantum and Battlefield Information Dominance",
+    "a": "Space Systems & Satellites",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 103,
+    "assets_alloc": 557.6356,
+    "amt_alloc": 183132572.34,
+    "share_assets": 0.0001,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Unknown sector | Contested Logistics Technologies",
+    "a": "Unknown sector",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 551,
+    "assets_alloc": 3816,
+    "amt_alloc": 180676370.645,
+    "share_assets": 0.0005,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Cybersecurity and Trusted Systems",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 8,
+    "assets_alloc": 2.0417,
+    "amt_alloc": 170169960.33,
+    "share_assets": 2.7062e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Digital Technologies & Software | Human Performance and Biomedical Technologies",
+    "a": "Digital Technologies & Software",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 66,
+    "assets_alloc": 32.173,
+    "amt_alloc": 158812317.83,
+    "share_assets": 4.2645e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Munitions & Missile Systems | Applied Artificial Intelligence",
+    "a": "Munitions & Missile Systems",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 41,
+    "assets_alloc": 19.555,
+    "amt_alloc": 158582567.235,
+    "share_assets": 2.592e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Materials & Critical Minerals | Unknown technology",
+    "a": "Materials & Critical Minerals",
+    "b": "Unknown technology",
+    "assets_int": 467,
+    "assets_alloc": 3119.25,
+    "amt_alloc": 153966731.235,
+    "share_assets": 0.0004,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Scaled Hypersonics",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Scaled Hypersonics",
+    "assets_int": 14,
+    "assets_alloc": 3.2083,
+    "amt_alloc": 148831304.775,
+    "share_assets": 4.2526e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Munitions & Missile Systems | Quantum and Battlefield Information Dominance",
+    "a": "Munitions & Missile Systems",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 15,
+    "assets_alloc": 2.5466,
+    "amt_alloc": 147991391.54,
+    "share_assets": 3.3755e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Other Professional & Business Services | Human Performance and Biomedical Technologies",
+    "a": "Other Professional & Business Services",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 125,
+    "assets_alloc": 114.4083,
+    "amt_alloc": 142826494.975,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Human Performance and Biomedical Technologies",
+    "a": "Maritime & Shipbuilding",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 10,
+    "assets_alloc": 5.1167,
+    "amt_alloc": 140402365.2,
+    "share_assets": 6.7821e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Quantum and Battlefield Information Dominance",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 77,
+    "assets_alloc": 29.0817,
+    "amt_alloc": 138618867.675,
+    "share_assets": 3.8548e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Cybersecurity and Trusted Systems",
+    "a": "Maritime & Shipbuilding",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 24,
+    "assets_alloc": 9.3333,
+    "amt_alloc": 138069228.045,
+    "share_assets": 1.2371e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Cybersecurity and Trusted Systems",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 6,
+    "assets_alloc": 2.85,
+    "amt_alloc": 137583422.805,
+    "share_assets": 3.7777e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Other Professional & Business Services | Applied Artificial Intelligence",
+    "a": "Other Professional & Business Services",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 23,
+    "assets_alloc": 16.75,
+    "amt_alloc": 125492839.695,
+    "share_assets": 2.2202e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Autonomous and Unmanned Systems",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 11,
+    "assets_alloc": 3.0881,
+    "amt_alloc": 125456063.375,
+    "share_assets": 4.0933e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Transportation & Warehousing | Advanced Materials and Critical Minerals",
+    "a": "Transportation & Warehousing",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 21,
+    "assets_alloc": 9.7611,
+    "amt_alloc": 124129068.96,
+    "share_assets": 1.2938e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Quantum and Battlefield Information Dominance",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 12,
+    "assets_alloc": 2.5083,
+    "amt_alloc": 117720878.915,
+    "share_assets": 3.3248e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Workforce Training & Education | Biomanufacturing",
+    "a": "Workforce Training & Education",
+    "b": "Biomanufacturing",
+    "assets_int": 4,
+    "assets_alloc": 0.75,
+    "amt_alloc": 116277969.54,
+    "share_assets": 9.9412e-08,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Space Systems & Satellites | Contested Logistics Technologies",
+    "a": "Space Systems & Satellites",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 43,
+    "assets_alloc": 75.4106,
+    "amt_alloc": 101204213.28,
+    "share_assets": 9.9957e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Energetics and Conventional Power/Propulsion",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 104,
+    "assets_alloc": 81.1667,
+    "amt_alloc": 90738767.345,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Munitions & Missile Systems | Human Performance and Biomedical Technologies",
+    "a": "Munitions & Missile Systems",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 9,
+    "assets_alloc": 2.8286,
+    "amt_alloc": 85614967.66,
+    "share_assets": 3.7493e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Cybersecurity and Trusted Systems",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 5,
+    "assets_alloc": 1.25,
+    "amt_alloc": 84481513.1,
+    "share_assets": 1.6569e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Construction | Nuclear Technologies and Radiation Effects",
+    "a": "Construction",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 27,
+    "assets_alloc": 16.9167,
+    "amt_alloc": 83265257.365,
+    "share_assets": 2.2423e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Human Performance and Biomedical Technologies",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 14,
+    "assets_alloc": 6.9,
+    "amt_alloc": 82024263.415,
+    "share_assets": 9.1459e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Materials & Critical Minerals | Energetics and Conventional Power/Propulsion",
+    "a": "Materials & Critical Minerals",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 86,
+    "assets_alloc": 97.1222,
+    "amt_alloc": 77667327.405,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Cybersecurity and Trusted Systems",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 24,
+    "assets_alloc": 11.8583,
+    "amt_alloc": 75883974.895,
+    "share_assets": 1.5718e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Applied Artificial Intelligence",
+    "a": "Maritime & Shipbuilding",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 20,
+    "assets_alloc": 19.4167,
+    "amt_alloc": 74790064.85,
+    "share_assets": 2.5737e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Advanced Manufacturing and Industrial Automation",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 70,
+    "assets_alloc": 33.2306,
+    "amt_alloc": 74238240.465,
+    "share_assets": 4.4047e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Human Performance and Biomedical Technologies",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 134,
+    "assets_alloc": 549.7028,
+    "amt_alloc": 73166827.84,
+    "share_assets": 0.0001,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 57,
+    "assets_alloc": 25.9444,
+    "amt_alloc": 71840297.82,
+    "share_assets": 3.4389e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Construction | Advanced Manufacturing and Industrial Automation",
+    "a": "Construction",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 43,
+    "assets_alloc": 21.4667,
+    "amt_alloc": 66598459.06,
+    "share_assets": 2.8454e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Financial & Insurance Services | Advanced Manufacturing and Industrial Automation",
+    "a": "Financial & Insurance Services",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 10,
+    "assets_alloc": 3.4583,
+    "amt_alloc": 64384956.465,
+    "share_assets": 4.584e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Secure Microelectronics and Photonics",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 147,
+    "assets_alloc": 108.7028,
+    "amt_alloc": 64063970.595,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Sensors, Radar & Electronic Warfare | Scaled Hypersonics",
+    "a": "Sensors, Radar & Electronic Warfare",
+    "b": "Scaled Hypersonics",
+    "assets_int": 17,
+    "assets_alloc": 6.4417,
+    "amt_alloc": 62809924.455,
+    "share_assets": 8.5384e-07,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Cybersecurity and Trusted Systems",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 41,
+    "assets_alloc": 30.9111,
+    "amt_alloc": 61837390.74,
+    "share_assets": 4.0973e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Aircraft & Aviation | Human Performance and Biomedical Technologies",
+    "a": "Aircraft & Aviation",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 34,
+    "assets_alloc": 31.4333,
+    "amt_alloc": 59180885.85,
+    "share_assets": 4.1665e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Applied Artificial Intelligence",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 39,
+    "assets_alloc": 16995.8611,
+    "amt_alloc": 58611803.285,
+    "share_assets": 0.0023,
+    "share_amt": 0
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 9,
+    "assets_alloc": 2.4083,
+    "amt_alloc": 56478303.32,
+    "share_assets": 3.1922e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Secure Microelectronics and Photonics",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 35,
+    "assets_alloc": 46.6167,
+    "amt_alloc": 54240460.95,
+    "share_assets": 6.179e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Autonomous and Unmanned Systems",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 8,
+    "assets_alloc": 4.325,
+    "amt_alloc": 53954802.26,
+    "share_assets": 5.7328e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Construction | Secure Microelectronics and Photonics",
+    "a": "Construction",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 18,
+    "assets_alloc": 9.5833,
+    "amt_alloc": 53795909.72,
+    "share_assets": 1.2703e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Materials & Critical Minerals | Scaled Hypersonics",
+    "a": "Materials & Critical Minerals",
+    "b": "Scaled Hypersonics",
+    "assets_int": 18,
+    "assets_alloc": 3.1917,
+    "amt_alloc": 52977859.545,
+    "share_assets": 4.2305e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Financial & Insurance Services | Advanced Materials and Critical Minerals",
+    "a": "Financial & Insurance Services",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 27,
+    "assets_alloc": 107.35,
+    "amt_alloc": 51770136.055,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "Construction | Cybersecurity and Trusted Systems",
+    "a": "Construction",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 15,
+    "assets_alloc": 6.9861,
+    "amt_alloc": 51164257.99,
+    "share_assets": 9.2601e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Workforce Training & Education | Advanced Materials and Critical Minerals",
+    "a": "Workforce Training & Education",
+    "b": "Advanced Materials and Critical Minerals",
+    "assets_int": 21,
+    "assets_alloc": 18.5667,
+    "amt_alloc": 51119916.155,
+    "share_assets": 2.461e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Space Systems & Satellites | Applied Artificial Intelligence",
+    "a": "Space Systems & Satellites",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 31,
+    "assets_alloc": 5.9403,
+    "amt_alloc": 47453577.545,
+    "share_assets": 7.8738e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Materials & Critical Minerals | Autonomous and Unmanned Systems",
+    "a": "Materials & Critical Minerals",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 5,
+    "assets_alloc": 0.6389,
+    "amt_alloc": 44831004.72,
+    "share_assets": 8.4685e-08,
+    "share_amt": 0
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Biomanufacturing",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Biomanufacturing",
+    "assets_int": 32,
+    "assets_alloc": 25.3242,
+    "amt_alloc": 44698706.27,
+    "share_assets": 3.3567e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 15,
+    "assets_alloc": 6.7778,
+    "amt_alloc": 43752909.055,
+    "share_assets": 8.9839e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Biomanufacturing",
+    "a": "Maritime & Shipbuilding",
+    "b": "Biomanufacturing",
+    "assets_int": 8,
+    "assets_alloc": 6.25,
+    "amt_alloc": 40677335.97,
+    "share_assets": 8.2844e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Biomanufacturing",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Biomanufacturing",
+    "assets_int": 8,
+    "assets_alloc": 3.1083,
+    "amt_alloc": 40656793.235,
+    "share_assets": 4.1201e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Applied Artificial Intelligence",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 42,
+    "assets_alloc": 22.1528,
+    "amt_alloc": 39292033.43,
+    "share_assets": 2.9363e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Biomanufacturing",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Biomanufacturing",
+    "assets_int": 5,
+    "assets_alloc": 1.35,
+    "amt_alloc": 38014799.205,
+    "share_assets": 1.7894e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Contested Logistics Technologies",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 17,
+    "assets_alloc": 5.8417,
+    "amt_alloc": 35076263.785,
+    "share_assets": 7.7431e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Space Systems & Satellites | Autonomous and Unmanned Systems",
+    "a": "Space Systems & Satellites",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 15,
+    "assets_alloc": 3.075,
+    "amt_alloc": 34505318.085,
+    "share_assets": 4.0759e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Other Professional & Business Services | Quantum and Battlefield Information Dominance",
+    "a": "Other Professional & Business Services",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 12,
+    "assets_alloc": 4.037,
+    "amt_alloc": 31744709.345,
+    "share_assets": 5.3511e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Workforce Training & Education | Autonomous and Unmanned Systems",
+    "a": "Workforce Training & Education",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 2,
+    "assets_alloc": 0.8333,
+    "amt_alloc": 31363372.685,
+    "share_assets": 1.1046e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Materials & Critical Minerals | Human Performance and Biomedical Technologies",
+    "a": "Materials & Critical Minerals",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 7,
+    "assets_alloc": 1.7778,
+    "amt_alloc": 31304440.83,
+    "share_assets": 2.3564e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Maintenance, Repair & Operations | Quantum and Battlefield Information Dominance",
+    "a": "Maintenance, Repair & Operations",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 43,
+    "assets_alloc": 16.1981,
+    "amt_alloc": 29919854.165,
+    "share_assets": 2.1471e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Secure Microelectronics and Photonics",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 26,
+    "assets_alloc": 5.0153,
+    "amt_alloc": 27921138.885,
+    "share_assets": 6.6477e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Secure Microelectronics and Photonics",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 50,
+    "assets_alloc": 41.4667,
+    "amt_alloc": 27432160.245,
+    "share_assets": 5.4964e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Quantum and Battlefield Information Dominance",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 49,
+    "assets_alloc": 14.3803,
+    "amt_alloc": 27336630.13,
+    "share_assets": 1.9061e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Applied Artificial Intelligence",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 33,
+    "assets_alloc": 110.8,
+    "amt_alloc": 26129147.255,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Advanced Manufacturing and Industrial Automation",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 12,
+    "assets_alloc": 2.2944,
+    "amt_alloc": 25951414.325,
+    "share_assets": 3.0413e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Autonomous and Unmanned Systems",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 14,
+    "assets_alloc": 10.5361,
+    "amt_alloc": 25668625.535,
+    "share_assets": 1.3966e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Unknown sector | Autonomous and Unmanned Systems",
+    "a": "Unknown sector",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 25,
+    "assets_alloc": 81,
+    "amt_alloc": 25387812.245,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "Aircraft & Aviation | Quantum and Battlefield Information Dominance",
+    "a": "Aircraft & Aviation",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 20,
+    "assets_alloc": 8.6417,
+    "amt_alloc": 24901002.405,
+    "share_assets": 1.1455e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Materials & Critical Minerals | Quantum and Battlefield Information Dominance",
+    "a": "Materials & Critical Minerals",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 26,
+    "assets_alloc": 7.9917,
+    "amt_alloc": 24697950.82,
+    "share_assets": 1.0593e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Munitions & Missile Systems | Scaled Directed Energy",
+    "a": "Munitions & Missile Systems",
+    "b": "Scaled Directed Energy",
+    "assets_int": 12,
+    "assets_alloc": 2.5333,
+    "amt_alloc": 24160105.28,
+    "share_assets": 3.3579e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Transportation & Warehousing | Cybersecurity and Trusted Systems",
+    "a": "Transportation & Warehousing",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 2,
+    "assets_alloc": 0.5833,
+    "amt_alloc": 23813659.42,
+    "share_assets": 7.7321e-08,
+    "share_amt": 0
+  },
+  {
+    "combo": "Munitions & Missile Systems | Nuclear Technologies and Radiation Effects",
+    "a": "Munitions & Missile Systems",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 15,
+    "assets_alloc": 3.9958,
+    "amt_alloc": 22941514.085,
+    "share_assets": 5.2965e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Human Performance and Biomedical Technologies",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 10,
+    "assets_alloc": 3.9583,
+    "amt_alloc": 22900634.39,
+    "share_assets": 5.2468e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Contested Logistics Technologies",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 7,
+    "assets_alloc": 2.15,
+    "amt_alloc": 22764488.575,
+    "share_assets": 2.8498e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Materials & Critical Minerals | Secure Microelectronics and Photonics",
+    "a": "Materials & Critical Minerals",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 37,
+    "assets_alloc": 13.8278,
+    "amt_alloc": 22031957.585,
+    "share_assets": 1.8329e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Applied Artificial Intelligence",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 2,
+    "assets_alloc": 0.1778,
+    "amt_alloc": 21733965.015,
+    "share_assets": 2.3564e-08,
+    "share_amt": 0
+  },
+  {
+    "combo": "Space Systems & Satellites | Nuclear Technologies and Radiation Effects",
+    "a": "Space Systems & Satellites",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 13,
+    "assets_alloc": 2.5236,
+    "amt_alloc": 21592617.17,
+    "share_assets": 3.345e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Maritime & Shipbuilding",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 22,
+    "assets_alloc": 57.95,
+    "amt_alloc": 21412627.695,
+    "share_assets": 7.6813e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Nuclear Technologies and Radiation Effects",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 189,
+    "assets_alloc": 353.9958,
+    "amt_alloc": 21117913.485,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Quantum and Battlefield Information Dominance",
+    "a": "Maritime & Shipbuilding",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 11,
+    "assets_alloc": 2.7417,
+    "amt_alloc": 21029885,
+    "share_assets": 3.6341e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Unknown sector | Cybersecurity and Trusted Systems",
+    "a": "Unknown sector",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 81,
+    "assets_alloc": 145.75,
+    "amt_alloc": 20893124.65,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "Space Systems & Satellites | Scaled Directed Energy",
+    "a": "Space Systems & Satellites",
+    "b": "Scaled Directed Energy",
+    "assets_int": 16,
+    "assets_alloc": 3.2792,
+    "amt_alloc": 19376707.475,
+    "share_assets": 4.3465e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Secure Microelectronics and Photonics",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 85,
+    "assets_alloc": 102.2194,
+    "amt_alloc": 19302886.7,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "Transportation & Warehousing | Advanced Manufacturing and Industrial Automation",
+    "a": "Transportation & Warehousing",
+    "b": "Advanced Manufacturing and Industrial Automation",
+    "assets_int": 8,
+    "assets_alloc": 1.925,
+    "amt_alloc": 19194268.58,
+    "share_assets": 2.5516e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Autonomous and Unmanned Systems",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 30,
+    "assets_alloc": 8.0833,
+    "amt_alloc": 17664282.36,
+    "share_assets": 1.0714e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Construction | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Construction",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 11,
+    "assets_alloc": 4.4278,
+    "amt_alloc": 17497184.53,
+    "share_assets": 5.869e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Maritime & Shipbuilding | Scaled Hypersonics",
+    "a": "Maritime & Shipbuilding",
+    "b": "Scaled Hypersonics",
+    "assets_int": 6,
+    "assets_alloc": 1.25,
+    "amt_alloc": 16884384.13,
+    "share_assets": 1.6569e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Financial & Insurance Services | Scaled Hypersonics",
+    "a": "Financial & Insurance Services",
+    "b": "Scaled Hypersonics",
+    "assets_int": 2,
+    "assets_alloc": 0.5833,
+    "amt_alloc": 15054894.11,
+    "share_assets": 7.7321e-08,
+    "share_amt": 0
+  },
+  {
+    "combo": "Workforce Training & Education | Contested Logistics Technologies",
+    "a": "Workforce Training & Education",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 2,
+    "assets_alloc": 0.4583,
+    "amt_alloc": 14781654.23,
+    "share_assets": 6.0752e-08,
+    "share_amt": 0
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Nuclear Technologies and Radiation Effects",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 34,
+    "assets_alloc": 21.6167,
+    "amt_alloc": 14322946.09,
+    "share_assets": 2.8653e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Applied Artificial Intelligence",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 63,
+    "assets_alloc": 42.8391,
+    "amt_alloc": 13906034.99,
+    "share_assets": 5.6783e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Financial & Insurance Services | Energetics and Conventional Power/Propulsion",
+    "a": "Financial & Insurance Services",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 3,
+    "assets_alloc": 1.1,
+    "amt_alloc": 13735724.91,
+    "share_assets": 1.458e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Financial & Insurance Services | Biomanufacturing",
+    "a": "Financial & Insurance Services",
+    "b": "Biomanufacturing",
+    "assets_int": 2,
+    "assets_alloc": 0.6667,
+    "amt_alloc": 13460849.04,
+    "share_assets": 8.8367e-08,
+    "share_amt": 0
+  },
+  {
+    "combo": "Space Systems & Satellites | Human Performance and Biomedical Technologies",
+    "a": "Space Systems & Satellites",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 18,
+    "assets_alloc": 17.975,
+    "amt_alloc": 12848751.86,
+    "share_assets": 2.3826e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Unknown sector | Quantum and Battlefield Information Dominance",
+    "a": "Unknown sector",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 5,
+    "assets_alloc": 10,
+    "amt_alloc": 12507157.335,
+    "share_assets": 1.3255e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Workforce Training & Education | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Workforce Training & Education",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 3,
+    "assets_alloc": 2.8333,
+    "amt_alloc": 12444173.565,
+    "share_assets": 3.7556e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Autonomous and Unmanned Systems",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 3,
+    "assets_alloc": 0.2333,
+    "amt_alloc": 11259566.32,
+    "share_assets": 3.0928e-08,
+    "share_amt": 9.2854e-06
+  },
+  {
+    "combo": "Materials & Critical Minerals | Biomanufacturing",
+    "a": "Materials & Critical Minerals",
+    "b": "Biomanufacturing",
+    "assets_int": 17,
+    "assets_alloc": 4.4597,
+    "amt_alloc": 10683433.605,
+    "share_assets": 5.9114e-07,
+    "share_amt": 8.8103e-06
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Cybersecurity and Trusted Systems",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 12,
+    "assets_alloc": 3.3917,
+    "amt_alloc": 10609005.06,
+    "share_assets": 4.4956e-07,
+    "share_amt": 8.7489e-06
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Scaled Hypersonics",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Scaled Hypersonics",
+    "assets_int": 6,
+    "assets_alloc": 1.8667,
+    "amt_alloc": 10540347.26,
+    "share_assets": 2.4743e-07,
+    "share_amt": 8.6923e-06
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Human Performance and Biomedical Technologies",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 26,
+    "assets_alloc": 207.8313,
+    "amt_alloc": 10438987.37,
+    "share_assets": 0,
+    "share_amt": 8.6087e-06
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Nuclear Technologies and Radiation Effects",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 51,
+    "assets_alloc": 125.2083,
+    "amt_alloc": 10208991.79,
+    "share_assets": 0,
+    "share_amt": 8.419e-06
+  },
+  {
+    "combo": "Unknown sector | Scaled Hypersonics",
+    "a": "Unknown sector",
+    "b": "Scaled Hypersonics",
+    "assets_int": 30,
+    "assets_alloc": 43,
+    "amt_alloc": 10143043.94,
+    "share_assets": 5.6996e-06,
+    "share_amt": 8.3646e-06
+  },
+  {
+    "combo": "Construction | Biomanufacturing",
+    "a": "Construction",
+    "b": "Biomanufacturing",
+    "assets_int": 1,
+    "assets_alloc": 0.0667,
+    "amt_alloc": 9764924.835,
+    "share_assets": 8.8367e-09,
+    "share_amt": 8.0528e-06
+  },
+  {
+    "combo": "Unknown sector | Nuclear Technologies and Radiation Effects",
+    "a": "Unknown sector",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 147,
+    "assets_alloc": 473.1667,
+    "amt_alloc": 9394395.63,
+    "share_assets": 0.0001,
+    "share_amt": 7.7472e-06
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Cybersecurity and Trusted Systems",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 14,
+    "assets_alloc": 5.25,
+    "amt_alloc": 8211741.205,
+    "share_assets": 6.9589e-07,
+    "share_amt": 6.7719e-06
+  },
+  {
+    "combo": "Construction | Scaled Hypersonics",
+    "a": "Construction",
+    "b": "Scaled Hypersonics",
+    "assets_int": 3,
+    "assets_alloc": 1.5,
+    "amt_alloc": 8053401.75,
+    "share_assets": 1.9882e-07,
+    "share_amt": 6.6414e-06
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Contested Logistics Technologies",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 35,
+    "assets_alloc": 55.2065,
+    "amt_alloc": 7765935.245,
+    "share_assets": 7.3176e-06,
+    "share_amt": 6.4043e-06
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Cybersecurity and Trusted Systems",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 14,
+    "assets_alloc": 4.2083,
+    "amt_alloc": 7133566.39,
+    "share_assets": 5.5781e-07,
+    "share_amt": 5.8828e-06
+  },
+  {
+    "combo": "Construction | Autonomous and Unmanned Systems",
+    "a": "Construction",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 14,
+    "assets_alloc": 6.2833,
+    "amt_alloc": 6816346.415,
+    "share_assets": 8.3285e-07,
+    "share_amt": 5.6212e-06
+  },
+  {
+    "combo": "Workforce Training & Education | Secure Microelectronics and Photonics",
+    "a": "Workforce Training & Education",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 1,
+    "assets_alloc": 0.25,
+    "amt_alloc": 6466422,
+    "share_assets": 3.3137e-08,
+    "share_amt": 5.3326e-06
+  },
+  {
+    "combo": "Unknown sector | Biomanufacturing",
+    "a": "Unknown sector",
+    "b": "Biomanufacturing",
+    "assets_int": 34,
+    "assets_alloc": 224.1667,
+    "amt_alloc": 6010893.935,
+    "share_assets": 0,
+    "share_amt": 4.957e-06
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Secure Microelectronics and Photonics",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 49,
+    "assets_alloc": 49.8333,
+    "amt_alloc": 5916047.405,
+    "share_assets": 6.6054e-06,
+    "share_amt": 4.8788e-06
+  },
+  {
+    "combo": "Materials & Critical Minerals | Applied Artificial Intelligence",
+    "a": "Materials & Critical Minerals",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 24,
+    "assets_alloc": 10.0486,
+    "amt_alloc": 5752353.375,
+    "share_assets": 1.3319e-06,
+    "share_amt": 4.7438e-06
+  },
+  {
+    "combo": "Unknown sector | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Unknown sector",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 6,
+    "assets_alloc": 6,
+    "amt_alloc": 5636470.5,
+    "share_assets": 7.953e-07,
+    "share_amt": 4.6482e-06
+  },
+  {
+    "combo": "Workforce Training & Education | Human Performance and Biomedical Technologies",
+    "a": "Workforce Training & Education",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 6,
+    "assets_alloc": 3.75,
+    "amt_alloc": 5269955.88,
+    "share_assets": 4.9706e-07,
+    "share_amt": 4.346e-06
+  },
+  {
+    "combo": "Unknown sector | Scaled Directed Energy",
+    "a": "Unknown sector",
+    "b": "Scaled Directed Energy",
+    "assets_int": 13,
+    "assets_alloc": 11.5,
+    "amt_alloc": 4862465.63,
+    "share_assets": 1.5243e-06,
+    "share_amt": 4.0099e-06
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Contested Logistics Technologies",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 45,
+    "assets_alloc": 449.35,
+    "amt_alloc": 4837786.735,
+    "share_assets": 0.0001,
+    "share_amt": 3.9896e-06
+  },
+  {
+    "combo": "Transportation & Warehousing | Energetics and Conventional Power/Propulsion",
+    "a": "Transportation & Warehousing",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 2,
+    "assets_alloc": 3.1111,
+    "amt_alloc": 4795464.8,
+    "share_assets": 4.1238e-07,
+    "share_amt": 3.9547e-06
+  },
+  {
+    "combo": "Materials & Critical Minerals | Nuclear Technologies and Radiation Effects",
+    "a": "Materials & Critical Minerals",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 10,
+    "assets_alloc": 5,
+    "amt_alloc": 4345857.26,
+    "share_assets": 6.6275e-07,
+    "share_amt": 3.5839e-06
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Applied Artificial Intelligence",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 19,
+    "assets_alloc": 11.3917,
+    "amt_alloc": 3186782.155,
+    "share_assets": 1.51e-06,
+    "share_amt": 2.628e-06
+  },
+  {
+    "combo": "Microelectronics & Electronic Components | Scaled Directed Energy",
+    "a": "Microelectronics & Electronic Components",
+    "b": "Scaled Directed Energy",
+    "assets_int": 4,
+    "assets_alloc": 0.7222,
+    "amt_alloc": 3020334,
+    "share_assets": 9.573e-08,
+    "share_amt": 2.4908e-06
+  },
+  {
+    "combo": "Transportation & Warehousing | Human Performance and Biomedical Technologies",
+    "a": "Transportation & Warehousing",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 1,
+    "assets_alloc": 0.1667,
+    "amt_alloc": 2691595.745,
+    "share_assets": 2.2092e-08,
+    "share_amt": 2.2197e-06
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Biomanufacturing",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Biomanufacturing",
+    "assets_int": 2,
+    "assets_alloc": 1,
+    "amt_alloc": 2646301,
+    "share_assets": 1.3255e-07,
+    "share_amt": 2.1823e-06
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Nuclear Technologies and Radiation Effects",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 20,
+    "assets_alloc": 15.2833,
+    "amt_alloc": 2537626.41,
+    "share_assets": 2.0258e-06,
+    "share_amt": 2.0927e-06
+  },
+  {
+    "combo": "Workforce Training & Education | Energetics and Conventional Power/Propulsion",
+    "a": "Workforce Training & Education",
+    "b": "Energetics and Conventional Power/Propulsion",
+    "assets_int": 2,
+    "assets_alloc": 0.6667,
+    "amt_alloc": 2486198.795,
+    "share_assets": 8.8367e-08,
+    "share_amt": 2.0503e-06
+  },
+  {
+    "combo": "Transportation & Warehousing | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Transportation & Warehousing",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 1,
+    "assets_alloc": 0.125,
+    "amt_alloc": 2430730.425,
+    "share_assets": 1.6569e-08,
+    "share_amt": 2.0045e-06
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Human Performance and Biomedical Technologies",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 2,
+    "assets_alloc": 2,
+    "amt_alloc": 2331629.515,
+    "share_assets": 2.651e-07,
+    "share_amt": 1.9228e-06
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Scaled Directed Energy",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Scaled Directed Energy",
+    "assets_int": 6,
+    "assets_alloc": 1.6667,
+    "amt_alloc": 1920953.12,
+    "share_assets": 2.2092e-07,
+    "share_amt": 1.5841e-06
+  },
+  {
+    "combo": "Financial & Insurance Services | Applied Artificial Intelligence",
+    "a": "Financial & Insurance Services",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 3,
+    "assets_alloc": 0.9583,
+    "amt_alloc": 1818640.9,
+    "share_assets": 1.2703e-07,
+    "share_amt": 1.4998e-06
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 11,
+    "assets_alloc": 3.6333,
+    "amt_alloc": 1782791.615,
+    "share_assets": 4.816e-07,
+    "share_amt": 1.4702e-06
+  },
+  {
+    "combo": "Materials & Critical Minerals | Contested Logistics Technologies",
+    "a": "Materials & Critical Minerals",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 9,
+    "assets_alloc": 88.4583,
+    "amt_alloc": 1540761.51,
+    "share_assets": 0,
+    "share_amt": 1.2706e-06
+  },
+  {
+    "combo": "Advanced Manufacturing & Machine Tools | Quantum and Battlefield Information Dominance",
+    "a": "Advanced Manufacturing & Machine Tools",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 7,
+    "assets_alloc": 1.162,
+    "amt_alloc": 1532080.985,
+    "share_assets": 1.5403e-07,
+    "share_amt": 1.2635e-06
+  },
+  {
+    "combo": "Other Professional & Business Services | Scaled Hypersonics",
+    "a": "Other Professional & Business Services",
+    "b": "Scaled Hypersonics",
+    "assets_int": 2,
+    "assets_alloc": 0.5833,
+    "amt_alloc": 1466603.015,
+    "share_assets": 7.7321e-08,
+    "share_amt": 1.2095e-06
+  },
+  {
+    "combo": "Materials & Critical Minerals | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Materials & Critical Minerals",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 2,
+    "assets_alloc": 0.3333,
+    "amt_alloc": 1407726,
+    "share_assets": 4.4183e-08,
+    "share_amt": 1.1609e-06
+  },
+  {
+    "combo": "Financial & Insurance Services | Human Performance and Biomedical Technologies",
+    "a": "Financial & Insurance Services",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 3,
+    "assets_alloc": 0.8333,
+    "amt_alloc": 1343675.22,
+    "share_assets": 1.1046e-07,
+    "share_amt": 1.1081e-06
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Autonomous and Unmanned Systems",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 14,
+    "assets_alloc": 2.1944,
+    "amt_alloc": 1153691.505,
+    "share_assets": 2.9087e-07,
+    "share_amt": 9.5141e-07
+  },
+  {
+    "combo": "Other Professional & Business Services | Nuclear Technologies and Radiation Effects",
+    "a": "Other Professional & Business Services",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 4,
+    "assets_alloc": 1.6,
+    "amt_alloc": 1123501.625,
+    "share_assets": 2.1208e-07,
+    "share_amt": 9.2651e-07
+  },
+  {
+    "combo": "Workforce Training & Education | Cybersecurity and Trusted Systems",
+    "a": "Workforce Training & Education",
+    "b": "Cybersecurity and Trusted Systems",
+    "assets_int": 2,
+    "assets_alloc": 0.8333,
+    "amt_alloc": 1107268.5,
+    "share_assets": 1.1046e-07,
+    "share_amt": 9.1313e-07
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Quantum and Battlefield Information Dominance",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 2,
+    "assets_alloc": 0.2787,
+    "amt_alloc": 1106370.4,
+    "share_assets": 3.6942e-08,
+    "share_amt": 9.1239e-07
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 3,
+    "assets_alloc": 0.2944,
+    "amt_alloc": 1078268.025,
+    "share_assets": 3.9029e-08,
+    "share_amt": 8.8921e-07
+  },
+  {
+    "combo": "Ground Vehicles & Tactical Systems | Nuclear Technologies and Radiation Effects",
+    "a": "Ground Vehicles & Tactical Systems",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 6,
+    "assets_alloc": 6.8667,
+    "amt_alloc": 1009457.415,
+    "share_assets": 9.1018e-07,
+    "share_amt": 8.3246e-07
+  },
+  {
+    "combo": "Nuclear Deterrence & Propulsion Systems | Scaled Hypersonics",
+    "a": "Nuclear Deterrence & Propulsion Systems",
+    "b": "Scaled Hypersonics",
+    "assets_int": 1,
+    "assets_alloc": 0.25,
+    "amt_alloc": 992956.5,
+    "share_assets": 3.3137e-08,
+    "share_amt": 8.1886e-07
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Applied Artificial Intelligence",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 8,
+    "assets_alloc": 2.6417,
+    "amt_alloc": 933801.49,
+    "share_assets": 3.5015e-07,
+    "share_amt": 7.7007e-07
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Scaled Directed Energy",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Scaled Directed Energy",
+    "assets_int": 4,
+    "assets_alloc": 0.9792,
+    "amt_alloc": 924343.305,
+    "share_assets": 1.2979e-07,
+    "share_amt": 7.6227e-07
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 7,
+    "assets_alloc": 2.25,
+    "amt_alloc": 875900.47,
+    "share_assets": 2.9824e-07,
+    "share_amt": 7.2233e-07
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Quantum and Battlefield Information Dominance",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 9,
+    "assets_alloc": 4.5694,
+    "amt_alloc": 711660.915,
+    "share_assets": 6.0568e-07,
+    "share_amt": 5.8688e-07
+  },
+  {
+    "combo": "Materials & Critical Minerals | Scaled Directed Energy",
+    "a": "Materials & Critical Minerals",
+    "b": "Scaled Directed Energy",
+    "assets_int": 3,
+    "assets_alloc": 0.4167,
+    "amt_alloc": 686469,
+    "share_assets": 5.5229e-08,
+    "share_amt": 5.6611e-07
+  },
+  {
+    "combo": "Transportation & Warehousing | Autonomous and Unmanned Systems",
+    "a": "Transportation & Warehousing",
+    "b": "Autonomous and Unmanned Systems",
+    "assets_int": 1,
+    "assets_alloc": 0.125,
+    "amt_alloc": 622226,
+    "share_assets": 1.6569e-08,
+    "share_amt": 5.1313e-07
+  },
+  {
+    "combo": "Transportation & Warehousing | Quantum and Battlefield Information Dominance",
+    "a": "Transportation & Warehousing",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 1,
+    "assets_alloc": 0.125,
+    "amt_alloc": 612432.645,
+    "share_assets": 1.6569e-08,
+    "share_amt": 5.0505e-07
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Scaled Directed Energy",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Scaled Directed Energy",
+    "assets_int": 2,
+    "assets_alloc": 0.4444,
+    "amt_alloc": 585596.885,
+    "share_assets": 5.8911e-08,
+    "share_amt": 4.8292e-07
+  },
+  {
+    "combo": "Financial & Insurance Services | Quantum and Battlefield Information Dominance",
+    "a": "Financial & Insurance Services",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 2,
+    "assets_alloc": 0.25,
+    "amt_alloc": 462500,
+    "share_assets": 3.3137e-08,
+    "share_amt": 3.8141e-07
+  },
+  {
+    "combo": "Transportation & Warehousing | Secure Microelectronics and Photonics",
+    "a": "Transportation & Warehousing",
+    "b": "Secure Microelectronics and Photonics",
+    "assets_int": 4,
+    "assets_alloc": 0.6417,
+    "amt_alloc": 436075.73,
+    "share_assets": 8.5053e-08,
+    "share_amt": 3.5962e-07
+  },
+  {
+    "combo": "Construction | Quantum and Battlefield Information Dominance",
+    "a": "Construction",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 2,
+    "assets_alloc": 0.8333,
+    "amt_alloc": 156880.035,
+    "share_assets": 1.1046e-07,
+    "share_amt": 1.2937e-07
+  },
+  {
+    "combo": "Soldier Equipment & Protective Systems | Nuclear Technologies and Radiation Effects",
+    "a": "Soldier Equipment & Protective Systems",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 10,
+    "assets_alloc": 7.25,
+    "amt_alloc": 152429.72,
+    "share_assets": 9.6099e-07,
+    "share_amt": 1.257e-07
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Scaled Directed Energy",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Scaled Directed Energy",
+    "assets_int": 1,
+    "assets_alloc": 1,
+    "amt_alloc": 137500,
+    "share_assets": 1.3255e-07,
+    "share_amt": 1.1339e-07
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Human Performance and Biomedical Technologies",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Human Performance and Biomedical Technologies",
+    "assets_int": 5,
+    "assets_alloc": 2.4167,
+    "amt_alloc": 97935.005,
+    "share_assets": 3.2033e-07,
+    "share_amt": 8.0764e-08
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Scaled Hypersonics",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Scaled Hypersonics",
+    "assets_int": 1,
+    "assets_alloc": 0.5,
+    "amt_alloc": 71136.465,
+    "share_assets": 6.6275e-08,
+    "share_amt": 5.8664e-08
+  },
+  {
+    "combo": "Energy Systems & Infrastructure | Quantum and Battlefield Information Dominance",
+    "a": "Energy Systems & Infrastructure",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 2,
+    "assets_alloc": 0.8333,
+    "amt_alloc": 67100.5,
+    "share_assets": 1.1046e-07,
+    "share_amt": 5.5335e-08
+  },
+  {
+    "combo": "CBRN (Chemical, Biological, Radiological, Nuclear) | Scaled Hypersonics",
+    "a": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "b": "Scaled Hypersonics",
+    "assets_int": 1,
+    "assets_alloc": 1,
+    "amt_alloc": 65486,
+    "share_assets": 1.3255e-07,
+    "share_amt": 5.4004e-08
+  },
+  {
+    "combo": "Financial & Insurance Services | Contested Logistics Technologies",
+    "a": "Financial & Insurance Services",
+    "b": "Contested Logistics Technologies",
+    "assets_int": 2,
+    "assets_alloc": 1,
+    "amt_alloc": 40879.535,
+    "share_assets": 1.3255e-07,
+    "share_amt": 3.3712e-08
+  },
+  {
+    "combo": "Workforce Training & Education | Nuclear Technologies and Radiation Effects",
+    "a": "Workforce Training & Education",
+    "b": "Nuclear Technologies and Radiation Effects",
+    "assets_int": 1,
+    "assets_alloc": 0.3333,
+    "amt_alloc": 40475,
+    "share_assets": 4.4183e-08,
+    "share_amt": 3.3378e-08
+  },
+  {
+    "combo": "Financial & Insurance Services | Space Platforms, Propulsion, and On-Orbit Operations",
+    "a": "Financial & Insurance Services",
+    "b": "Space Platforms, Propulsion, and On-Orbit Operations",
+    "assets_int": 2,
+    "assets_alloc": 1.5,
+    "amt_alloc": 29244.845,
+    "share_assets": 1.9882e-07,
+    "share_amt": 2.4117e-08
+  },
+  {
+    "combo": "Workforce Training & Education | Applied Artificial Intelligence",
+    "a": "Workforce Training & Education",
+    "b": "Applied Artificial Intelligence",
+    "assets_int": 1,
+    "assets_alloc": 1,
+    "amt_alloc": 4740,
+    "share_assets": 1.3255e-07,
+    "share_amt": 3.9089e-09
+  },
+  {
+    "combo": "Workforce Training & Education | Quantum and Battlefield Information Dominance",
+    "a": "Workforce Training & Education",
+    "b": "Quantum and Battlefield Information Dominance",
+    "assets_int": 1,
+    "assets_alloc": 0.25,
+    "amt_alloc": 2097.83,
+    "share_assets": 3.3137e-08,
+    "share_amt": 1.73e-09
+  }
+]

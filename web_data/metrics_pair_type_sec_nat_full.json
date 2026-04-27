@@ -1,0 +1,1082 @@
+[
+  {
+    "combo": "Other big prime contractors | Maintenance, Repair & Operations",
+    "a": "Other big prime contractors",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 5132,
+    "assets_alloc": 29568.8849,
+    "amt_alloc": 98729831630.095,
+    "share_assets": 0.0039,
+    "share_amt": 0.0942
+  },
+  {
+    "combo": "Other big prime contractors | Engineering & Technical Services",
+    "a": "Other big prime contractors",
+    "b": "Engineering & Technical Services",
+    "assets_int": 2959,
+    "assets_alloc": 14799.4278,
+    "amt_alloc": 74195607838.215,
+    "share_assets": 0.002,
+    "share_amt": 0.0708
+  },
+  {
+    "combo": "The Big 5 Contractors | Aircraft & Aviation",
+    "a": "The Big 5 Contractors",
+    "b": "Aircraft & Aviation",
+    "assets_int": 106,
+    "assets_alloc": 16504.1333,
+    "amt_alloc": 63058041122.01,
+    "share_assets": 0.0022,
+    "share_amt": 0.0601
+  },
+  {
+    "combo": "The Big 5 Contractors | Munitions & Missile Systems",
+    "a": "The Big 5 Contractors",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 121,
+    "assets_alloc": 1249.0214,
+    "amt_alloc": 51150971808.325,
+    "share_assets": 0.0002,
+    "share_amt": 0.0488
+  },
+  {
+    "combo": "Other big prime contractors | Aircraft & Aviation",
+    "a": "Other big prime contractors",
+    "b": "Aircraft & Aviation",
+    "assets_int": 1417,
+    "assets_alloc": 251122.7036,
+    "amt_alloc": 46875631754.865,
+    "share_assets": 0.0333,
+    "share_amt": 0.0447
+  },
+  {
+    "combo": "Other big prime contractors | Digital Technologies & Software",
+    "a": "Other big prime contractors",
+    "b": "Digital Technologies & Software",
+    "assets_int": 2231,
+    "assets_alloc": 32710.6595,
+    "amt_alloc": 42972314156.18,
+    "share_assets": 0.0043,
+    "share_amt": 0.041
+  },
+  {
+    "combo": "The Big 5 Contractors | Space Systems & Satellites",
+    "a": "The Big 5 Contractors",
+    "b": "Space Systems & Satellites",
+    "assets_int": 92,
+    "assets_alloc": 405.2548,
+    "amt_alloc": 40777365203.48,
+    "share_assets": 0.0001,
+    "share_amt": 0.0389
+  },
+  {
+    "combo": "The Big 5 Contractors | Engineering & Technical Services",
+    "a": "The Big 5 Contractors",
+    "b": "Engineering & Technical Services",
+    "assets_int": 180,
+    "assets_alloc": 1608.656,
+    "amt_alloc": 40230679482.57,
+    "share_assets": 0.0002,
+    "share_amt": 0.0384
+  },
+  {
+    "combo": "Other big prime contractors | Maritime & Shipbuilding",
+    "a": "Other big prime contractors",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 887,
+    "assets_alloc": 5407.1476,
+    "amt_alloc": 39730982712.345,
+    "share_assets": 0.0007,
+    "share_amt": 0.0379
+  },
+  {
+    "combo": "The Big 5 Contractors | Maintenance, Repair & Operations",
+    "a": "The Big 5 Contractors",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 164,
+    "assets_alloc": 1733.6452,
+    "amt_alloc": 37107881553.995,
+    "share_assets": 0.0002,
+    "share_amt": 0.0354
+  },
+  {
+    "combo": "Small prime contractors | Maintenance, Repair & Operations",
+    "a": "Small prime contractors",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 15815,
+    "assets_alloc": 91055.8917,
+    "amt_alloc": 34428109055.97,
+    "share_assets": 0.0121,
+    "share_amt": 0.0328
+  },
+  {
+    "combo": "Small prime contractors | Engineering & Technical Services",
+    "a": "Small prime contractors",
+    "b": "Engineering & Technical Services",
+    "assets_int": 10553,
+    "assets_alloc": 22953.2417,
+    "amt_alloc": 28622620508.35,
+    "share_assets": 0.003,
+    "share_amt": 0.0273
+  },
+  {
+    "combo": "Other big prime contractors | R&D and Science & Technology",
+    "a": "Other big prime contractors",
+    "b": "R&D and Science & Technology",
+    "assets_int": 1180,
+    "assets_alloc": 3049.9028,
+    "amt_alloc": 27119526218.665,
+    "share_assets": 0.0004,
+    "share_amt": 0.0259
+  },
+  {
+    "combo": "The Big 5 Contractors | Sensors, Radar & Electronic Warfare",
+    "a": "The Big 5 Contractors",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 102,
+    "assets_alloc": 1565.2786,
+    "amt_alloc": 22223789150.015,
+    "share_assets": 0.0002,
+    "share_amt": 0.0212
+  },
+  {
+    "combo": "Other big prime contractors | Unknown sector",
+    "a": "Other big prime contractors",
+    "b": "Unknown sector",
+    "assets_int": 5349,
+    "assets_alloc": 2784734,
+    "amt_alloc": 21062988847.995,
+    "share_assets": 0.3691,
+    "share_amt": 0.0201
+  },
+  {
+    "combo": "Other big prime contractors | Sensors, Radar & Electronic Warfare",
+    "a": "Other big prime contractors",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 1164,
+    "assets_alloc": 8248.6587,
+    "amt_alloc": 20733697125.74,
+    "share_assets": 0.0011,
+    "share_amt": 0.0198
+  },
+  {
+    "combo": "The Big 5 Contractors | R&D and Science & Technology",
+    "a": "The Big 5 Contractors",
+    "b": "R&D and Science & Technology",
+    "assets_int": 117,
+    "assets_alloc": 470.2048,
+    "amt_alloc": 20340241504.835,
+    "share_assets": 0.0001,
+    "share_amt": 0.0194
+  },
+  {
+    "combo": "The Big 5 Contractors | Advanced Manufacturing & Machine Tools",
+    "a": "The Big 5 Contractors",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 53,
+    "assets_alloc": 535.0024,
+    "amt_alloc": 19791316151.46,
+    "share_assets": 0.0001,
+    "share_amt": 0.0189
+  },
+  {
+    "combo": "Small prime contractors | Unknown sector",
+    "a": "Small prime contractors",
+    "b": "Unknown sector",
+    "assets_int": 16368,
+    "assets_alloc": 3044962,
+    "amt_alloc": 18973184146.455,
+    "share_assets": 0.4036,
+    "share_amt": 0.0181
+  },
+  {
+    "combo": "Small prime contractors | Digital Technologies & Software",
+    "a": "Small prime contractors",
+    "b": "Digital Technologies & Software",
+    "assets_int": 6452,
+    "assets_alloc": 39932.2655,
+    "amt_alloc": 18098843864.15,
+    "share_assets": 0.0053,
+    "share_amt": 0.0173
+  },
+  {
+    "combo": "Other big prime contractors | Construction",
+    "a": "Other big prime contractors",
+    "b": "Construction",
+    "assets_int": 641,
+    "assets_alloc": 1676.9833,
+    "amt_alloc": 17931647421.285,
+    "share_assets": 0.0002,
+    "share_amt": 0.0171
+  },
+  {
+    "combo": "Other big prime contractors | Ground Vehicles & Tactical Systems",
+    "a": "Other big prime contractors",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 713,
+    "assets_alloc": 13314.9171,
+    "amt_alloc": 17406493436.445,
+    "share_assets": 0.0018,
+    "share_amt": 0.0166
+  },
+  {
+    "combo": "Other big prime contractors | Munitions & Missile Systems",
+    "a": "Other big prime contractors",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 960,
+    "assets_alloc": 10997.3571,
+    "amt_alloc": 17178418835.41,
+    "share_assets": 0.0015,
+    "share_amt": 0.0164
+  },
+  {
+    "combo": "Other big prime contractors | Financial & Insurance Services",
+    "a": "Other big prime contractors",
+    "b": "Financial & Insurance Services",
+    "assets_int": 89,
+    "assets_alloc": 267.4917,
+    "amt_alloc": 16638424581.435,
+    "share_assets": 0,
+    "share_amt": 0.0159
+  },
+  {
+    "combo": "The Big 5 Contractors | Digital Technologies & Software",
+    "a": "The Big 5 Contractors",
+    "b": "Digital Technologies & Software",
+    "assets_int": 129,
+    "assets_alloc": 1295.0893,
+    "amt_alloc": 13803886147.99,
+    "share_assets": 0.0002,
+    "share_amt": 0.0132
+  },
+  {
+    "combo": "Small prime contractors | R&D and Science & Technology",
+    "a": "Small prime contractors",
+    "b": "R&D and Science & Technology",
+    "assets_int": 4576,
+    "assets_alloc": 6372.3869,
+    "amt_alloc": 13559939068.09,
+    "share_assets": 0.0008,
+    "share_amt": 0.0129
+  },
+  {
+    "combo": "Other big prime contractors | Other Professional & Business Services",
+    "a": "Other big prime contractors",
+    "b": "Other Professional & Business Services",
+    "assets_int": 965,
+    "assets_alloc": 5717.1647,
+    "amt_alloc": 13214767073.675,
+    "share_assets": 0.0008,
+    "share_amt": 0.0126
+  },
+  {
+    "combo": "The Big 5 Contractors | Maritime & Shipbuilding",
+    "a": "The Big 5 Contractors",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 86,
+    "assets_alloc": 1381.8929,
+    "amt_alloc": 12692828177.185,
+    "share_assets": 0.0002,
+    "share_amt": 0.0121
+  },
+  {
+    "combo": "Small prime contractors | Construction",
+    "a": "Small prime contractors",
+    "b": "Construction",
+    "assets_int": 2939,
+    "assets_alloc": 9597.7429,
+    "amt_alloc": 11737418234.57,
+    "share_assets": 0.0013,
+    "share_amt": 0.0112
+  },
+  {
+    "combo": "Other big prime contractors | Soldier Equipment & Protective Systems",
+    "a": "Other big prime contractors",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 1046,
+    "assets_alloc": 52561.3357,
+    "amt_alloc": 11539307279.425,
+    "share_assets": 0.007,
+    "share_amt": 0.011
+  },
+  {
+    "combo": "Small prime contractors | Aircraft & Aviation",
+    "a": "Small prime contractors",
+    "b": "Aircraft & Aviation",
+    "assets_int": 4372,
+    "assets_alloc": 349249.1131,
+    "amt_alloc": 10510642790.8,
+    "share_assets": 0.0463,
+    "share_amt": 0.01
+  },
+  {
+    "combo": "Other big prime contractors | Space Systems & Satellites",
+    "a": "Other big prime contractors",
+    "b": "Space Systems & Satellites",
+    "assets_int": 627,
+    "assets_alloc": 17667.2813,
+    "amt_alloc": 10241732774.565,
+    "share_assets": 0.0023,
+    "share_amt": 0.0098
+  },
+  {
+    "combo": "Small prime contractors | Other Professional & Business Services",
+    "a": "Small prime contractors",
+    "b": "Other Professional & Business Services",
+    "assets_int": 3137,
+    "assets_alloc": 7592.1107,
+    "amt_alloc": 7863572850.4,
+    "share_assets": 0.001,
+    "share_amt": 0.0075
+  },
+  {
+    "combo": "Other big prime contractors | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Other big prime contractors",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 834,
+    "assets_alloc": 292801.3202,
+    "amt_alloc": 7773553390.825,
+    "share_assets": 0.0388,
+    "share_amt": 0.0074
+  },
+  {
+    "combo": "Other big prime contractors | Advanced Manufacturing & Machine Tools",
+    "a": "Other big prime contractors",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 648,
+    "assets_alloc": 6543.4147,
+    "amt_alloc": 7379044748.14,
+    "share_assets": 0.0009,
+    "share_amt": 0.007
+  },
+  {
+    "combo": "The Big 5 Contractors | Soldier Equipment & Protective Systems",
+    "a": "The Big 5 Contractors",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 74,
+    "assets_alloc": 2697.5167,
+    "amt_alloc": 6921575776.24,
+    "share_assets": 0.0004,
+    "share_amt": 0.0066
+  },
+  {
+    "combo": "Other big prime contractors | Nuclear Deterrence & Propulsion Systems",
+    "a": "Other big prime contractors",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 148,
+    "assets_alloc": 1215.3833,
+    "amt_alloc": 6704278780.895,
+    "share_assets": 0.0002,
+    "share_amt": 0.0064
+  },
+  {
+    "combo": "Small prime contractors | Munitions & Missile Systems",
+    "a": "Small prime contractors",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 3560,
+    "assets_alloc": 23651.6131,
+    "amt_alloc": 6127319070.185,
+    "share_assets": 0.0031,
+    "share_amt": 0.0058
+  },
+  {
+    "combo": "Universities | R&D and Science & Technology",
+    "a": "Universities",
+    "b": "R&D and Science & Technology",
+    "assets_int": 394,
+    "assets_alloc": 4649.1083,
+    "amt_alloc": 6068718082.2,
+    "share_assets": 0.0006,
+    "share_amt": 0.0058
+  },
+  {
+    "combo": "Universities | Engineering & Technical Services",
+    "a": "Universities",
+    "b": "Engineering & Technical Services",
+    "assets_int": 364,
+    "assets_alloc": 2160.8583,
+    "amt_alloc": 5620155069.33,
+    "share_assets": 0.0003,
+    "share_amt": 0.0054
+  },
+  {
+    "combo": "Other big prime contractors | Materials & Critical Minerals",
+    "a": "Other big prime contractors",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 299,
+    "assets_alloc": 5965.9417,
+    "amt_alloc": 5579585453.255,
+    "share_assets": 0.0008,
+    "share_amt": 0.0053
+  },
+  {
+    "combo": "Small prime contractors | Maritime & Shipbuilding",
+    "a": "Small prime contractors",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 2134,
+    "assets_alloc": 8935.1452,
+    "amt_alloc": 4820640636.165,
+    "share_assets": 0.0012,
+    "share_amt": 0.0046
+  },
+  {
+    "combo": "Other big prime contractors | Microelectronics & Electronic Components",
+    "a": "Other big prime contractors",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 1011,
+    "assets_alloc": 17919.4242,
+    "amt_alloc": 4308484906.94,
+    "share_assets": 0.0024,
+    "share_amt": 0.0041
+  },
+  {
+    "combo": "The Big 5 Contractors | Other Professional & Business Services",
+    "a": "The Big 5 Contractors",
+    "b": "Other Professional & Business Services",
+    "assets_int": 41,
+    "assets_alloc": 52.4333,
+    "amt_alloc": 4034079098.075,
+    "share_assets": 6.95e-06,
+    "share_amt": 0.0038
+  },
+  {
+    "combo": "Small prime contractors | Soldier Equipment & Protective Systems",
+    "a": "Small prime contractors",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 4232,
+    "assets_alloc": 67956.1333,
+    "amt_alloc": 3883891289.915,
+    "share_assets": 0.009,
+    "share_amt": 0.0037
+  },
+  {
+    "combo": "The Big 5 Contractors | Ground Vehicles & Tactical Systems",
+    "a": "The Big 5 Contractors",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 54,
+    "assets_alloc": 2231.5012,
+    "amt_alloc": 3691900790.18,
+    "share_assets": 0.0003,
+    "share_amt": 0.0035
+  },
+  {
+    "combo": "The Big 5 Contractors | Nuclear Deterrence & Propulsion Systems",
+    "a": "The Big 5 Contractors",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 21,
+    "assets_alloc": 20.15,
+    "amt_alloc": 3618721108.425,
+    "share_assets": 2.6709e-06,
+    "share_amt": 0.0035
+  },
+  {
+    "combo": "The Big 5 Contractors | Microelectronics & Electronic Components",
+    "a": "The Big 5 Contractors",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 77,
+    "assets_alloc": 1252.0452,
+    "amt_alloc": 3304148785.015,
+    "share_assets": 0.0002,
+    "share_amt": 0.0032
+  },
+  {
+    "combo": "Small prime contractors | Sensors, Radar & Electronic Warfare",
+    "a": "Small prime contractors",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 3407,
+    "assets_alloc": 20602.2452,
+    "amt_alloc": 3083618199.305,
+    "share_assets": 0.0027,
+    "share_amt": 0.0029
+  },
+  {
+    "combo": "The Big 5 Contractors | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "The Big 5 Contractors",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 28,
+    "assets_alloc": 29.1917,
+    "amt_alloc": 2909767333.44,
+    "share_assets": 3.8693e-06,
+    "share_amt": 0.0028
+  },
+  {
+    "combo": "Small prime contractors | Space Systems & Satellites",
+    "a": "Small prime contractors",
+    "b": "Space Systems & Satellites",
+    "assets_int": 1411,
+    "assets_alloc": 2844.1762,
+    "amt_alloc": 2557707723.51,
+    "share_assets": 0.0004,
+    "share_amt": 0.0024
+  },
+  {
+    "combo": "Small prime contractors | Microelectronics & Electronic Components",
+    "a": "Small prime contractors",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 3233,
+    "assets_alloc": 59486.8357,
+    "amt_alloc": 2339986167.015,
+    "share_assets": 0.0079,
+    "share_amt": 0.0022
+  },
+  {
+    "combo": "Small prime contractors | Ground Vehicles & Tactical Systems",
+    "a": "Small prime contractors",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 3042,
+    "assets_alloc": 31604.8369,
+    "amt_alloc": 2047042693.895,
+    "share_assets": 0.0042,
+    "share_amt": 0.002
+  },
+  {
+    "combo": "Universities | Digital Technologies & Software",
+    "a": "Universities",
+    "b": "Digital Technologies & Software",
+    "assets_int": 263,
+    "assets_alloc": 685.7583,
+    "amt_alloc": 1862574907.165,
+    "share_assets": 0.0001,
+    "share_amt": 0.0018
+  },
+  {
+    "combo": "Other big prime contractors | Energy Systems & Infrastructure",
+    "a": "Other big prime contractors",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 727,
+    "assets_alloc": 4243.2333,
+    "amt_alloc": 1585961262.335,
+    "share_assets": 0.0006,
+    "share_amt": 0.0015
+  },
+  {
+    "combo": "Universities | Maintenance, Repair & Operations",
+    "a": "Universities",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 107,
+    "assets_alloc": 154.5083,
+    "amt_alloc": 1230411865.145,
+    "share_assets": 0,
+    "share_amt": 0.0012
+  },
+  {
+    "combo": "Small prime contractors | Energy Systems & Infrastructure",
+    "a": "Small prime contractors",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 2349,
+    "assets_alloc": 16965.1333,
+    "amt_alloc": 1184252825.205,
+    "share_assets": 0.0022,
+    "share_amt": 0.0011
+  },
+  {
+    "combo": "Small prime contractors | Advanced Manufacturing & Machine Tools",
+    "a": "Small prime contractors",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 2909,
+    "assets_alloc": 36284.169,
+    "amt_alloc": 1069454421.2,
+    "share_assets": 0.0048,
+    "share_amt": 0.001
+  },
+  {
+    "combo": "Universities | Unknown sector",
+    "a": "Universities",
+    "b": "Unknown sector",
+    "assets_int": 506,
+    "assets_alloc": 4167,
+    "amt_alloc": 1003240151.43,
+    "share_assets": 0.0006,
+    "share_amt": 0.001
+  },
+  {
+    "combo": "The Big 5 Contractors | Unknown sector",
+    "a": "The Big 5 Contractors",
+    "b": "Unknown sector",
+    "assets_int": 79,
+    "assets_alloc": 18414,
+    "amt_alloc": 940753282.17,
+    "share_assets": 0.0024,
+    "share_amt": 0.0009
+  },
+  {
+    "combo": "Small prime contractors | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Small prime contractors",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 2090,
+    "assets_alloc": 55943.0595,
+    "amt_alloc": 713277245.605,
+    "share_assets": 0.0074,
+    "share_amt": 0.0007
+  },
+  {
+    "combo": "Small prime contractors | Workforce Training & Education",
+    "a": "Small prime contractors",
+    "b": "Workforce Training & Education",
+    "assets_int": 231,
+    "assets_alloc": 219.15,
+    "amt_alloc": 476967393.62,
+    "share_assets": 0,
+    "share_amt": 0.0005
+  },
+  {
+    "combo": "Universities | Aircraft & Aviation",
+    "a": "Universities",
+    "b": "Aircraft & Aviation",
+    "assets_int": 58,
+    "assets_alloc": 73.225,
+    "amt_alloc": 419947003.285,
+    "share_assets": 9.706e-06,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Other big prime contractors | Workforce Training & Education",
+    "a": "Other big prime contractors",
+    "b": "Workforce Training & Education",
+    "assets_int": 92,
+    "assets_alloc": 141.3,
+    "amt_alloc": 382543557.365,
+    "share_assets": 0,
+    "share_amt": 0.0004
+  },
+  {
+    "combo": "Small prime contractors | Materials & Critical Minerals",
+    "a": "Small prime contractors",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 1111,
+    "assets_alloc": 20724.1667,
+    "amt_alloc": 349549669.78,
+    "share_assets": 0.0027,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Small prime contractors | Financial & Insurance Services",
+    "a": "Small prime contractors",
+    "b": "Financial & Insurance Services",
+    "assets_int": 157,
+    "assets_alloc": 129.4667,
+    "amt_alloc": 339240776.065,
+    "share_assets": 0,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Universities | Munitions & Missile Systems",
+    "a": "Universities",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 55,
+    "assets_alloc": 64.3417,
+    "amt_alloc": 335313140.385,
+    "share_assets": 8.5285e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "The Big 5 Contractors | Transportation & Warehousing",
+    "a": "The Big 5 Contractors",
+    "b": "Transportation & Warehousing",
+    "assets_int": 5,
+    "assets_alloc": 3.8333,
+    "amt_alloc": 316654091.415,
+    "share_assets": 5.0811e-07,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "The Big 5 Contractors | Financial & Insurance Services",
+    "a": "The Big 5 Contractors",
+    "b": "Financial & Insurance Services",
+    "assets_int": 3,
+    "assets_alloc": 1.6667,
+    "amt_alloc": 299215157.675,
+    "share_assets": 2.2092e-07,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Other big prime contractors | Transportation & Warehousing",
+    "a": "Other big prime contractors",
+    "b": "Transportation & Warehousing",
+    "assets_int": 58,
+    "assets_alloc": 27.0667,
+    "amt_alloc": 294998390.665,
+    "share_assets": 3.5877e-06,
+    "share_amt": 0.0003
+  },
+  {
+    "combo": "Small prime contractors | Nuclear Deterrence & Propulsion Systems",
+    "a": "Small prime contractors",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 335,
+    "assets_alloc": 647.7167,
+    "amt_alloc": 248592465.135,
+    "share_assets": 0.0001,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Universities | Space Systems & Satellites",
+    "a": "Universities",
+    "b": "Space Systems & Satellites",
+    "assets_int": 67,
+    "assets_alloc": 73.95,
+    "amt_alloc": 247115167.86,
+    "share_assets": 9.8021e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "The Big 5 Contractors | Workforce Training & Education",
+    "a": "The Big 5 Contractors",
+    "b": "Workforce Training & Education",
+    "assets_int": 11,
+    "assets_alloc": 8.0333,
+    "amt_alloc": 221692096.785,
+    "share_assets": 1.0648e-06,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Universities | Microelectronics & Electronic Components",
+    "a": "Universities",
+    "b": "Microelectronics & Electronic Components",
+    "assets_int": 94,
+    "assets_alloc": 92.6333,
+    "amt_alloc": 218272523.8,
+    "share_assets": 0,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Universities | Materials & Critical Minerals",
+    "a": "Universities",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 143,
+    "assets_alloc": 196.5833,
+    "amt_alloc": 165027457.745,
+    "share_assets": 0,
+    "share_amt": 0.0002
+  },
+  {
+    "combo": "Universities | Sensors, Radar & Electronic Warfare",
+    "a": "Universities",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 93,
+    "assets_alloc": 95.5167,
+    "amt_alloc": 153038442.1,
+    "share_assets": 0,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Small prime contractors | Transportation & Warehousing",
+    "a": "Small prime contractors",
+    "b": "Transportation & Warehousing",
+    "assets_int": 121,
+    "assets_alloc": 67.4,
+    "amt_alloc": 152239823.535,
+    "share_assets": 8.9339e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Universities | Maritime & Shipbuilding",
+    "a": "Universities",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 43,
+    "assets_alloc": 53.4167,
+    "amt_alloc": 137878057.67,
+    "share_assets": 7.0804e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Universities | Other Professional & Business Services",
+    "a": "Universities",
+    "b": "Other Professional & Business Services",
+    "assets_int": 56,
+    "assets_alloc": 51.1583,
+    "amt_alloc": 103899705.23,
+    "share_assets": 6.781e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Universities | Advanced Manufacturing & Machine Tools",
+    "a": "Universities",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 85,
+    "assets_alloc": 68.4333,
+    "amt_alloc": 99352851.995,
+    "share_assets": 9.0708e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Universities | Soldier Equipment & Protective Systems",
+    "a": "Universities",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 37,
+    "assets_alloc": 21.9917,
+    "amt_alloc": 65124997.12,
+    "share_assets": 2.915e-06,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "Colleges | Unknown sector",
+    "a": "Colleges",
+    "b": "Unknown sector",
+    "assets_int": 101,
+    "assets_alloc": 462,
+    "amt_alloc": 61521187.24,
+    "share_assets": 0.0001,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "The Big 5 Contractors | Construction",
+    "a": "The Big 5 Contractors",
+    "b": "Construction",
+    "assets_int": 1,
+    "assets_alloc": 0.5,
+    "amt_alloc": 56360675,
+    "share_assets": 6.6275e-08,
+    "share_amt": 0.0001
+  },
+  {
+    "combo": "The Big 5 Contractors | Materials & Critical Minerals",
+    "a": "The Big 5 Contractors",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 21,
+    "assets_alloc": 67.95,
+    "amt_alloc": 48115149.52,
+    "share_assets": 9.0068e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Colleges | R&D and Science & Technology",
+    "a": "Colleges",
+    "b": "R&D and Science & Technology",
+    "assets_int": 19,
+    "assets_alloc": 88.3667,
+    "amt_alloc": 43199252.005,
+    "share_assets": 0,
+    "share_amt": 0
+  },
+  {
+    "combo": "The Big 5 Contractors | Energy Systems & Infrastructure",
+    "a": "The Big 5 Contractors",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 38,
+    "assets_alloc": 851,
+    "amt_alloc": 33826044.295,
+    "share_assets": 0.0001,
+    "share_amt": 0
+  },
+  {
+    "combo": "Universities | Nuclear Deterrence & Propulsion Systems",
+    "a": "Universities",
+    "b": "Nuclear Deterrence & Propulsion Systems",
+    "assets_int": 12,
+    "assets_alloc": 7.95,
+    "amt_alloc": 31229198.665,
+    "share_assets": 1.0538e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Universities | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Universities",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 34,
+    "assets_alloc": 31.5833,
+    "amt_alloc": 27859893.335,
+    "share_assets": 4.1864e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Universities | Energy Systems & Infrastructure",
+    "a": "Universities",
+    "b": "Energy Systems & Infrastructure",
+    "assets_int": 37,
+    "assets_alloc": 23.3333,
+    "amt_alloc": 25890653.81,
+    "share_assets": 3.0928e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Colleges | Engineering & Technical Services",
+    "a": "Colleges",
+    "b": "Engineering & Technical Services",
+    "assets_int": 24,
+    "assets_alloc": 40.7,
+    "amt_alloc": 25718279.655,
+    "share_assets": 5.3948e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Universities | Ground Vehicles & Tactical Systems",
+    "a": "Universities",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 7,
+    "assets_alloc": 4.5667,
+    "amt_alloc": 25671018.195,
+    "share_assets": 6.0531e-07,
+    "share_amt": 0
+  },
+  {
+    "combo": "Universities | Workforce Training & Education",
+    "a": "Universities",
+    "b": "Workforce Training & Education",
+    "assets_int": 73,
+    "assets_alloc": 75,
+    "amt_alloc": 21086517.43,
+    "share_assets": 9.9412e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Colleges | Digital Technologies & Software",
+    "a": "Colleges",
+    "b": "Digital Technologies & Software",
+    "assets_int": 11,
+    "assets_alloc": 23.6667,
+    "amt_alloc": 19536938.145,
+    "share_assets": 3.137e-06,
+    "share_amt": 0
+  },
+  {
+    "combo": "Colleges | Maintenance, Repair & Operations",
+    "a": "Colleges",
+    "b": "Maintenance, Repair & Operations",
+    "assets_int": 14,
+    "assets_alloc": 19.0333,
+    "amt_alloc": 9634420.205,
+    "share_assets": 2.5229e-06,
+    "share_amt": 9.1897e-06
+  },
+  {
+    "combo": "Colleges | Other Professional & Business Services",
+    "a": "Colleges",
+    "b": "Other Professional & Business Services",
+    "assets_int": 5,
+    "assets_alloc": 3.6667,
+    "amt_alloc": 8167550.68,
+    "share_assets": 4.8602e-07,
+    "share_amt": 7.7905e-06
+  },
+  {
+    "combo": "Colleges | CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "a": "Colleges",
+    "b": "CBRN (Chemical, Biological, Radiological, Nuclear)",
+    "assets_int": 2,
+    "assets_alloc": 0.75,
+    "amt_alloc": 4710859.5,
+    "share_assets": 9.9412e-08,
+    "share_amt": 4.4934e-06
+  },
+  {
+    "combo": "Colleges | Sensors, Radar & Electronic Warfare",
+    "a": "Colleges",
+    "b": "Sensors, Radar & Electronic Warfare",
+    "assets_int": 3,
+    "assets_alloc": 2.8333,
+    "amt_alloc": 3716488,
+    "share_assets": 3.7556e-07,
+    "share_amt": 3.5449e-06
+  },
+  {
+    "combo": "Colleges | Aircraft & Aviation",
+    "a": "Colleges",
+    "b": "Aircraft & Aviation",
+    "assets_int": 13,
+    "assets_alloc": 42.5,
+    "amt_alloc": 2690670.49,
+    "share_assets": 5.6334e-06,
+    "share_amt": 2.5665e-06
+  },
+  {
+    "combo": "Colleges | Soldier Equipment & Protective Systems",
+    "a": "Colleges",
+    "b": "Soldier Equipment & Protective Systems",
+    "assets_int": 2,
+    "assets_alloc": 0.75,
+    "amt_alloc": 2340611,
+    "share_assets": 9.9412e-08,
+    "share_amt": 2.2326e-06
+  },
+  {
+    "combo": "Colleges | Workforce Training & Education",
+    "a": "Colleges",
+    "b": "Workforce Training & Education",
+    "assets_int": 7,
+    "assets_alloc": 7.5,
+    "amt_alloc": 2327169.725,
+    "share_assets": 9.9412e-07,
+    "share_amt": 2.2197e-06
+  },
+  {
+    "combo": "Colleges | Space Systems & Satellites",
+    "a": "Colleges",
+    "b": "Space Systems & Satellites",
+    "assets_int": 2,
+    "assets_alloc": 1.45,
+    "amt_alloc": 1697114.735,
+    "share_assets": 1.922e-07,
+    "share_amt": 1.6188e-06
+  },
+  {
+    "combo": "Universities | Transportation & Warehousing",
+    "a": "Universities",
+    "b": "Transportation & Warehousing",
+    "assets_int": 1,
+    "assets_alloc": 0.3333,
+    "amt_alloc": 1696388,
+    "share_assets": 4.4183e-08,
+    "share_amt": 1.6181e-06
+  },
+  {
+    "combo": "Colleges | Munitions & Missile Systems",
+    "a": "Colleges",
+    "b": "Munitions & Missile Systems",
+    "assets_int": 1,
+    "assets_alloc": 0.45,
+    "amt_alloc": 1686389.735,
+    "share_assets": 5.9647e-08,
+    "share_amt": 1.6085e-06
+  },
+  {
+    "combo": "Colleges | Materials & Critical Minerals",
+    "a": "Colleges",
+    "b": "Materials & Critical Minerals",
+    "assets_int": 4,
+    "assets_alloc": 5.3333,
+    "amt_alloc": 1572215,
+    "share_assets": 7.0693e-07,
+    "share_amt": 1.4996e-06
+  },
+  {
+    "combo": "Colleges | Maritime & Shipbuilding",
+    "a": "Colleges",
+    "b": "Maritime & Shipbuilding",
+    "assets_int": 3,
+    "assets_alloc": 2.5,
+    "amt_alloc": 1424253.1,
+    "share_assets": 3.3137e-07,
+    "share_amt": 1.3585e-06
+  },
+  {
+    "combo": "Universities | Financial & Insurance Services",
+    "a": "Universities",
+    "b": "Financial & Insurance Services",
+    "assets_int": 3,
+    "assets_alloc": 1.75,
+    "amt_alloc": 741000,
+    "share_assets": 2.3196e-07,
+    "share_amt": 7.0679e-07
+  },
+  {
+    "combo": "Colleges | Advanced Manufacturing & Machine Tools",
+    "a": "Colleges",
+    "b": "Advanced Manufacturing & Machine Tools",
+    "assets_int": 1,
+    "assets_alloc": 0.5,
+    "amt_alloc": 49522.5,
+    "share_assets": 6.6275e-08,
+    "share_amt": 4.7236e-08
+  },
+  {
+    "combo": "Colleges | Ground Vehicles & Tactical Systems",
+    "a": "Colleges",
+    "b": "Ground Vehicles & Tactical Systems",
+    "assets_int": 1,
+    "assets_alloc": 26,
+    "amt_alloc": 34944.58,
+    "share_assets": 3.4463e-06,
+    "share_amt": 3.3331e-08
+  }
+]

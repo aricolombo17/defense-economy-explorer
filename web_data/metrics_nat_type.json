@@ -1,0 +1,146 @@
+[
+  {
+    "cat": "Other big prime contractors",
+    "assets_int": 11614,
+    "assets_alloc": 11614,
+    "amt_alloc": 237341292444.785,
+    "share_assets": 0.1798,
+    "share_amt": 0.4894
+  },
+  {
+    "cat": "The Big 5 Contractors",
+    "assets_int": 233,
+    "assets_alloc": 233,
+    "amt_alloc": 137268820616.235,
+    "share_assets": 0.0036,
+    "share_amt": 0.2831
+  },
+  {
+    "cat": "Small prime contractors",
+    "assets_int": 36452,
+    "assets_alloc": 36452,
+    "amt_alloc": 95593509362.16,
+    "share_assets": 0.5642,
+    "share_amt": 0.1971
+  },
+  {
+    "cat": "Universities",
+    "assets_int": 685,
+    "assets_alloc": 685,
+    "amt_alloc": 8141803665.915,
+    "share_assets": 0.0106,
+    "share_amt": 0.0168
+  },
+  {
+    "cat": "Small Business Research contractors",
+    "assets_int": 2049,
+    "assets_alloc": 2049,
+    "amt_alloc": 6300572056.2,
+    "share_assets": 0.0317,
+    "share_amt": 0.013
+  },
+  {
+    "cat": "MII",
+    "assets_int": 9,
+    "assets_alloc": 9,
+    "amt_alloc": 153977000,
+    "share_assets": 0.0001,
+    "share_amt": 0.0003
+  },
+  {
+    "cat": "Colleges",
+    "assets_int": 129,
+    "assets_alloc": 129,
+    "amt_alloc": 135686917.24,
+    "share_assets": 0.002,
+    "share_amt": 0.0003
+  },
+  {
+    "cat": "FFRDC",
+    "assets_int": 10,
+    "assets_alloc": 10,
+    "amt_alloc": 4722251.5,
+    "share_assets": 0.0002,
+    "share_amt": 9.7378e-06
+  },
+  {
+    "cat": "UARC",
+    "assets_int": 15,
+    "assets_alloc": 15,
+    "amt_alloc": 1521473.5,
+    "share_assets": 0.0002,
+    "share_amt": 3.1374e-06
+  },
+  {
+    "cat": "Subcontractors",
+    "assets_int": 12166,
+    "assets_alloc": 12166,
+    "amt_alloc": 0,
+    "share_assets": 0.1883,
+    "share_amt": 0
+  },
+  {
+    "cat": "Military Bases",
+    "assets_int": 1006,
+    "assets_alloc": 1006,
+    "amt_alloc": 0,
+    "share_assets": 0.0156,
+    "share_amt": 0
+  },
+  {
+    "cat": "ISO",
+    "assets_int": 92,
+    "assets_alloc": 92,
+    "amt_alloc": 0,
+    "share_assets": 0.0014,
+    "share_amt": 0
+  },
+  {
+    "cat": "DoD Labs",
+    "assets_int": 68,
+    "assets_alloc": 68,
+    "amt_alloc": 0,
+    "share_assets": 0.0011,
+    "share_amt": 0
+  },
+  {
+    "cat": "DLAO",
+    "assets_int": 25,
+    "assets_alloc": 25,
+    "amt_alloc": 0,
+    "share_assets": 0.0004,
+    "share_amt": 0
+  },
+  {
+    "cat": "CD",
+    "assets_int": 21,
+    "assets_alloc": 21,
+    "amt_alloc": 0,
+    "share_assets": 0.0003,
+    "share_amt": 0
+  },
+  {
+    "cat": "AAF",
+    "assets_int": 14,
+    "assets_alloc": 14,
+    "amt_alloc": 0,
+    "share_assets": 0.0002,
+    "share_amt": 0
+  },
+  {
+    "cat": "DIU",
+    "assets_int": 12,
+    "assets_alloc": 12,
+    "amt_alloc": 0,
+    "share_assets": 0.0002,
+    "share_amt": 0
+  },
+  {
+    "cat": "AC",
+    "assets_int": 9,
+    "assets_alloc": 9,
+    "amt_alloc": 0,
+    "share_assets": 0.0001,
+    "share_amt": 0
+  }
+]
