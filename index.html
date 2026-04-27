@@ -8,108 +8,36 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,500;9..40,700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <style>
-:root{--navy:#0B1D3A;--navy-mid:#132D52;--slate:#2A4A7A;--teal:#00D4AA;--gold:#F0B74A;--coral:#E8655A;--blue:#4A9CFF;--tp:#E8EDF5;--ts:#8FA3C4;--tm:#5C7299;--sf:#0F2440;--sr:#152E50;--bd:rgba(74,156,255,0.15);--r:10px;--rl:16px}
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'DM Sans',system-ui,sans-serif;background:var(--navy);color:var(--tp);min-height:100vh;overflow-x:hidden}
-::-webkit-scrollbar{width:6px}::-webkit-scrollbar-track{background:var(--navy)}::-webkit-scrollbar-thumb{background:var(--slate);border-radius:3px}
-.app{display:flex;height:100vh}
-.sb{width:280px;min-width:280px;background:var(--sf);border-right:1px solid var(--bd);display:flex;flex-direction:column;z-index:10}
-.mn{flex:1;display:flex;flex-direction:column;overflow:hidden}
-.logo{padding:24px 20px 16px;border-bottom:1px solid var(--bd)}
-.logo h1{font-size:15px;font-weight:700;letter-spacing:.5px;color:var(--teal);text-transform:uppercase}
-.logo p{font-size:12px;color:var(--tm);margin-top:4px}
-.snav{flex:1;padding:12px 0;overflow-y:auto}
-.ns{padding:8px 20px 4px;font-size:10px;font-weight:700;letter-spacing:1.5px;color:var(--tm);text-transform:uppercase}
-.ni{display:flex;align-items:center;gap:10px;padding:10px 20px;cursor:pointer;transition:all .2s;font-size:13px;color:var(--ts);border-left:3px solid transparent}
-.ni:hover{background:rgba(74,156,255,.06);color:var(--tp)}
-.ni.act{background:rgba(0,212,170,.08);color:var(--teal);border-left-color:var(--teal)}
-.ni .ic{font-size:16px;width:20px;text-align:center}
-.msel{padding:16px 20px;border-top:1px solid var(--bd)}
-.msel label{font-size:10px;font-weight:700;letter-spacing:1px;color:var(--tm);text-transform:uppercase;display:block;margin-bottom:8px}
-.msel select{width:100%;padding:8px 12px;background:var(--navy-mid);color:var(--tp);border:1px solid var(--bd);border-radius:var(--r);font-family:inherit;font-size:13px;cursor:pointer}
-.tb{height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 28px;background:var(--sf);border-bottom:1px solid var(--bd)}
-.tb-t{font-size:16px;font-weight:700}
-.btn{padding:7px 16px;border-radius:var(--r);border:none;background:var(--teal);color:var(--navy);font-family:inherit;font-size:12px;font-weight:600;cursor:pointer;display:flex;align-items:center;gap:6px}
-.cnt{flex:1;overflow-y:auto}
-.vw{display:none;padding:24px 28px;animation:fi .3s ease}.vw.act{display:block}
-@keyframes fi{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-.sg{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:24px}
-.sc{background:var(--sr);border:1px solid var(--bd);border-radius:var(--rl);padding:20px;transition:transform .2s;position:relative;overflow:hidden}
-.sc:hover{transform:translateY(-2px)}
-.sc::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--teal),var(--blue));opacity:0;transition:opacity .2s}
-.sc:hover::before{opacity:1}
-.sl{font-size:11px;font-weight:500;color:var(--tm);text-transform:uppercase;letter-spacing:.8px}
-.sv{font-family:'JetBrains Mono',monospace;font-size:28px;font-weight:600;margin:8px 0 4px}
-.ss{font-size:12px;color:var(--ts)}
-.sp{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:24px}
-.sw{display:grid;grid-template-columns:2fr 1fr;gap:20px;margin-bottom:24px}
-.pn{background:var(--sr);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden}
-.ph{padding:16px 20px;border-bottom:1px solid var(--bd);display:flex;align-items:center;justify-content:space-between}
-.ph h3{font-size:13px;font-weight:700}
-.pb{padding:20px}
-.fr{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px}
-.ch{padding:5px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1px solid var(--bd);background:0;color:var(--ts);cursor:pointer;transition:all .2s}
-.ch:hover{border-color:var(--teal);color:var(--tp)}
-.ch.act{background:rgba(0,212,170,.15);border-color:var(--teal);color:var(--teal)}
-.dt{width:100%;border-collapse:collapse}
-.dt th{text-align:left;padding:10px 12px;font-size:10px;font-weight:700;letter-spacing:1px;color:var(--tm);text-transform:uppercase;border-bottom:1px solid var(--bd)}
-.dt td{padding:10px 12px;font-size:13px;border-bottom:1px solid rgba(74,156,255,.06);color:var(--ts)}
-.dt tr:hover td{background:rgba(0,212,170,.04);color:var(--tp)}
-.nm{font-family:'JetBrains Mono',monospace;font-size:12px;text-align:right}
-.rb{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:6px;font-size:11px;font-weight:700;font-family:'JetBrains Mono',monospace}
-.r1{background:rgba(240,183,74,.2);color:var(--gold)}.r2{background:rgba(200,200,210,.15);color:#B0B8C8}.r3{background:rgba(200,140,80,.15);color:#C8966A}.ro{background:rgba(74,156,255,.1);color:var(--blue)}
-.mc{height:480px;border-radius:var(--r);overflow:hidden}
-#map{height:100%;width:100%}
-.leaflet-container{background:var(--navy-mid)!important}
-.leaflet-popup-content-wrapper{background:var(--sr);color:var(--tp);border-radius:var(--r);border:1px solid var(--bd)}
-.leaflet-popup-tip{background:var(--sr)}
-.leaflet-popup-content{font-family:'DM Sans',sans-serif;font-size:13px}
-.br{display:flex;align-items:center;gap:12px;margin-bottom:10px}
-.bl{flex:0 0 180px;font-size:12px;color:var(--ts);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.bt{flex:1;height:22px;background:rgba(74,156,255,.06);border-radius:4px;overflow:hidden}
-.bf{height:100%;border-radius:4px;transition:width .6s ease}
-.bf.c0{background:linear-gradient(90deg,#00D4AA,rgba(0,212,170,.5))}.bf.c1{background:linear-gradient(90deg,#4A9CFF,rgba(74,156,255,.5))}.bf.c2{background:linear-gradient(90deg,#F0B74A,rgba(240,183,74,.5))}.bf.c3{background:linear-gradient(90deg,#E8655A,rgba(232,101,90,.5))}
-.bv{flex:0 0 80px;font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--tm)}
-.dc{display:flex;align-items:center;gap:24px}
-.dl{display:flex;flex-direction:column;gap:8px}
-.di{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--ts)}
-.dd{width:10px;height:10px;border-radius:3px}
-.mb{display:inline-flex;padding:3px 10px;border-radius:10px;font-size:10px;font-weight:700;letter-spacing:.5px;text-transform:uppercase}
-.mb.dg{background:rgba(74,156,255,.15);color:var(--blue)}.mb.st{background:rgba(240,183,74,.15);color:var(--gold)}
+:root{--nv:#0B1D3A;--nm:#132D52;--sl:#2A4A7A;--tl:#00D4AA;--gd:#F0B74A;--co:#E8655A;--bl:#4A9CFF;--tp:#E8EDF5;--ts:#8FA3C4;--tm:#5C7299;--sf:#0F2440;--sr:#152E50;--bd:rgba(74,156,255,.15);--r:10px;--rl:16px}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',system-ui,sans-serif;background:var(--nv);color:var(--tp);min-height:100vh;overflow-x:hidden}
+::-webkit-scrollbar{width:6px}::-webkit-scrollbar-track{background:var(--nv)}::-webkit-scrollbar-thumb{background:var(--sl);border-radius:3px}
+.app{display:flex;height:100vh}.sb{width:280px;min-width:280px;background:var(--sf);border-right:1px solid var(--bd);display:flex;flex-direction:column;z-index:10}.mn{flex:1;display:flex;flex-direction:column;overflow:hidden}
+.logo{padding:24px 20px 16px;border-bottom:1px solid var(--bd)}.logo h1{font-size:15px;font-weight:700;letter-spacing:.5px;color:var(--tl);text-transform:uppercase}.logo p{font-size:12px;color:var(--tm);margin-top:4px}
+.snav{flex:1;padding:12px 0;overflow-y:auto}.ns{padding:8px 20px 4px;font-size:10px;font-weight:700;letter-spacing:1.5px;color:var(--tm);text-transform:uppercase}
+.ni{display:flex;align-items:center;gap:10px;padding:10px 20px;cursor:pointer;transition:all .2s;font-size:13px;color:var(--ts);border-left:3px solid transparent}.ni:hover{background:rgba(74,156,255,.06);color:var(--tp)}.ni.on{background:rgba(0,212,170,.08);color:var(--tl);border-left-color:var(--tl)}.ni .ic{font-size:16px;width:20px;text-align:center}
+.ms{padding:16px 20px;border-top:1px solid var(--bd)}.ms label{font-size:10px;font-weight:700;letter-spacing:1px;color:var(--tm);text-transform:uppercase;display:block;margin-bottom:8px}.ms select{width:100%;padding:8px 12px;background:var(--nm);color:var(--tp);border:1px solid var(--bd);border-radius:var(--r);font-family:inherit;font-size:13px}
+.tb{height:56px;display:flex;align-items:center;justify-content:space-between;padding:0 28px;background:var(--sf);border-bottom:1px solid var(--bd)}.tb-t{font-size:16px;font-weight:700}
+.btn{padding:7px 16px;border-radius:var(--r);border:none;background:var(--tl);color:var(--nv);font-family:inherit;font-size:12px;font-weight:600;cursor:pointer;display:flex;align-items:center;gap:6px}
+.cnt{flex:1;overflow-y:auto}.vw{display:none;padding:24px 28px;animation:fi .3s ease}.vw.on{display:block}@keyframes fi{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.sg{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:24px}.sc{background:var(--sr);border:1px solid var(--bd);border-radius:var(--rl);padding:20px;position:relative;overflow:hidden;transition:transform .2s}.sc:hover{transform:translateY(-2px)}.sc::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--tl),var(--bl));opacity:0;transition:opacity .2s}.sc:hover::before{opacity:1}
+.sl{font-size:11px;font-weight:500;color:var(--tm);text-transform:uppercase;letter-spacing:.8px}.sv{font-family:'JetBrains Mono',monospace;font-size:28px;font-weight:600;margin:8px 0 4px}.ss{font-size:12px;color:var(--ts)}
+.sw{display:grid;grid-template-columns:2fr 1fr;gap:20px;margin-bottom:24px}.sp{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:24px}
+.pn{background:var(--sr);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden}.ph{padding:16px 20px;border-bottom:1px solid var(--bd);display:flex;align-items:center;justify-content:space-between}.ph h3{font-size:13px;font-weight:700}.pb{padding:20px}
+.dt{width:100%;border-collapse:collapse}.dt th{text-align:left;padding:10px 12px;font-size:10px;font-weight:700;letter-spacing:1px;color:var(--tm);text-transform:uppercase;border-bottom:1px solid var(--bd)}.dt td{padding:10px 12px;font-size:13px;border-bottom:1px solid rgba(74,156,255,.06);color:var(--ts)}.dt tr:hover td{background:rgba(0,212,170,.04);color:var(--tp)}.nm{font-family:'JetBrains Mono',monospace;font-size:12px;text-align:right}
+.rb{display:inline-flex;align-items:center;justify-content:center;width:24px;height:24px;border-radius:6px;font-size:11px;font-weight:700;font-family:'JetBrains Mono',monospace}.r1{background:rgba(240,183,74,.2);color:var(--gd)}.r2{background:rgba(200,200,210,.15);color:#B0B8C8}.r3{background:rgba(200,140,80,.15);color:#C8966A}.ro{background:rgba(74,156,255,.1);color:var(--bl)}
+.mc{height:480px;border-radius:var(--r);overflow:hidden}#map{height:100%;width:100%}.leaflet-container{background:var(--nm)!important}.leaflet-popup-content-wrapper{background:var(--sr);color:var(--tp);border-radius:var(--r);border:1px solid var(--bd)}.leaflet-popup-tip{background:var(--sr)}.leaflet-popup-content{font-family:'DM Sans',sans-serif;font-size:13px}
+.br{display:flex;align-items:center;gap:12px;margin-bottom:10px}.bl_l{flex:0 0 200px;font-size:12px;color:var(--ts);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.bt{flex:1;height:22px;background:rgba(74,156,255,.06);border-radius:4px;overflow:hidden}.bf{height:100%;border-radius:4px;transition:width .6s ease}.bf.c0{background:linear-gradient(90deg,#00D4AA,rgba(0,212,170,.5))}.bf.c1{background:linear-gradient(90deg,#4A9CFF,rgba(74,156,255,.5))}.bf.c2{background:linear-gradient(90deg,#F0B74A,rgba(240,183,74,.5))}.bf.c3{background:linear-gradient(90deg,#E8655A,rgba(232,101,90,.5))}.bv{flex:0 0 80px;font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--tm)}
+.dc{display:flex;align-items:center;gap:24px}.dl{display:flex;flex-direction:column;gap:8px}.di{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--ts)}.dd{width:10px;height:10px;border-radius:3px}
+.mb{display:inline-flex;padding:3px 10px;border-radius:10px;font-size:10px;font-weight:700;letter-spacing:.5px;text-transform:uppercase}.mb.dg{background:rgba(74,156,255,.15);color:var(--bl)}.mb.st{background:rgba(240,183,74,.15);color:var(--gd)}
 .nd{color:var(--tm);font-size:13px;padding:20px;text-align:center}
-.lo{position:fixed;inset:0;background:var(--navy);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:9999;transition:opacity .5s}
-.lo.hd{opacity:0;pointer-events:none}
-.ls{width:40px;height:40px;border:3px solid var(--bd);border-top-color:var(--teal);border-radius:50%;animation:sp .8s linear infinite}
-@keyframes sp{to{transform:rotate(360deg)}}
-.lt{margin-top:16px;font-size:13px;color:var(--tm)}
-.err-banner{background:rgba(232,101,90,.15);border:1px solid rgba(232,101,90,.3);border-radius:var(--r);padding:16px 20px;margin-bottom:20px;font-size:13px;color:var(--coral)}
-.err-banner code{background:rgba(0,0,0,.3);padding:2px 6px;border-radius:4px;font-size:12px}
-
+.lo{position:fixed;inset:0;background:var(--nv);display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:9999;transition:opacity .5s}.lo.hd{opacity:0;pointer-events:none}.ls{width:40px;height:40px;border:3px solid var(--bd);border-top-color:var(--tl);border-radius:50%;animation:sp .8s linear infinite}@keyframes sp{to{transform:rotate(360deg)}}.lt{margin-top:16px;font-size:13px;color:var(--tm)}
+.fr{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:20px}.ch{padding:5px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1px solid var(--bd);background:0;color:var(--ts);cursor:pointer;transition:all .2s}.ch:hover{border-color:var(--tl);color:var(--tp)}.ch.on{background:rgba(0,212,170,.15);border-color:var(--tl);color:var(--tl)}
 /* Chat */
-.cc{position:fixed;bottom:20px;right:20px;z-index:1000}
-.ct{width:56px;height:56px;border-radius:50%;border:none;background:linear-gradient(135deg,var(--teal),var(--blue));color:#fff;font-size:22px;cursor:pointer;box-shadow:0 4px 20px rgba(0,212,170,.3);transition:transform .2s;display:flex;align-items:center;justify-content:center}
-.ct:hover{transform:scale(1.08)}
-.ct .badge{position:absolute;top:-2px;right:-2px;background:var(--coral);color:#fff;font-size:9px;font-weight:700;width:18px;height:18px;border-radius:50%;display:flex;align-items:center;justify-content:center}
-.cw{display:none;position:absolute;bottom:70px;right:0;width:420px;height:560px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden;box-shadow:0 12px 48px rgba(0,0,0,.5);flex-direction:column}
-.cw.op{display:flex}
-.cwh{padding:16px 20px;border-bottom:1px solid var(--bd);display:flex;align-items:center;justify-content:space-between}
-.cwh h3{font-size:14px;font-weight:700;display:flex;align-items:center;gap:8px}
-.cwh .close{background:none;border:none;color:var(--tm);font-size:18px;cursor:pointer;padding:4px}
-.cwh .close:hover{color:var(--tp)}
-.cm{flex:1;overflow-y:auto;padding:16px 20px;display:flex;flex-direction:column;gap:12px}
-.msg{max-width:85%;padding:10px 14px;border-radius:12px;font-size:13px;line-height:1.5}
-.msg.bot{background:var(--navy-mid);color:var(--tp);align-self:flex-start;border-bottom-left-radius:4px}
-.msg.usr{background:rgba(0,212,170,.15);color:var(--tp);align-self:flex-end;border-bottom-right-radius:4px}
-.msg.sys{background:rgba(74,156,255,.08);color:var(--blue);font-size:11px;text-align:center;align-self:center;border-radius:8px;padding:6px 14px}
-.msg.typ{opacity:.5}
-.ci{padding:12px 16px;border-top:1px solid var(--bd);display:flex;gap:8px}
-.ci input{flex:1;padding:10px 14px;border-radius:var(--r);border:1px solid var(--bd);background:var(--navy-mid);color:var(--tp);font-family:inherit;font-size:13px}
-.ci input::placeholder{color:var(--tm)}
-.ci input:focus{outline:none;border-color:var(--teal)}
-.ci button{padding:10px 16px;border-radius:var(--r);border:none;background:var(--teal);color:var(--navy);font-weight:600;font-family:inherit;font-size:13px;cursor:pointer}
-.ci button:disabled{opacity:.5;cursor:not-allowed}
-.sq{padding:12px 16px;background:rgba(240,183,74,.06);border-left:3px solid var(--gold);border-radius:0 8px 8px 0;font-size:13px;color:var(--ts);cursor:pointer;transition:background .2s;margin-bottom:10px}
-.sq:hover{background:rgba(240,183,74,.12)}
+.cc{position:fixed;bottom:20px;right:20px;z-index:1000}.ct{width:56px;height:56px;border-radius:50%;border:none;background:linear-gradient(135deg,var(--tl),var(--bl));color:#fff;font-size:22px;cursor:pointer;box-shadow:0 4px 20px rgba(0,212,170,.3);transition:transform .2s;display:flex;align-items:center;justify-content:center}.ct:hover{transform:scale(1.08)}
+.cw{display:none;position:absolute;bottom:70px;right:0;width:420px;height:560px;background:var(--sf);border:1px solid var(--bd);border-radius:var(--rl);overflow:hidden;box-shadow:0 12px 48px rgba(0,0,0,.5);flex-direction:column}.cw.op{display:flex}.cwh{padding:16px 20px;border-bottom:1px solid var(--bd);display:flex;align-items:center;justify-content:space-between}.cwh h3{font-size:14px;font-weight:700}.cwh .x{background:none;border:none;color:var(--tm);font-size:18px;cursor:pointer;padding:4px}.cwh .x:hover{color:var(--tp)}
+.cm{flex:1;overflow-y:auto;padding:16px 20px;display:flex;flex-direction:column;gap:12px}.msg{max-width:85%;padding:10px 14px;border-radius:12px;font-size:13px;line-height:1.5}.msg.bot{background:var(--nm);color:var(--tp);align-self:flex-start;border-bottom-left-radius:4px}.msg.usr{background:rgba(0,212,170,.15);color:var(--tp);align-self:flex-end;border-bottom-right-radius:4px}.msg.sys{background:rgba(74,156,255,.08);color:var(--bl);font-size:11px;text-align:center;align-self:center;border-radius:8px;padding:6px 14px}.msg.typ{opacity:.5}
+.ci{padding:12px 16px;border-top:1px solid var(--bd);display:flex;gap:8px}.ci input{flex:1;padding:10px 14px;border-radius:var(--r);border:1px solid var(--bd);background:var(--nm);color:var(--tp);font-family:inherit;font-size:13px}.ci input::placeholder{color:var(--tm)}.ci input:focus{outline:none;border-color:var(--tl)}.ci button{padding:10px 16px;border-radius:var(--r);border:none;background:var(--tl);color:var(--nv);font-weight:600;font-family:inherit;font-size:13px;cursor:pointer}.ci button:disabled{opacity:.5;cursor:not-allowed}
+.sq{padding:12px 16px;background:rgba(240,183,74,.06);border-left:3px solid var(--gd);border-radius:0 8px 8px 0;font-size:13px;color:var(--ts);cursor:pointer;transition:background .2s;margin-bottom:10px}.sq:hover{background:rgba(240,183,74,.12)}
 @media(max-width:1200px){.sg{grid-template-columns:repeat(2,1fr)}.sp,.sw{grid-template-columns:1fr}}
 </style>
 </head>
@@ -120,394 +48,268 @@ body{font-family:'DM Sans',system-ui,sans-serif;background:var(--navy);color:var
   <div class="logo"><h1>Defense Economy</h1><p>Interactive Explorer</p></div>
   <nav class="snav">
     <div class="ns">Dashboard</div>
-    <div class="ni act" data-v="overview"><span class="ic">📊</span> Overview</div>
+    <div class="ni on" data-v="overview"><span class="ic">📊</span> Overview</div>
     <div class="ni" data-v="map"><span class="ic">🗺️</span> Asset Map</div>
     <div class="ni" data-v="rankings"><span class="ic">🏆</span> National Rankings</div>
     <div class="ns">Deep Dives</div>
-    <div class="ni" data-v="sectors"><span class="ic">🏭</span> Sectors & Activities</div>
-    <div class="ni" data-v="technology"><span class="ic">⚡</span> Technology Landscape</div>
+    <div class="ni" data-v="sectors"><span class="ic">🏭</span> Sectors</div>
+    <div class="ni" data-v="technology"><span class="ic">⚡</span> Technology</div>
     <div class="ns">Strategy</div>
-    <div class="ni" data-v="alignment"><span class="ic">🎯</span> Alignment Analysis</div>
+    <div class="ni" data-v="alignment"><span class="ic">🎯</span> Alignment</div>
     <div class="ni" data-v="about"><span class="ic">ℹ️</span> About</div>
   </nav>
-  <div class="msel"><label>Metro Area</label><select id="msel"></select></div>
+  <div class="ms"><label>Metro Area</label><select id="msel"></select></div>
 </aside>
 <div class="mn">
-  <div class="tb">
-    <span class="tb-t" id="ttl">Overview</span>
-    <button class="btn" onclick="toggleChat()">🤖 Defense Analyst</button>
-  </div>
+  <div class="tb"><span class="tb-t" id="ttl">Overview</span><button class="btn" onclick="toggleChat()">🤖 Defense Analyst</button></div>
   <div class="cnt">
-
-    <!-- OVERVIEW -->
-    <div class="vw act" id="v-overview">
-      <div id="errBanner"></div>
+    <div class="vw on" id="v-overview">
       <div class="sg">
-        <div class="sc"><div class="sl">Total Federal Spending</div><div class="sv" id="s1">—</div><div class="ss">Avg. annual, FY22-25</div></div>
-        <div class="sc"><div class="sl">DoD Allocations</div><div class="sv" id="s2">—</div><div class="ss" id="s2s"></div></div>
-        <div class="sc"><div class="sl">Defense Assets</div><div class="sv" id="s3">—</div><div class="ss">Mapped in this metro</div></div>
-        <div class="sc"><div class="sl">National Ranking</div><div class="sv" id="s4">—</div><div class="ss">By total allocations</div></div>
+        <div class="sc"><div class="sl">Total Allocations</div><div class="sv" id="s1">—</div><div class="ss">Annual avg. FY 2024-2025</div></div>
+        <div class="sc"><div class="sl">Defense Assets</div><div class="sv" id="s2">—</div><div class="ss">Mapped in this metro</div></div>
+        <div class="sc"><div class="sl">National Rank (Amount)</div><div class="sv" id="s3">—</div><div class="ss">By total allocations</div></div>
+        <div class="sc"><div class="sl">National Rank (Assets)</div><div class="sv" id="s4">—</div><div class="ss">By asset count</div></div>
       </div>
       <div class="sw">
         <div class="pn"><div class="ph"><h3>Spending by Activity</h3><span class="mb dg">Diagnostic</span></div><div class="pb" id="actB"></div></div>
-        <div class="pn"><div class="ph"><h3>Asset Composition</h3></div><div class="pb"><div class="dc"><svg width="140" height="140" viewBox="0 0 140 140" id="dSvg"></svg><div class="dl" id="dLeg"></div></div></div></div>
+        <div class="pn"><div class="ph"><h3>Organization Types</h3></div><div class="pb"><div class="dc"><svg width="140" height="140" viewBox="0 0 140 140" id="dS"></svg><div class="dl" id="dL"></div></div></div></div>
       </div>
-      <div class="pn"><div class="ph"><h3>Top Vendors</h3></div><div class="pb"><table class="dt" id="vT"><thead><tr><th>#</th><th>Vendor</th><th>Sector</th><th style="text-align:right">Amount</th></tr></thead><tbody></tbody></table></div></div>
     </div>
-
-    <!-- MAP -->
     <div class="vw" id="v-map">
       <div class="fr" id="mF"></div>
       <div class="pn" style="margin-bottom:20px"><div class="mc"><div id="map"></div></div></div>
-      <div class="sp">
-        <div class="pn"><div class="ph"><h3>Top ZIP Codes</h3></div><div class="pb" id="zB"></div></div>
-        <div class="pn"><div class="ph"><h3>By Organization Type</h3></div><div class="pb" id="oB"></div></div>
-      </div>
     </div>
-
-    <!-- RANKINGS -->
     <div class="vw" id="v-rankings">
-      <div class="pn"><div class="ph"><h3>National Metro Rankings</h3><span class="mb dg">Diagnostic</span></div><div class="pb"><table class="dt" id="rT"><thead><tr><th>Rank</th><th>Metro</th><th style="text-align:right">Allocations</th><th style="text-align:right"># Assets</th></tr></thead><tbody></tbody></table></div></div>
+      <div class="pn"><div class="ph"><h3>National Metro Rankings</h3><span class="mb dg">Diagnostic</span></div><div class="pb"><table class="dt" id="rT"><thead><tr><th>Rank</th><th>Metro</th><th style="text-align:right">Allocations</th><th style="text-align:right"># Assets</th><th style="text-align:right">Population</th></tr></thead><tbody></tbody></table></div></div>
     </div>
-
-    <!-- SECTORS -->
     <div class="vw" id="v-sectors">
-      <div class="sw">
-        <div class="pn"><div class="ph"><h3>Spending by Sector</h3><span class="mb dg">Diagnostic</span></div><div class="pb" id="sB"></div></div>
-        <div class="pn"><div class="ph"><h3>Activity Breakdown</h3></div><div class="pb" id="aB"></div></div>
-      </div>
+      <div class="pn" style="margin-bottom:20px"><div class="ph"><h3>Spending by Defense Sector</h3><span class="mb dg">Diagnostic</span></div><div class="pb" id="secB"></div></div>
+      <div class="pn"><div class="ph"><h3>Spending by Activity</h3></div><div class="pb" id="actB2"></div></div>
     </div>
-
-    <!-- TECH -->
     <div class="vw" id="v-technology">
-      <div class="pn"><div class="ph"><h3>Technology Areas</h3><span class="mb dg">Diagnostic</span></div><div class="pb" id="tB"></div></div>
+      <div class="pn"><div class="ph"><h3>Technology Areas</h3><span class="mb dg">Diagnostic</span></div><div class="pb" id="techB"></div></div>
     </div>
-
-    <!-- ALIGNMENT -->
     <div class="vw" id="v-alignment">
       <div class="pn"><div class="ph"><h3>Opportunity & Gap Analysis</h3><span class="mb st">Strategic</span></div>
       <div class="pb" style="padding:32px">
-        <p style="color:var(--ts);font-size:14px;line-height:1.7;max-width:700px">
-          Use the <strong style="color:var(--teal)">Defense Analyst</strong> to explore forward-looking questions. The AI automatically adapts its analysis style to your question.
-        </p>
+        <p style="color:var(--ts);font-size:14px;line-height:1.7;max-width:700px">Use the <strong style="color:var(--tl)">Defense Analyst</strong> to explore forward-looking questions:</p>
         <div style="margin-top:20px">
           <div class="sq" onclick="askQ('What sectors can this region scale given its innovation strengths?')">What sectors can this region scale given its innovation strengths?</div>
           <div class="sq" onclick="askQ('Where are the biggest gaps between demand and local capabilities?')">Where are the biggest gaps between demand and capabilities?</div>
           <div class="sq" onclick="askQ('What unique positioning opportunities does this metro have compared to peers?')">What unique positioning opportunities exist vs. peer regions?</div>
-          <div class="sq" onclick="askQ('How well aligned are production demand and innovation supply in this region?')">How aligned are production demand and innovation supply?</div>
         </div>
       </div></div>
     </div>
-
-    <!-- ABOUT -->
     <div class="vw" id="v-about">
-      <div class="pn"><div class="ph"><h3>About</h3></div>
-      <div class="pb" style="max-width:700px;line-height:1.8;color:var(--ts);font-size:14px">
-        <p><strong style="color:var(--tp)">Defense Economy Explorer</strong> — interactive platform for analyzing U.S. regional defense ecosystems.</p>
-        <p style="margin-top:12px">The integrated <strong style="color:var(--teal)">Defense Analyst</strong> chatbot automatically adapts its reasoning:</p>
-        <p style="margin-top:8px;padding-left:16px;border-left:2px solid var(--blue)"><strong style="color:var(--blue)">Diagnostic questions</strong> ("How much does the Navy spend here?") get factual, data-grounded answers.</p>
-        <p style="margin-top:8px;padding-left:16px;border-left:2px solid var(--gold)"><strong style="color:var(--gold)">Strategic questions</strong> ("Where are the growth opportunities?") get forward-looking analysis with clear caveats.</p>
+      <div class="pn"><div class="ph"><h3>About</h3></div><div class="pb" style="max-width:700px;line-height:1.8;color:var(--ts);font-size:14px">
+        <p><strong style="color:var(--tp)">Defense Economy Explorer</strong> — interactive platform for U.S. regional defense ecosystems.</p>
+        <p style="margin-top:12px;padding-left:16px;border-left:2px solid var(--bl)"><strong style="color:var(--bl)">Diagnostic:</strong> Factual, data-driven answers.</p>
+        <p style="margin-top:8px;padding-left:16px;border-left:2px solid var(--gd)"><strong style="color:var(--gd)">Strategic:</strong> Forward-looking analysis with caveats.</p>
         <p style="margin-top:16px;font-size:12px;color:var(--tm)">Punto Data / New Localism Associates. April 2026.</p>
       </div></div>
     </div>
-
   </div>
 </div>
 </div>
 
-<!-- CHATBOT -->
+<!-- CHAT -->
 <div class="cc">
   <div class="cw" id="cw">
-    <div class="cwh">
-      <h3>🤖 Defense Analyst</h3>
-      <button class="close" onclick="toggleChat()">✕</button>
-    </div>
+    <div class="cwh"><h3>🤖 Defense Analyst</h3><button class="x" onclick="toggleChat()">✕</button></div>
     <div class="cm" id="cms">
-      <div class="msg sys">The analyst automatically adapts to your question type</div>
-      <div class="msg bot">Hi! I'm your Defense Economy analyst. Ask me anything about this region's defense ecosystem — from factual data questions to strategic analysis.<br><br>I'll automatically adapt my reasoning: data questions get precise answers, strategic questions get forward-looking analysis with appropriate caveats.</div>
+      <div class="msg sys">Adapts automatically to your question type</div>
+      <div class="msg bot">Hi! Ask me anything about this region's defense economy. I adapt automatically: data questions get precise answers, strategic questions get forward-looking analysis.</div>
     </div>
-    <div class="ci">
-      <input type="text" id="cin" placeholder="Ask about spending, sectors, opportunities..." onkeydown="if(event.key==='Enter')send()">
-      <button id="cbtn" onclick="send()">Send</button>
-    </div>
+    <div class="ci"><input type="text" id="cin" placeholder="Ask about spending, sectors, opportunities..." onkeydown="if(event.key==='Enter')send()"><button id="cbtn" onclick="send()">Send</button></div>
   </div>
-  <button class="ct" onclick="toggleChat()" title="Defense Analyst">🤖</button>
+  <button class="ct" onclick="toggleChat()">🤖</button>
 </div>
 
 <script>
-// ═══════════ CONFIG ═══════════
-// Cloudflare Worker URL — dejá vacío para respuestas locales
-// Cuando tengas el worker, poné la URL acá
-const WORKER = "";
+// ═══ CONFIG ═══
+const WORKER=""; // Cloudflare Worker URL for Claude API
+const DP="./data";
 
-const DP = "./data";
+// ═══ STATE ═══
+let totals=[],acts=[],secs=[],techs=[],types=[],assets=[];
+let metro=null,curView='overview',cOpen=false,cHist=[],mp=null,mks=[];
 
-// ═══════════ STATE ═══════════
-let D={assets:[],overview:[],activities:[],sectors:[],technology:[],org_types:[],vendors:[],zip_codes:[],chat_context:{}};
-let metro=null,view='overview',cOpen=false,cHist=[],mp=null,mks=[];
-
-// ═══════════ DATA ═══════════
-async function loadJ(f){try{const r=await fetch(`${DP}/${f}`);if(!r.ok)return null;return r.json();}catch(e){return null;}}
+// ═══ LOAD ═══
+async function loadJ(f){try{const r=await fetch(`${DP}/${f}`);if(!r.ok)return[];return r.json();}catch(e){return[];}}
 
 async function init(){
-  const fs=['assets','overview','activities','sectors','technology','org_types','vendors','zip_codes','chat_context'];
-  const rs=await Promise.all(fs.map(f=>loadJ(f+'.json')));
-  let loaded=0;
-  fs.forEach((k,i)=>{if(rs[i]){D[k]=rs[i];loaded++;}});
+  [totals,acts,secs,techs,types,assets]=await Promise.all([
+    loadJ('metrics_msa_totals.json'),
+    loadJ('metrics_msa_act_full.json'),
+    loadJ('metrics_msa_sec_full.json'),
+    loadJ('metrics_msa_tech_full.json'),
+    loadJ('metrics_msa_type.json'),
+    loadJ('assets.json'),
+  ]);
 
-  // Detectar metros de los datos cargados
-  const ms=new Set();
-  // overview usa "m" (compressed) o "msa"
-  (Array.isArray(D.overview)?D.overview:[]).forEach(r=>{if(r.m)ms.add(r.m);if(r.msa)ms.add(r.msa);});
-  (Array.isArray(D.assets)?D.assets:[]).forEach(r=>{if(r.m)ms.add(r.m);if(r.msa)ms.add(r.msa);});
-
-  const metros=[...ms].filter(Boolean).sort();
+  // Build metro list from totals (always has data)
+  const ms=[...new Set(totals.map(r=>r.metro_area_std).filter(Boolean))];
   const sel=document.getElementById('msel');
-
-  if(metros.length){
-    sel.innerHTML=metros.map(m=>`<option value="${m}">${m}</option>`).join('');
-    metro=metros[0];
+  if(ms.length){
+    // Sort by rank for a nice default order
+    const ranked=totals.filter(r=>r.rank_amt).sort((a,b)=>a.rank_amt-b.rank_amt);
+    const ordered=ranked.map(r=>r.metro_area_std);
+    sel.innerHTML=ordered.map(m=>`<option value="${m}">${m}</option>`).join('');
+    metro=ordered[0];
     renderAll();
-  } else if(loaded===0) {
-    sel.innerHTML='<option>No data — see instructions below</option>';
-    document.getElementById('errBanner').innerHTML=`
-      <div class="err-banner">
-        <strong>No data files found.</strong> The dashboard needs JSON files in a <code>data/</code> folder next to this HTML.<br><br>
-        Your GitHub repo should look like:<br>
-        <code>defense-economy-explorer/index.html</code><br>
-        <code>defense-economy-explorer/data/overview.json</code><br>
-        <code>defense-economy-explorer/data/assets.json</code><br>
-        <code>defense-economy-explorer/data/activities.json</code><br>
-        <code>defense-economy-explorer/data/sectors.json</code><br>
-        <code>defense-economy-explorer/data/technology.json</code><br>
-        <code>defense-economy-explorer/data/org_types.json</code><br>
-        <code>defense-economy-explorer/data/vendors.json</code><br>
-        <code>defense-economy-explorer/data/zip_codes.json</code><br><br>
-        Run <code>export_to_json_v2.R</code> to generate these files from your pipeline output, then upload the entire <code>data/</code> folder to your GitHub repo.
-      </div>`;
+  } else {
+    sel.innerHTML='<option>No data found in data/ folder</option>';
   }
   document.getElementById('lo').classList.add('hd');
 }
 
-// Column accessor: handles both compressed (m,n,a,o...) and full names (msa,name,activity...)
-function g(row,key){
-  const map={msa:['m','msa'],name:['n','name','facility_name'],org:['o','org_type','org_type_final'],
-    activity:['a','activity'],sector:['s','sector'],tech:['t','tech','technology','thematic_focus'],
-    lat:['la','lat','latitude'],lng:['lo','lng','longitude'],zip:['z','zip','zip_code'],
-    amount:['amt','amount','annual_amount','total_amount'],branch:['b','branch'],vendor:['v','vendor','vendor_name'],
-    n_assets:['n','n_assets','total_assets'],fmt:['fmt','total_fmt','amount_formatted','total_formatted'],
-    rank:['rank']};
-  const keys=map[key]||[key];
-  for(const k of keys){if(row[k]!==undefined&&row[k]!==null)return row[k];}
-  return null;
-}
+function byM(arr){return arr.filter(r=>r.metro_area_std===metro);}
 
-function byM(arr){if(!Array.isArray(arr))return[];return arr.filter(r=>g(r,'msa')===metro);}
-
-// ═══════════ RENDER ═══════════
+// ═══ FORMAT ═══
 const HC=['#00D4AA','#4A9CFF','#F0B74A','#E8655A','#8FA3C4'];
-function fU(x){if(!x||isNaN(x))return'—';x=Number(x);if(Math.abs(x)>=1e9)return'$'+(x/1e9).toFixed(1)+'B';if(Math.abs(x)>=1e6)return'$'+(x/1e6).toFixed(0)+'M';if(Math.abs(x)>=1e3)return'$'+(x/1e3).toFixed(0)+'K';return'$'+x;}
+function fU(x){if(!x||isNaN(x))return'—';x=Number(x);if(x>=1e9)return'$'+(x/1e9).toFixed(1)+'B';if(x>=1e6)return'$'+(x/1e6).toFixed(0)+'M';if(x>=1e3)return'$'+(x/1e3).toFixed(0)+'K';return'$'+x;}
+function fN(x){return x?Number(x).toLocaleString():'—';}
 
-function bars(id,data,lk,vk,fmt){
+// ═══ BARS ═══
+function bars(id,data,lbl,val){
   const el=document.getElementById(id);if(!el)return;
-  if(!data.length){el.innerHTML='<div class="nd">No data available.</div>';return;}
-  const mx=Math.max(...data.map(d=>{const v=g(d,vk);return v?Number(v):0;}));
-  el.innerHTML=data.slice(0,12).map((d,i)=>{
-    const label=g(d,lk)||'—';const val=Number(g(d,vk))||0;const fmtVal=g(d,'fmt')||(fmt?fmt(val):fU(val));
-    return`<div class="br"><div class="bl" title="${label}">${label}</div><div class="bt"><div class="bf c${i%4}" style="width:${mx>0?(val/mx*100):0}%"></div></div><div class="bv">${fmtVal}</div></div>`;
-  }).join('');
+  if(!data.length){el.innerHTML='<div class="nd">No data for this metro.</div>';return;}
+  const mx=Math.max(...data.map(d=>Math.abs(d[val])||0));
+  el.innerHTML=data.slice(0,15).map((d,i)=>`<div class="br"><div class="bl_l" title="${d[lbl]||''}">${d[lbl]||'—'}</div><div class="bt"><div class="bf c${i%4}" style="width:${mx>0?(Math.abs(d[val])/mx*100):0}%"></div></div><div class="bv">${fU(d[val])}</div></div>`).join('');
 }
 
-function donut(data,lk,vk){
-  const svg=document.getElementById('dSvg'),leg=document.getElementById('dLeg');
+function donut(data,lbl,val){
+  const svg=document.getElementById('dS'),leg=document.getElementById('dL');
   if(!data.length){svg.innerHTML='';leg.innerHTML='';return;}
-  const total=data.reduce((s,d)=>s+(Number(g(d,vk))||0),0);
+  const total=data.reduce((s,d)=>s+(Number(d[val])||0),0);
   const cx=70,cy=70,r=52,ir=34;let cum=-90,paths='';
   data.slice(0,6).forEach((d,i)=>{
-    const val=Number(g(d,vk))||0;const ang=(total>0?val/total:0)*360;
+    const v=Number(d[val])||0;const ang=(total>0?v/total:0)*360;
     const s=cum*Math.PI/180,e=(cum+ang)*Math.PI/180,la=ang>180?1:0;
     paths+=`<path d="M${cx+r*Math.cos(s)},${cy+r*Math.sin(s)} A${r},${r} 0 ${la} 1 ${cx+r*Math.cos(e)},${cy+r*Math.sin(e)} L${cx+ir*Math.cos(e)},${cy+ir*Math.sin(e)} A${ir},${ir} 0 ${la} 0 ${cx+ir*Math.cos(s)},${cy+ir*Math.sin(s)} Z" fill="${HC[i%HC.length]}" opacity=".85"/>`;
     cum+=ang;
   });
   svg.innerHTML=paths;
-  leg.innerHTML=data.slice(0,6).map((d,i)=>`<div class="di"><div class="dd" style="background:${HC[i%HC.length]}"></div>${g(d,lk)||'—'} — ${g(d,'n_assets')||g(d,'n')||''}</div>`).join('');
+  leg.innerHTML=data.slice(0,6).map((d,i)=>`<div class="di"><div class="dd" style="background:${HC[i%HC.length]}"></div>${d[lbl]||'—'} — ${fN(d[val])}</div>`).join('');
 }
 
+// ═══ RENDER ═══
 function renderAll(){
-  const ov=byM(D.overview)[0];
+  const ov=totals.find(r=>r.metro_area_std===metro);
   if(ov){
-    document.getElementById('s1').textContent=g(ov,'fmt')||fU(g(ov,'amount'));
-    document.getElementById('s3').textContent=(g(ov,'n_assets')||0).toLocaleString();
-    document.getElementById('s4').textContent=g(ov,'rank')?'#'+g(ov,'rank'):'—';
-    // DoD approximation (if available)
-    document.getElementById('s2').textContent=g(ov,'fmt')||fU(g(ov,'amount'));
+    document.getElementById('s1').textContent=fU(ov.amt_total);
+    document.getElementById('s2').textContent=fN(ov.assets_total_excl_adhoc||ov.assets_total);
+    document.getElementById('s3').textContent=ov.rank_amt?'#'+ov.rank_amt:'—';
+    document.getElementById('s4').textContent=ov.rank_assets?'#'+ov.rank_assets:'—';
   }
 
-  const acts=byM(D.activities).sort((a,b)=>(Number(g(b,'amount'))||0)-(Number(g(a,'amount'))||0));
-  bars('actB',acts,'activity','amount');
-  bars('aB',acts,'activity','amount');
+  // Activities
+  const mActs=byM(acts).sort((a,b)=>(b.amt_alloc||0)-(a.amt_alloc||0));
+  bars('actB',mActs,'cat','amt_alloc');
+  bars('actB2',mActs,'cat','amt_alloc');
 
-  const orgs=byM(D.org_types).sort((a,b)=>(Number(g(b,'n_assets'))||0)-(Number(g(a,'n_assets'))||0));
-  donut(orgs,'org','n_assets');
-  bars('oB',orgs,'org','n_assets',x=>x);
+  // Org types
+  const mTypes=byM(types).sort((a,b)=>(b.assets_int||0)-(a.assets_int||0));
+  donut(mTypes,'cat','assets_int');
 
-  // Vendors
-  const vends=byM(D.vendors).sort((a,b)=>(Number(g(b,'amount'))||0)-(Number(g(a,'amount'))||0));
-  document.querySelector('#vT tbody').innerHTML=vends.slice(0,10).map((v,i)=>
-    `<tr><td><span class="rb ${i<3?'r'+(i+1):'ro'}">${i+1}</span></td><td style="color:var(--tp);font-weight:500">${g(v,'vendor')||'—'}</td><td>${g(v,'sector')||'—'}</td><td class="nm">${g(v,'fmt')||fU(g(v,'amount'))}</td></tr>`
-  ).join('')||'<tr><td colspan="4" class="nd">No vendor data.</td></tr>';
+  // Sectors
+  const mSecs=byM(secs).sort((a,b)=>(b.amt_alloc||0)-(a.amt_alloc||0));
+  bars('secB',mSecs,'cat','amt_alloc');
 
-  bars('zB',byM(D.zip_codes).sort((a,b)=>(Number(g(b,'amount'))||0)-(Number(g(a,'amount'))||0)),'zip','amount');
-  bars('sB',byM(D.sectors).sort((a,b)=>(Number(g(b,'amount'))||0)-(Number(g(a,'amount'))||0)),'sector','amount');
-  bars('tB',byM(D.technology).sort((a,b)=>(Number(g(b,'amount'))||0)-(Number(g(a,'amount'))||0)),'tech','amount');
+  // Tech
+  const mTechs=byM(techs).sort((a,b)=>(b.amt_alloc||0)-(a.amt_alloc||0));
+  bars('techB',mTechs,'cat','amt_alloc');
 
   // Rankings
-  const ranked=D.overview.length?[...D.overview]:[];
-  ranked.sort((a,b)=>(Number(g(b,'amount'))||0)-(Number(g(a,'amount'))||0));
-  document.querySelector('#rT tbody').innerHTML=ranked.slice(0,20).map((r,i)=>{
-    const local=g(r,'msa')===metro;
-    return`<tr style="${local?'background:rgba(0,212,170,.06)':''}"><td><span class="rb ${i<3?'r'+(i+1):'ro'}">${i+1}</span></td><td style="color:var(--tp);font-weight:${local?700:400}">${g(r,'msa')||''}</td><td class="nm">${g(r,'fmt')||fU(g(r,'amount'))}</td><td class="nm">${(g(r,'n_assets')||0).toLocaleString()}</td></tr>`;
+  const ranked=[...totals].sort((a,b)=>(b.amt_total||0)-(a.amt_total||0));
+  document.querySelector('#rT tbody').innerHTML=ranked.slice(0,30).map((r,i)=>{
+    const local=r.metro_area_std===metro;
+    return`<tr style="${local?'background:rgba(0,212,170,.06)':''}"><td><span class="rb ${i<3?'r'+(i+1):'ro'}">${i+1}</span></td><td style="color:var(--tp);font-weight:${local?700:400}">${r.metro_area_std}</td><td class="nm">${fU(r.amt_total)}</td><td class="nm">${fN(r.assets_total_excl_adhoc||r.assets_total)}</td><td class="nm">${fN(r.pop_2024)}</td></tr>`;
   }).join('');
 
   updTitle();
 }
 
-// ═══════════ MAP ═══════════
-const TC={Innovation:'#00D4AA',Production:'#4A9CFF','Logistics & Sustainment':'#F0B74A','Logistics':'#F0B74A',Services:'#E8655A',Construction:'#8FA3C4'};
-
+// ═══ MAP ═══
 function initMap(){
-  const ma=byM(D.assets).filter(a=>g(a,'lat')&&g(a,'lng'));
-  if(!ma.length){document.getElementById('mF').innerHTML='<div class="nd">No geocoded assets for this metro.</div>';return;}
+  const ma=byM(assets).filter(a=>a.la&&a.lo);
+  if(!ma.length){document.getElementById('mF').innerHTML='<div class="nd">Asset map data not yet available. Run the updated R export script with corrected column names to generate geocoded assets.</div>';return;}
   if(mp)mp.remove();
-  mp=L.map('map').setView([g(ma[0],'lat'),g(ma[0],'lng')],10);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{attribution:'&copy; CARTO',maxZoom:18}).addTo(mp);
-
-  const acts=[...new Set(ma.map(a=>g(a,'activity')).filter(Boolean))];
-  document.getElementById('mF').innerHTML='<span class="ch act" data-f="all">All</span>'+acts.map(a=>`<span class="ch" data-f="${a}">${a}</span>`).join('');
-  document.querySelectorAll('[data-f]').forEach(c=>{c.addEventListener('click',()=>{document.querySelectorAll('[data-f]').forEach(x=>x.classList.remove('act'));c.classList.add('act');addMk(c.dataset.f);});});
-  addMk('all');
-  const bounds=ma.map(a=>[g(a,'lat'),g(a,'lng')]);
-  if(bounds.length>1)mp.fitBounds(bounds,{padding:[30,30]});
-}
-
-function addMk(f){
-  mks.forEach(m=>mp.removeLayer(m));mks=[];
-  byM(D.assets).forEach(a=>{
-    const lat=g(a,'lat'),lng=g(a,'lng'),act=g(a,'activity');
-    if(!lat||!lng)return;if(f!=='all'&&act!==f)return;
-    const c=TC[act]||'#8FA3C4';
-    const m=L.circleMarker([lat,lng],{radius:6,fillColor:c,fillOpacity:.8,color:'#fff',weight:1}).addTo(mp);
-    m.bindPopup(`<strong>${g(a,'name')||'Asset'}</strong><br><span style="color:${c}">${act||''}</span> · ${g(a,'org')||''}`);
-    mks.push(m);
+  mp=L.map('map').setView([ma[0].la,ma[0].lo],10);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{maxZoom:18}).addTo(mp);
+  const TC={Innovation:'#00D4AA',Production:'#4A9CFF','Logistics & Sustainment':'#F0B74A',Services:'#E8655A'};
+  ma.forEach(a=>{
+    const c=TC[a.a]||'#8FA3C4';
+    L.circleMarker([a.la,a.lo],{radius:6,fillColor:c,fillOpacity:.8,color:'#fff',weight:1}).addTo(mp).bindPopup(`<strong>${a.n||''}</strong><br><span style="color:${c}">${a.a||''}</span> · ${a.o||''}`);
   });
+  if(ma.length>1)mp.fitBounds(ma.map(a=>[a.la,a.lo]),{padding:[30,30]});
 }
 
-// ═══════════ NAV ═══════════
+// ═══ NAV ═══
 function updTitle(){
-  const l=document.querySelector('.ni.act')?.textContent?.trim()||'';
-  document.getElementById('ttl').textContent=l+(metro?' — '+metro:'');
+  const l=document.querySelector('.ni.on')?.textContent?.trim()||'';
+  document.getElementById('ttl').textContent=l+(metro?' — '+metro.split(',')[0]:'');
 }
 document.querySelectorAll('.ni').forEach(item=>{item.addEventListener('click',()=>{
-  const v=item.dataset.v;
-  document.querySelectorAll('.ni').forEach(n=>n.classList.remove('act'));item.classList.add('act');
-  document.querySelectorAll('.vw').forEach(x=>x.classList.remove('act'));
-  document.getElementById('v-'+v).classList.add('act');view=v;updTitle();
-  if(v==='map')setTimeout(initMap,100);
+  const v=item.dataset.v;document.querySelectorAll('.ni').forEach(n=>n.classList.remove('on'));item.classList.add('on');
+  document.querySelectorAll('.vw').forEach(x=>x.classList.remove('on'));document.getElementById('v-'+v).classList.add('on');
+  curView=v;updTitle();if(v==='map')setTimeout(initMap,100);
 });});
-document.getElementById('msel').addEventListener('change',e=>{metro=e.target.value;renderAll();if(view==='map')initMap();});
+document.getElementById('msel').addEventListener('change',e=>{metro=e.target.value;renderAll();if(curView==='map')initMap();});
 
-// ═══════════ CHATBOT ═══════════
+// ═══ CHAT ═══
 function buildSys(){
-  let ctx='';
-  if(D.chat_context&&D.chat_context[metro]){
-    ctx=JSON.stringify(D.chat_context[metro],null,2);
-  } else {
-    const ov=byM(D.overview)[0];
-    const a=byM(D.activities);
-    const s=byM(D.sectors).slice(0,10);
-    const t=byM(D.technology).slice(0,10);
-    ctx=JSON.stringify({overview:ov,activities:a,sectors:s,tech:t},null,2);
-  }
-
-  return `You are the "Defense Analyst," an AI assistant embedded in a defense economy dashboard for analyzing U.S. regional defense ecosystems.
-
-CURRENT METRO: ${metro}
-
-YOUR CORE TASK: Automatically detect what type of analysis the user needs based on their question, and respond accordingly:
-
-DIAGNOSTIC QUESTIONS (factual, descriptive — "what is"):
-These ask about current data: spending amounts, asset counts, rankings, sector breakdowns, who the top vendors are, etc.
-→ Answer ONLY from the data below. Cite specific numbers. If the data doesn't have the answer, say so.
-→ Use precise, factual language. No speculation.
-Examples: "How much does the Navy spend here?", "How many assets are there?", "What are the top sectors?", "What's the national ranking?"
-
-STRATEGIC QUESTIONS (forward-looking, interpretive — "what could be"):
-These ask about opportunities, gaps, alignment, positioning, strategy, implications, or comparisons with a forward-looking intent.
-→ Use data as a foundation but draw interpretive insights about opportunities, gaps, and alignment.
-→ ALWAYS clearly distinguish data facts from your interpretation. Use phrases like: "the data suggests," "this pattern could indicate," "one interpretation is."
-→ End with a brief note that strategic analysis benefits from qualitative validation.
-Examples: "Where can the region scale?", "What gaps exist?", "How should the region position itself?", "What opportunities emerge?"
-
-GENERAL RULES (always apply):
-- Be concise and professional. Audience: economic development professionals, defense stakeholders.
-- Never make policy recommendations or political statements.
-- Compare metros objectively without value judgments.
-- Acknowledge data limitations when relevant (not all assets have allocation data; tech classification is based on contract descriptions).
-- Respond in the same language the user writes in (English or Spanish).
-- Format with **bold** for key numbers and names. Use short paragraphs.
-
-DATA FOR ${metro}:
-${ctx}`;
+  const ov=totals.find(r=>r.metro_area_std===metro);
+  const mActs=byM(acts).sort((a,b)=>(b.amt_alloc||0)-(a.amt_alloc||0)).slice(0,7).map(a=>a.cat+': '+fU(a.amt_alloc)+' ('+a.assets_int+' assets)').join('; ');
+  const mSecs=byM(secs).sort((a,b)=>(b.amt_alloc||0)-(a.amt_alloc||0)).slice(0,10).map(s=>s.cat+': '+fU(s.amt_alloc)).join('; ');
+  const mTechs=byM(techs).sort((a,b)=>(b.amt_alloc||0)-(a.amt_alloc||0)).slice(0,10).map(t=>t.cat+': '+fU(t.amt_alloc)).join('; ');
+  return`You are the "Defense Analyst," an AI for analyzing U.S. regional defense economies.
+METRO: ${metro}
+Auto-detect analysis type from the question:
+- DIAGNOSTIC (factual): cite numbers from data, no speculation, say "data not available" if missing
+- STRATEGIC (forward-looking): use data patterns to identify opportunities/gaps, clearly mark interpretations, add caveat about qualitative validation
+Rules: concise, professional, no policy recommendations, objective comparisons, respond in user's language.
+DATA: Total allocations: ${fU(ov?.amt_total)}. Assets: ${ov?.assets_total_excl_adhoc||ov?.assets_total}. Rank by amount: #${ov?.rank_amt}. Rank by assets: #${ov?.rank_assets}. Population: ${fN(ov?.pop_2024)}.
+Activities: ${mActs}
+Sectors: ${mSecs}
+Technology: ${mTechs}`;
 }
 
 function toggleChat(){cOpen=!cOpen;document.getElementById('cw').classList.toggle('op',cOpen);}
-
 async function send(){
   const inp=document.getElementById('cin'),txt=inp.value.trim();if(!txt)return;
   const ms=document.getElementById('cms');
   ms.innerHTML+=`<div class="msg usr">${esc(txt)}</div>`;inp.value='';
-  ms.innerHTML+=`<div class="msg bot typ" id="typ">Analyzing...</div>`;
-  ms.scrollTop=ms.scrollHeight;
+  ms.innerHTML+=`<div class="msg bot typ" id="typ">Analyzing...</div>`;ms.scrollTop=ms.scrollHeight;
   document.getElementById('cbtn').disabled=true;
   cHist.push({role:"user",content:txt});
-
   let reply=null;
-  if(WORKER){
-    try{
-      const res=await fetch(WORKER,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({system:buildSys(),messages:cHist.slice(-10)})});
-      const data=await res.json();
-      if(data.content?.length)reply=data.content.map(c=>c.text||'').join('\n');
-      if(data.error)console.error('API error:',data.error);
-    }catch(e){console.error('Fetch error:',e);}
-  }
+  if(WORKER){try{const r=await fetch(WORKER,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({system:buildSys(),messages:cHist.slice(-10)})});const d=await r.json();if(d.content?.length)reply=d.content.map(c=>c.text||'').join('\n');}catch(e){console.error(e);}}
   if(!reply)reply=localR(txt);
-
   document.getElementById('typ')?.remove();
   ms.innerHTML+=`<div class="msg bot">${fmtB(reply)}</div>`;
   cHist.push({role:"assistant",content:reply});
-  document.getElementById('cbtn').disabled=false;
-  ms.scrollTop=ms.scrollHeight;
+  document.getElementById('cbtn').disabled=false;ms.scrollTop=ms.scrollHeight;
 }
-
 function localR(q){
-  const ql=q.toLowerCase(),ov=byM(D.overview)[0];
-  if(!ov)return'No data loaded for this metro yet. Make sure the JSON files are in the data/ folder.';
-  if(ql.includes('spend')||ql.includes('gasto')||ql.includes('federal')||ql.includes('dollar')||ql.includes('budget'))
-    return`**${metro}** has total allocations of **${g(ov,'fmt')||fU(g(ov,'amount'))}** annually, with **${(g(ov,'n_assets')||0).toLocaleString()}** mapped defense assets, ranking **#${g(ov,'rank')}** nationally.`;
+  const ov=totals.find(r=>r.metro_area_std===metro);
+  if(!ov)return'No data for this metro.';
+  const ql=q.toLowerCase();
+  if(ql.includes('spend')||ql.includes('gasto')||ql.includes('alloc')||ql.includes('dollar'))
+    return`**${metro.split(',')[0]}** has total allocations of **${fU(ov.amt_total)}** annually, with **${fN(ov.assets_total_excl_adhoc)}** defense assets, ranking **#${ov.rank_amt}** nationally by amount and **#${ov.rank_assets}** by asset count.`;
   if(ql.includes('asset')||ql.includes('cuantos')||ql.includes('how many'))
-    return`We mapped **${(g(ov,'n_assets')||0).toLocaleString()}** defense assets in **${metro}**.`;
+    return`**${fN(ov.assets_total_excl_adhoc)}** defense assets mapped in **${metro.split(',')[0]}**.`;
   if(ql.includes('rank'))
-    return`**${metro}** ranks **#${g(ov,'rank')}** nationally by total defense allocations.`;
-  if(ql.includes('opportunit')||ql.includes('gap')||ql.includes('scale')||ql.includes('strateg')||ql.includes('oportunidad'))
-    return`For strategic analysis, connect the AI backend (Cloudflare Worker). The local fallback only handles factual queries.\n\n_To set this up, deploy the cloudflare-worker.js and add your Claude API key. Then put the worker URL in the WORKER variable at the top of index.html._`;
-  return`I can answer factual questions about **${metro}**: spending, assets, rankings, sectors, technology areas.\n\nFor full AI analysis (including strategic questions), configure the Cloudflare Worker with your Claude API key.`;
+    return`**${metro.split(',')[0]}** ranks **#${ov.rank_amt}** nationally by allocations and **#${ov.rank_assets}** by asset count.`;
+  const mActs=byM(acts).sort((a,b)=>(b.amt_alloc||0)-(a.amt_alloc||0)).slice(0,5);
+  if(ql.includes('sector')||ql.includes('activit'))
+    return`Top activities in **${metro.split(',')[0]}**:\n${mActs.map(a=>'- **'+a.cat+'**: '+fU(a.amt_alloc)+' ('+a.assets_int+' assets)').join('\n')}`;
+  return`I can answer about **${metro.split(',')[0]}**: spending (**${fU(ov.amt_total)}**), assets (**${fN(ov.assets_total_excl_adhoc)}**), rankings (**#${ov.rank_amt}**), sectors, technology.\n\n_For full AI analysis, configure the Cloudflare Worker._`;
 }
-
 function askQ(q){if(!cOpen)toggleChat();document.getElementById('cin').value=q;send();}
 function esc(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
 function fmtB(s){return s.replace(/\*\*(.*?)\*\*/g,'<strong>$1</strong>').replace(/\n\n/g,'<br><br>').replace(/\n- /g,'<br>• ').replace(/\n/g,'<br>').replace(/_(.*?)_/g,'<em>$1</em>');}
 
-// ═══════════ INIT ═══════════
 init();
 </script>
 </body>
