@@ -1,0 +1,387 @@
+[
+  {
+    "msa": null,
+    "activity": "Construction",
+    "n_assets": 3449,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Logistics & Sustainment",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Logistics & Sustainment;Production;Services",
+    "n_assets": 11,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Logistics & Sustainment;Production;Services;Workforce training",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Logistics & Sustainment;Services",
+    "n_assets": 31,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Logistics & Sustainment;Services;Workforce training",
+    "n_assets": 7,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Logistics & Sustainment;Workforce training",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Production",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Production;Services",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Services",
+    "n_assets": 13,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Innovation;Services;Workforce training",
+    "n_assets": 2,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Logistics & Sustainment",
+    "n_assets": 1340,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Logistics & Sustainment;Production",
+    "n_assets": 36,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Logistics & Sustainment;Production;Services",
+    "n_assets": 34,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Logistics & Sustainment;Production;Services;Workforce training",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Logistics & Sustainment;Services",
+    "n_assets": 395,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Logistics & Sustainment;Services;Workforce training",
+    "n_assets": 37,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Logistics & Sustainment;Workforce training",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Production",
+    "n_assets": 25,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Production;Services",
+    "n_assets": 5,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Production;Services;Workforce training",
+    "n_assets": 1,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Services",
+    "n_assets": 289,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Services;Workforce training",
+    "n_assets": 8,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Construction;Workforce training",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation",
+    "n_assets": 1834,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation Intermediaries",
+    "n_assets": 104,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Logistics & Sustainment",
+    "n_assets": 118,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Logistics & Sustainment;Production",
+    "n_assets": 30,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Logistics & Sustainment;Production;Services",
+    "n_assets": 287,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Logistics & Sustainment;Production;Services;Workforce training",
+    "n_assets": 53,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Logistics & Sustainment;Services",
+    "n_assets": 704,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Logistics & Sustainment;Services;Workforce training",
+    "n_assets": 115,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Logistics & Sustainment;Workforce training",
+    "n_assets": 4,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Production",
+    "n_assets": 55,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Production;Services",
+    "n_assets": 318,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Production;Services;Workforce training",
+    "n_assets": 6,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Services",
+    "n_assets": 3679,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Services;Workforce training",
+    "n_assets": 189,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Innovation;Workforce training",
+    "n_assets": 85,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Logistics & Sustainment",
+    "n_assets": 19628,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Logistics & Sustainment;Production",
+    "n_assets": 2000,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Logistics & Sustainment;Production;Services",
+    "n_assets": 440,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Logistics & Sustainment;Production;Services;Workforce training",
+    "n_assets": 39,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Logistics & Sustainment;Production;Workforce training",
+    "n_assets": 26,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Logistics & Sustainment;Services",
+    "n_assets": 3281,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Logistics & Sustainment;Services;Workforce training",
+    "n_assets": 291,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Logistics & Sustainment;Workforce training",
+    "n_assets": 140,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Production",
+    "n_assets": 6280,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Production;Services",
+    "n_assets": 406,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Production;Services;Workforce training",
+    "n_assets": 24,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Production;Workforce training",
+    "n_assets": 27,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Services",
+    "n_assets": 26399,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Services;Workforce training",
+    "n_assets": 491,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  },
+  {
+    "msa": null,
+    "activity": "Workforce training",
+    "n_assets": 1191,
+    "amount": 0,
+    "amount_formatted": "$0K"
+  }
+]
